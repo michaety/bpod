@@ -215,6 +215,62 @@ body.nosb #sidebar { display: none; }
 .idx-term .pgs a { color: var(--accent); text-decoration: none; margin-right: 5px; }
 .idx-term .pgs a:hover { text-decoration: underline; }
 
+/* cover */
+.cover {
+  position: relative;
+  background: #fdfdfb;
+  box-shadow: 0 3px 14px rgba(0,0,0,.25);
+  margin: 0 auto 30px;
+  aspect-ratio: 3 / 4;
+  display: flex;
+  padding: 7% 6% 7% 0;
+  gap: 4%;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.cvleft { width: 30%; display: flex; flex-direction: column; gap: 2.5%; }
+.cvrow { flex: 1; display: flex; }
+.cvred { width: 46%; background: #e23b28; }
+.cvc { width: 54%; }
+.cvright { flex: 1; display: flex; flex-direction: column; }
+.cvhead {
+  border-top: 3px solid var(--ink);
+  padding-top: .5em;
+  font-weight: 700;
+  font-size: clamp(9px, 1.5vw, 15px);
+  line-height: 1.35;
+}
+.cvtitle {
+  font-size: clamp(20px, 5.2vw, 46px);
+  line-height: 1.04;
+  letter-spacing: -.015em;
+  margin: .25em 0 .35em;
+  border-bottom: 3px solid var(--ink);
+  padding-bottom: .28em;
+}
+.cvauthor {
+  font-weight: 700;
+  font-size: clamp(13px, 2.6vw, 24px);
+  border-bottom: 3px solid var(--ink);
+  padding-bottom: .35em;
+}
+.cvlist { margin-top: auto; width: 82%; }
+.cvbook { display: flex; gap: 6%; }
+.cvbklabel { flex: 0 0 15%; text-align: right; cursor: pointer; line-height: 1; padding-top: 2px; }
+.cvbklabel span { display: block; font-size: clamp(7px, 1vw, 10px); }
+.cvbklabel b { font-size: clamp(13px, 2.2vw, 22px); }
+.cvbklabel:hover b { color: var(--accent); }
+.cvsubjects { flex: 1; display: flex; flex-direction: column; }
+.cvsubjects a {
+  border-top: 1px solid var(--ink);
+  font-size: clamp(8px, 1.25vw, 12px);
+  padding: 2px 0 3px;
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+.cvbook:last-child .cvsubjects a:last-child { border-bottom: 1px solid var(--ink); }
+.cvsubjects a:hover { color: var(--accent); }
+
 /* pages */
 .pages { flex: 1; min-width: 0; max-width: 1000px; margin: 0 auto; padding: 24px 12px 80px; }
 .page {

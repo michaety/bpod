@@ -159,6 +159,36 @@ function gotoPage(n) {
   if (el) el.scrollIntoView({ behavior: "smooth" });
 }
 
+/* HTML recreation of the combined-edition cover, with a clickable book map */
+function renderCover(book) {
+  const div = document.createElement("div");
+  div.className = "cover";
+  const colors = ["#333a8f", "#f59e2c", "#4d84c4", "#77713f"];
+  const blocks = colors.map(c =>
+    `<div class="cvrow"><div class="cvred"></div><div class="cvc" style="background:${c}"></div></div>`).join("");
+  let list = "";
+  for (const b of Object.keys(book.offsets)) {
+    const subj = book.sections.filter(s => s.b == b && s.level === 1 && s.vpage >= 13);
+    list += `<div class="cvbook">
+      <div class="cvbklabel" data-p="${subj[0] ? subj[0].gpage : book.offsets[b] + 1}"><span>Book</span><b>${b}</b></div>
+      <div class="cvsubjects">${subj.map(s => `<a data-p="${s.gpage}">${esc(s.title)}</a>`).join("")}</div>
+    </div>`;
+  }
+  div.innerHTML = `
+    <div class="cvleft">${blocks}</div>
+    <div class="cvright">
+      <div class="cvhead">The Foundation Program at the School of Design<br>Basel, Switzerland</div>
+      <h2 class="cvtitle">Basic Principles<br>of Design</h2>
+      <div class="cvauthor">Manfred Maier</div>
+      <div class="cvlist">${list}</div>
+    </div>`;
+  div.addEventListener("click", e => {
+    const t = e.target.closest("[data-p]");
+    if (t) gotoPage(t.dataset.p);
+  });
+  return div;
+}
+
 async function initBook() {
   const params = new URLSearchParams(location.search);
   const q = params.get("q") || "";
@@ -172,6 +202,7 @@ async function initBook() {
   document.title = "Basic Principles of Design — Complete";
 
   const main = document.getElementById("pages");
+  main.appendChild(renderCover(book));
   for (const p of book.pages) {
     main.appendChild(renderPage(p, q, book.linkMap));
     const no = document.createElement("div");
