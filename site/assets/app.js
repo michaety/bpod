@@ -296,7 +296,20 @@ async function initBook() {
 
   const main = document.getElementById("pages");
   main.appendChild(renderCover(book));
+  const spacer = () => {
+    const s = document.createElement("div");
+    s.className = "pagespacer";
+    return s;
+  };
+  let prevVol = null;
   for (const p of book.pages) {
+    // page 1 of each volume is a recto, so it faces a blank: pad the volume at
+    // both ends and every spread falls as the printed book does (…12|13…)
+    if (p.b !== prevVol) {
+      if (prevVol !== null) main.appendChild(spacer());
+      main.appendChild(spacer());
+      prevVol = p.b;
+    }
     const rec = recs[`${p.b}:${p.n}`];
     if (rec) {
       // recreated transcription is cleaner than OCR: let it drive search too
@@ -452,15 +465,37 @@ async function initBook() {
     }
   }, { passive: true });
 
+  /* ---- view mode: continuous scroll, one page, or two-page spread ---- */
+  let mode = localStorage.getItem("bpod-view") || "scroll";
+  function setMode(m) {
+    mode = m;
+    document.body.classList.remove("view-scroll", "view-page", "view-spread");
+    document.body.classList.add(`view-${m}`);
+    document.querySelectorAll("#viewmode button").forEach(b =>
+      b.classList.toggle("active", b.dataset.v === m));
+    try { localStorage.setItem("bpod-view", m); } catch (e) { /* private mode */ }
+    // page geometry changed, so re-fit every kind of text layer
+    requestAnimationFrame(() => {
+      applyFontSizes();
+      document.querySelectorAll(".rpage").forEach(fitPageText);
+      const el = document.getElementById(`page-${curPage}`);
+      if (el) el.scrollIntoView({ block: "center" });
+    });
+  }
+  document.querySelectorAll("#viewmode button").forEach(b =>
+    b.addEventListener("click", () => setMode(b.dataset.v)));
+  setMode(mode);
+
   /* ---- keyboard paging ---- */
   document.addEventListener("keydown", e => {
     if (e.target.tagName === "INPUT") return;
+    const step = mode === "spread" ? 2 : 1;
     if (e.key === "ArrowRight" || e.key === "PageDown") {
       e.preventDefault();
-      gotoPage(Math.min(curPage + 1, book.total));
+      gotoPage(Math.min(curPage + step, book.total));
     } else if (e.key === "ArrowLeft" || e.key === "PageUp") {
       e.preventDefault();
-      gotoPage(Math.max(curPage - 1, 1));
+      gotoPage(Math.max(curPage - step, 1));
     }
   });
 

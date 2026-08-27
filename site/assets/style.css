@@ -296,6 +296,46 @@ body.nosb #sidebar { display: none; }
 
 /* pages */
 .pages { flex: 1; min-width: 0; max-width: 1000px; margin: 0 auto; padding: 24px 12px 80px; }
+
+/* view modes */
+.viewmode { display: flex; }
+.viewmode button { border-radius: 0; margin-left: -1px; }
+.viewmode button:first-child { border-radius: 4px 0 0 4px; margin-left: 0; }
+.viewmode button:last-child { border-radius: 0 4px 4px 0; }
+
+.pagespacer { display: none; }
+
+body.view-page .pages,
+body.view-spread .pages {
+  max-width: none;
+  padding: 14px 14px 40px;
+  display: grid;
+  justify-items: center;
+  align-items: start;
+  gap: 16px;
+}
+body.view-page .pages { grid-template-columns: minmax(0, 1fr); }
+body.view-spread .pages { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px 6px; }
+body.view-spread .pagespacer { display: block; }
+
+/* fit whole pages to the window instead of the column width */
+body.view-page .page, body.view-spread .page {
+  height: calc(100vh - 96px);
+  width: auto;
+  max-width: 100%;
+  margin: 0;
+  scroll-margin-top: 70px;
+}
+body.view-page .cover, body.view-spread .cover {
+  height: calc(100vh - 96px);
+  width: auto;
+  margin: 0;
+}
+body.view-spread .cover { grid-column: 1 / -1; }
+body.view-page .pageno, body.view-spread .pageno { display: none; }
+/* facing pages meet at the gutter */
+body.view-spread .page:nth-child(odd) { justify-self: end; }
+body.view-spread .page:nth-child(even) { justify-self: start; }
 .page {
   position: relative;
   background: var(--paper);

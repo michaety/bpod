@@ -15,6 +15,11 @@
   <div class="controls">
     <input id="q" type="search" placeholder="Search this volume…">
     <label class="pagejump">Page <input id="pagenum" type="number" min="1" value="1"></label>
+    <div id="viewmode" class="viewmode">
+      <button data-v="scroll" title="Continuous scroll">Scroll</button>
+      <button data-v="page" title="One page at a time">Page</button>
+      <button data-v="spread" title="Two-page spread">Spread</button>
+    </div>
   </div>
 </header>
 <div id="results" class="results floatpanel"></div>
