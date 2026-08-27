@@ -221,14 +221,19 @@ body.nosb #sidebar { display: none; }
 .rpage .rt {
   position: absolute;
   color: var(--ink);
-  line-height: 1.42;
+  line-height: 1.33;
+  letter-spacing: -.004em;
   white-space: pre-wrap;
 }
-.rpage .rt-caption { font-style: italic; line-height: 1.34; }
-.rpage .rt-heading { font-weight: 700; }
-.rpage .rt-title { font-weight: 700; line-height: 1.06; letter-spacing: -.01em; }
-.rpage .rt-folio { color: #555; }
-.rpage .rt-label { color: #333; }
+/* the book sets its body copy in a heavy Helvetica */
+.rpage .rt-body { font-weight: 700; }
+.rpage .rt-caption { font-style: italic; font-weight: 400; }
+.rpage .rt-heading, .rpage .rt-label { font-weight: 700; }
+.rpage .rt-title { font-weight: 700; line-height: 1.06; letter-spacing: -.015em; }
+.rpage .rt-folio { color: #444; font-weight: 400; }
+/* a printed column runs continuously; new paragraphs are marked by an indent */
+.rpage .rt .para { display: block; }
+.rpage .rt .para.ind { text-indent: 1.7em; }
 .rpage .rt.hl { background: #ffe27a; border-radius: 2px; }
 .rpage a.rlnk { color: var(--accent); text-decoration: none; cursor: pointer; }
 .rpage a.rlnk:hover { text-decoration: underline; }
