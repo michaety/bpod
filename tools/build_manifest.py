@@ -16,17 +16,18 @@ for f in sorted(os.listdir(REC)):
     try:
         with open(os.path.join(REC, f), encoding="utf-8") as fh:
             rec = json.load(fh)
-        if not rec.get("el"):
-            bad.append(f"{f}: no elements")
-            continue
-        arts = sum(1 for e in rec["el"] if e.get("k") == "art")
-        txts = sum(1 for e in rec["el"] if e.get("k") == "txt")
-        for e in rec["el"]:
+        el = rec.get("el", [])
+        arts = sum(1 for e in el if e.get("k") == "art")
+        txts = sum(1 for e in el if e.get("k") == "txt")
+        if not el:
+            print(f"{f}: blank page")
+        for e in el:
             for k in ("x", "y"):
                 if not isinstance(e.get(k), (int, float)) or not (-5 <= e[k] <= 105):
                     bad.append(f"{f}: bad {k}={e.get(k)}")
         keys.append(f"{b}:{n}")
-        print(f"{f}: {arts} art, {txts} text")
+        if el:
+            print(f"{f}: {arts} art, {txts} text")
     except Exception as exc:
         bad.append(f"{f}: {exc}")
 

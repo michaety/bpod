@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Recreation QA</title>
+<link rel="stylesheet" href="assets/style.css">
+<style>
+  body { padding: 16px; }
+  .pair { display: flex; gap: 18px; margin-bottom: 28px; align-items: flex-start; }
+  .pair > div { flex: 0 0 auto; }
+  .pair .page, .pair img.ref { height: 660px; width: auto; }
+  .pair h4 { font-size: 12px; color: #555; font-weight: 400; margin: 0 0 6px; }
+  .pair .page { margin: 0; }
+  .pair img.ref { width: 100%; display: block; box-shadow: 0 3px 14px rgba(0,0,0,.25); }
+  .nav { margin-bottom: 14px; font-size: 13px; }
+  .nav a { margin-right: 8px; color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="nav" id="nav"></div>
+<div id="out"></div>
+<script src="assets/app.js"></script>
+<script>
+(async () => {
+  const params = new URLSearchParams(location.search);
+  const start = parseInt(params.get("from") || "13");
+  const count = parseInt(params.get("n") || "3");
+  const bk = await (await fetch("data/book1/pages.json")).json();
+
+  document.getElementById("nav").innerHTML =
+    [13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43]
+      .map(n => `<a href="qa.html?from=${n}&n=3">p${n}–${n + 2}</a>`).join("");
+
+  const out = document.getElementById("out");
+  for (let n = start; n < start + count && n <= 43; n++) {
+    const rec = await (await fetch(`data/recreated/v1p${n}.json`)).json().catch(() => null);
+    if (!rec) continue;
+    const p = Object.assign({}, bk.pages[n - 1], { b: 1, gn: n });
+    const pair = document.createElement("div");
+    pair.className = "pair";
+    const left = document.createElement("div");
+    left.innerHTML = `<h4>Recreated — vol 1 p${n}</h4>`;
+    left.appendChild(renderRecreated(p, rec, "", {}));
+    const right = document.createElement("div");
+    right.innerHTML = `<h4>Original scan</h4><img class="ref" src="data/book1/${p.scan}">`;
+    pair.appendChild(left);
+    pair.appendChild(right);
+    out.appendChild(pair);
+  }
+})();
+</script>
+</body>
+</html>
