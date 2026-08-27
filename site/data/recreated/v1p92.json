@@ -1,0 +1,60 @@
+{
+ "v": 1,
+ "p": 92,
+ "bg": "#f0efeb",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.11,
+   "y": 3.8,
+   "w": 57.85,
+   "h": 72.2
+  },
+  {
+   "k": "art",
+   "x": 70.05,
+   "y": 3.8,
+   "w": 26.84,
+   "h": 20.95
+  },
+  {
+   "k": "art",
+   "x": 70.05,
+   "y": 28.35,
+   "w": 26.84,
+   "h": 20.95
+  },
+  {
+   "k": "art",
+   "x": 70.05,
+   "y": 52.9,
+   "w": 26.84,
+   "h": 21.1
+  },
+  {
+   "k": "txt",
+   "x": 2.93,
+   "y": 88.41,
+   "w": 29.5,
+   "size": 1.42,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "This drawing of a garlic bulb shows carefully structured, individual cloves. The thin skin is rendered in light lines. The drawing appears strong and unified despite the insertion of detailed leaf and root forms."
+   ],
+   "h": 5.93
+  },
+  {
+   "k": "txt",
+   "x": 3.11,
+   "y": 97.3,
+   "w": 10.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "bold",
+   "text": "90"
+  }
+ ]
+}

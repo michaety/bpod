@@ -1,0 +1,60 @@
+{
+ "v": 1,
+ "p": 53,
+ "bg": "#eceae5",
+ "el": [
+  {
+   "k": "art",
+   "x": 4.73,
+   "y": 2.4,
+   "w": 90.41,
+   "h": 49.6
+  },
+  {
+   "k": "txt",
+   "x": 4.53,
+   "y": 66.44,
+   "w": 29.4,
+   "size": 1.45,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The figures shown here and on the following page are plaster models of gargoyles from the Basel Cathedral. Most of the originals are situated at great heights and cannot be drawn on location."
+   ],
+   "h": 5.82
+  },
+  {
+   "k": "art",
+   "x": 4.39,
+   "y": 75.9,
+   "w": 28.72,
+   "h": 20.6
+  },
+  {
+   "k": "art",
+   "x": 36.82,
+   "y": 75.8,
+   "w": 28.58,
+   "h": 20.45
+  },
+  {
+   "k": "art",
+   "x": 69.12,
+   "y": 75.8,
+   "w": 26.02,
+   "h": 19.15
+  },
+  {
+   "k": "txt",
+   "x": 92.5,
+   "y": 97.3,
+   "w": 3.2,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "51"
+  }
+ ]
+}

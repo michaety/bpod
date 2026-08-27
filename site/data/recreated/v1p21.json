@@ -7,8 +7,7 @@
    "k": "art",
    "x": 5.05,
    "y": 3.96,
-   "w": 92.79,
-   "h": 68.73
+   "w": 92.79
   },
   {
    "k": "txt",
@@ -18,10 +17,10 @@
    "size": 1.34,
    "style": "body",
    "align": "left",
-   "h": 12.19,
    "paras": [
     "The following six pages show the chronological stages in drawing an object. The first step is to draw light lines that serve as surface building elements. Rectangular solids are structured from the dimensional representation of the ground surface and its subdivisions; the cylinder is inserted and the drawing completed with the remaining elements. Photographs of the object in different positions are contrasted with the finished drawing."
-   ]
+   ],
+   "h": 12.19
   },
   {
    "k": "txt",
@@ -31,10 +30,10 @@
    "size": 1.38,
    "style": "caption",
    "align": "left",
-   "h": 17.21,
    "paras": [
     "The photographs on the following two pages show the students at work. Classroom facilities are exceptionally mobile. Object stands, drawing benches, and drawing boards are used for individual and group classes. The drawing board serves as a working surface. It is placed on the bench at a right angle to the direction of the eye. The position of the working surface corresponds to the picture plane and allows a better view of the work. The object is positioned on the stand, which is easily adjustable and serves to neutralize the surroundings. The students work in a free and uncramped posture at approximately arm's distance from the working surface."
-   ]
+   ],
+   "h": 17.21
   },
   {
    "k": "txt",

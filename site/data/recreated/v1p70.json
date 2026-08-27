@@ -1,0 +1,40 @@
+{
+ "v": 1,
+ "p": 70,
+ "bg": "#eae8e4",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.15,
+   "y": 3.54,
+   "w": 59.79,
+   "h": 91.6
+  },
+  {
+   "k": "txt",
+   "x": 65.97,
+   "y": 83.74,
+   "w": 30.3,
+   "size": 1.37,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The detailed study on the left creates a neutral, distant effect with a constructive, analytical interpretation. The dynamic, rhythmic drawing on the right expresses the student's impression of the object and his interpretation of its cultural function.",
+    "The photographs in the center show care figures from Korewori, New Guinea in the collection of the Ethnological Museum, Basel."
+   ],
+   "h": 12.5
+  },
+  {
+   "k": "txt",
+   "x": 2.15,
+   "y": 96.6,
+   "w": 8.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "68"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "v": 1,
+ "p": 101,
+ "bg": "#f2f1ee",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.02,
+   "y": 2.85,
+   "w": 95.63,
+   "h": 71.65
+  },
+  {
+   "k": "txt",
+   "x": 1.11,
+   "y": 84.85,
+   "w": 31.57,
+   "size": 1.45,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "This study is convincing because of its composition, free and confident style, and exciting accentuation. The details and shell of the horse chestnut are executed clearly without appearing trivial. The thorns are partially drawn, leaving the completion of the form to the imagination of the observer. Numerous creative variations are possible with such contrasts."
+   ],
+   "h": 9.99
+  },
+  {
+   "k": "txt",
+   "x": 88.0,
+   "y": 97.9,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "99"
+  }
+ ]
+}

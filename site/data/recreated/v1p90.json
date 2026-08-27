@@ -1,0 +1,74 @@
+{
+ "v": 1,
+ "p": 90,
+ "bg": "#dedcd7",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.77,
+   "y": 3.63,
+   "w": 94.47,
+   "h": 49.53
+  },
+  {
+   "k": "txt",
+   "x": 3.64,
+   "y": 54.44,
+   "w": 27.13,
+   "size": 1.37,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The alternating, interweaving leek leaves should be based on the cylindrical form of the stem. The overlapping of the leaves is defined through linear accentuations."
+   ],
+   "h": 4.74
+  },
+  {
+   "k": "txt",
+   "x": 3.64,
+   "y": 71.28,
+   "w": 27.13,
+   "size": 1.37,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Many arrangements of leeks and fennel are possible."
+   ],
+   "h": 2.19
+  },
+  {
+   "k": "art",
+   "x": 3.71,
+   "y": 74.72,
+   "w": 27.13,
+   "h": 20.42
+  },
+  {
+   "k": "art",
+   "x": 36.56,
+   "y": 74.91,
+   "w": 27.46,
+   "h": 20.62
+  },
+  {
+   "k": "art",
+   "x": 70.01,
+   "y": 75.16,
+   "w": 28.04,
+   "h": 20.81
+  },
+  {
+   "k": "txt",
+   "x": 3.64,
+   "y": 97.3,
+   "w": 10.0,
+   "size": 1.25,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "88"
+  }
+ ]
+}

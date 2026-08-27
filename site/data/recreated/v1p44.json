@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "p": 44,
+ "bg": "#d2d1cc",
+ "el": [
+  {
+   "k": "txt",
+   "x": 3.66,
+   "y": 4.05,
+   "w": 30.5,
+   "size": 1.3,
+   "style": "heading",
+   "align": "left",
+   "weight": "bold",
+   "text": "Object and Museum Drawing",
+   "link": "Object and Museum Drawing"
+  },
+  {
+   "k": "txt",
+   "x": 2.94,
+   "y": 25.72,
+   "w": 30.46,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The subject matter of this course is basically identical to that of object drawing: the one difference is that objects for pictorial translation are larger. The combination of single forms (cubes, prisms, and cylinders) produces a composition in various dimensions; views from top and bottom are combined. The dimensional foreshortening of the forms is more pronounced in the drawing; the objects, some of which are constructed from linear elements, are transparent, and the overlapping shapes are visible. Overlapping shapes of solid forms must be imagined.",
+    "In the beginning the class works from the same model situation that offers different spatial relationships according to each student's location. The entire area of the drawing paper (slightly larger than 42 × 59.4 cm) is used for each study. After the foundations of the geometrical objects have been mastered, the students draw from plaster models (capitals, pedestals, gargoyles, and consoles), most of which are derived from the Basel Cathedral (late Romanesque and Gothic styles). Exercises in museum drawing are conducted in the Melanesian and Central American rooms at the Ethnological Museum in Basel. The objects studied are cult figures, ancestral statues, masks, and impliments of wood, stone, or clay.",
+    "These figures and changing the drawing material to charcoal on toned paper – allow for an expressive, intuitive interpretation of the objects. Charcoal is soft, tonal, and easily erasable and requires a free, rhythmical drawing technique. Tones become an integral part of the drawing. In the museum the students are left to their own resources and work independently: they usually draw at an easel. The student-teacher relationship is limited to an individual consultation. The students are instructed to develop clearly the linear-spatial character of the objects."
+   ],
+   "h": 50.63
+  },
+  {
+   "k": "txt",
+   "x": 2.99,
+   "y": 95.0,
+   "w": 8,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "42"
+  }
+ ]
+}

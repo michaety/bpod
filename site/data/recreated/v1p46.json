@@ -1,0 +1,39 @@
+{
+ "v": 1,
+ "p": 46,
+ "bg": "#f1efe9",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.12,
+   "y": 3.1,
+   "w": 93.55,
+   "h": 71.4
+  },
+  {
+   "k": "txt",
+   "x": 3.39,
+   "y": 87.04,
+   "w": 30.0,
+   "size": 1.33,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "A drawing of a foreshortened cube is examined by inserting a foreshortened circle: the dimensions are correct if the longer diameter of the ellipse is horizontal, because the eye always interprets a foreshortened circle as an ellipse with a horizontal axis. The two ellipses are joined with vertical lines to form a cylinder."
+   ],
+   "h": 8.59
+  },
+  {
+   "k": "txt",
+   "x": 3.12,
+   "y": 96.6,
+   "w": 10.0,
+   "size": 1.33,
+   "style": "folio",
+   "align": "left",
+   "weight": "bold",
+   "text": "44"
+  }
+ ]
+}

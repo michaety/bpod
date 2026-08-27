@@ -1,0 +1,74 @@
+{
+ "v": 1,
+ "p": 82,
+ "bg": "#eeede9",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.45,
+   "y": 3.49,
+   "w": 27.52,
+   "h": 21.01
+  },
+  {
+   "k": "art",
+   "x": 33.18,
+   "y": 3.58,
+   "w": 63.96,
+   "h": 70.0
+  },
+  {
+   "k": "art",
+   "x": 3.45,
+   "y": 27.98,
+   "w": 27.52,
+   "h": 20.91
+  },
+  {
+   "k": "art",
+   "x": 3.45,
+   "y": 52.33,
+   "w": 27.52,
+   "h": 20.62
+  },
+  {
+   "k": "txt",
+   "x": 2.28,
+   "y": 83.51,
+   "w": 28.2,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "A branch with dried seed pods, photographed from different tabletop positions, was used as the subject for pictorial translation. The studies on the following six pages, drawn by different students, show the variety of personal interpretations and styles. With careful observation of details the students become aware of the rhythmic movement within the branch and are not deceived by trivial formulations."
+   ],
+   "h": 13.89
+  },
+  {
+   "k": "txt",
+   "x": 31.88,
+   "y": 91.07,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The seed pods appear as leaves in this drawing. They are arranged in upright groups, carefully drawn, and united through tonal values that tend to subordinate linear qualities."
+   ],
+   "h": 4.94
+  },
+  {
+   "k": "txt",
+   "x": 2.6,
+   "y": 98.0,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "bold",
+   "text": "80"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "v": 1,
+ "p": 55,
+ "bg": "#edebe6",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.02,
+   "y": 3.6,
+   "w": 27.98,
+   "h": 21.25
+  },
+  {
+   "k": "art",
+   "x": 2.02,
+   "y": 27.4,
+   "w": 27.98,
+   "h": 21.5
+  },
+  {
+   "k": "art",
+   "x": 2.02,
+   "y": 51.5,
+   "w": 27.98,
+   "h": 21.4
+  },
+  {
+   "k": "art",
+   "x": 32.23,
+   "y": 3.6,
+   "w": 65.34,
+   "h": 69.3
+  },
+  {
+   "k": "txt",
+   "x": 1.83,
+   "y": 89.27,
+   "w": 28.5,
+   "size": 1.45,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The expressive models shown above and on the following page are plaster copies of Romanesque consoles in the chancel of the Basel Cathedral. They introduce the students to medieval European sculpture."
+   ],
+   "h": 5.97
+  },
+  {
+   "k": "txt",
+   "x": 32.15,
+   "y": 89.17,
+   "w": 31.5,
+   "size": 1.45,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The sculptural effect of a drawing can be supported by using light tones as inherent shadows. The tones must be subordinate to the linear drawing and should never create the impression of a light-and-shadow study."
+   ],
+   "h": 5.97
+  },
+  {
+   "k": "txt",
+   "x": 94.5,
+   "y": 97.6,
+   "w": 3.5,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "53"
+  }
+ ]
+}

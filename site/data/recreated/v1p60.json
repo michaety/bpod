@@ -1,0 +1,64 @@
+{
+ "v": 1,
+ "p": 60,
+ "bg": "#f0efec",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.32,
+   "y": 3.4,
+   "w": 27.81,
+   "h": 21.35
+  },
+  {
+   "k": "art",
+   "x": 2.32,
+   "y": 28.1,
+   "w": 27.81,
+   "h": 20.9
+  },
+  {
+   "k": "txt",
+   "x": 2.32,
+   "y": 50.2,
+   "w": 27.81,
+   "size": 1.42,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "text": "In the Museum"
+  },
+  {
+   "k": "art",
+   "x": 40.26,
+   "y": 3.1,
+   "w": 56.56,
+   "h": 89.75
+  },
+  {
+   "k": "txt",
+   "x": 2.6,
+   "y": 89.44,
+   "w": 27.81,
+   "size": 1.45,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In both drawings the pictorial translation of the complex wood figure is drawn in a concise form with careful but bold lines. The surrounding space and the position of the figure should be indicated with a few lines."
+   ],
+   "h": 5.94
+  },
+  {
+   "k": "txt",
+   "x": 2.32,
+   "y": 97.4,
+   "w": 10.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "58"
+  }
+ ]
+}

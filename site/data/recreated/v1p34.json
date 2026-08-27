@@ -7,8 +7,7 @@
    "k": "art",
    "x": 32.78,
    "y": 3.8,
-   "w": 64.92,
-   "h": 69.98
+   "w": 64.92
   },
   {
    "k": "txt",
@@ -18,10 +17,10 @@
    "size": 1.3,
    "style": "body",
    "align": "left",
-   "h": 21.97,
    "paras": [
     "In contrast to the shoes, the representation of complex technical objects such as the water faucet and vise demands a stronger conception of form. The formulation of the lines and the style in which they are drawn make a statement about the material character of the object. Its effect and function should be understood and represented accordingly. Unfunctional, unclear, or extreme positions should be avoided. Complex details are simplified in order to clarify the form as a whole: they are enlarged and drawn as separate studies, which should be composed harmoniously on the page. In the top left corner of the page the object is usually represented in a small profile view. Its proportions and forms are examined here."
-   ]
+   ],
+   "h": 21.97
   },
   {
    "k": "txt",

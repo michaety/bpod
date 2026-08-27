@@ -1,0 +1,87 @@
+{
+ "v": 1,
+ "p": 72,
+ "bg": "#f1f0ea",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.54,
+   "y": 3.59,
+   "w": 56.73,
+   "h": 69.74
+  },
+  {
+   "k": "art",
+   "x": 69.1,
+   "y": 3.59,
+   "w": 15.35,
+   "h": 21.27
+  },
+  {
+   "k": "art",
+   "x": 84.51,
+   "y": 3.59,
+   "w": 12.63,
+   "h": 21.27
+  },
+  {
+   "k": "art",
+   "x": 69.1,
+   "y": 28.34,
+   "w": 14.96,
+   "h": 21.07
+  },
+  {
+   "k": "art",
+   "x": 84.06,
+   "y": 28.34,
+   "w": 13.08,
+   "h": 21.07
+  },
+  {
+   "k": "art",
+   "x": 69.1,
+   "y": 53.0,
+   "w": 28.04,
+   "h": 20.92
+  },
+  {
+   "k": "txt",
+   "x": 28.63,
+   "y": 79.72,
+   "w": 30.6,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The size of many objects in relation to the format of the drawing paper demands additional creative decisions. The representation should be interestingly placed within in the format, and inessential elements omitted.",
+    "Both of these drawings are carefully structured. The spontaneous but controlled line, the dimensional effect, the application of accents, and the tone values are differentiated.",
+    "In the drawing on the last page, the student tried to incorporate the different materials of the figure and to represent the painted designs with tonal values."
+   ],
+   "h": 16.66
+  },
+  {
+   "k": "txt",
+   "x": 68.9,
+   "y": 80.7,
+   "w": 28.04,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "text": "The working situation at the museum."
+  },
+  {
+   "k": "txt",
+   "x": 2.21,
+   "y": 97.2,
+   "w": 8.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "70"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "v": 1,
+ "p": 58,
+ "bg": "#eaeae7",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.41,
+   "y": 3.63,
+   "w": 93.1,
+   "h": 55.89
+  },
+  {
+   "k": "txt",
+   "x": 2.47,
+   "y": 61.0,
+   "w": 26.4,
+   "size": 1.34,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In this clearly structured and differentiated drawing from a plaster copy the spatial effect is modulated through different linear values."
+   ],
+   "h": 5.05
+  },
+  {
+   "k": "txt",
+   "x": 2.67,
+   "y": 70.09,
+   "w": 26.4,
+   "size": 1.34,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The three photographs show the working situation, a student at work, and the correct working position."
+   ],
+   "h": 3.44
+  },
+  {
+   "k": "art",
+   "x": 2.67,
+   "y": 74.51,
+   "w": 27.33,
+   "h": 20.82
+  },
+  {
+   "k": "art",
+   "x": 34.94,
+   "y": 74.66,
+   "w": 27.72,
+   "h": 20.82
+  },
+  {
+   "k": "art",
+   "x": 67.6,
+   "y": 74.61,
+   "w": 28.17,
+   "h": 21.22
+  },
+  {
+   "k": "txt",
+   "x": 2.8,
+   "y": 97.1,
+   "w": 10,
+   "size": 1.24,
+   "style": "folio",
+   "align": "left",
+   "weight": "bold",
+   "text": "56"
+  }
+ ]
+}

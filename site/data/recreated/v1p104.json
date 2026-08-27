@@ -1,0 +1,54 @@
+{
+ "v": 1,
+ "p": 104,
+ "bg": "#ebe9e4",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.02,
+   "y": 3.58,
+   "w": 94.66,
+   "h": 49.04
+  },
+  {
+   "k": "txt",
+   "x": 1.89,
+   "y": 61.12,
+   "w": 29.47,
+   "size": 1.42,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Different objects can be arranged into a composition on a crumpled sheet of paper or an arranged towel. The representation is expanded from a single object to an entire still life. The light-and-shadow surfaces of the broken forms on the paper can be drawn with cross hatching. Many creative possibilities originate from different drawing treatments of the objects and their surroundings. Personal style and interpretation can be fully developed.",
+    "A still-life composition is shown in this example."
+   ],
+   "h": 14.88
+  },
+  {
+   "k": "art",
+   "x": 34.68,
+   "y": 74.37,
+   "w": 27.65,
+   "h": 21.21
+  },
+  {
+   "k": "art",
+   "x": 68.31,
+   "y": 74.72,
+   "w": 28.37,
+   "h": 21.21
+  },
+  {
+   "k": "txt",
+   "x": 1.82,
+   "y": 96.71,
+   "w": 8,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "102"
+  }
+ ]
+}

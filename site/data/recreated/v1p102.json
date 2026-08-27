@@ -1,0 +1,71 @@
+{
+ "v": 1,
+ "p": 102,
+ "bg": "#f2f1ec",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.99,
+   "y": 3.6,
+   "w": 64.95,
+   "h": 72.4
+  },
+  {
+   "k": "art",
+   "x": 68.59,
+   "y": 3.6,
+   "w": 29.36,
+   "h": 22.05
+  },
+  {
+   "k": "art",
+   "x": 68.59,
+   "y": 27.9,
+   "w": 29.36,
+   "h": 21.85
+  },
+  {
+   "k": "art",
+   "x": 68.59,
+   "y": 53.15,
+   "w": 29.36,
+   "h": 22.85
+  },
+  {
+   "k": "txt",
+   "x": 1.63,
+   "y": 91.56,
+   "w": 31.5,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Groupings of the same or different objects and their composition on the page make increasingly creative demands on the students."
+   ],
+   "h": 6.14
+  },
+  {
+   "k": "txt",
+   "x": 68.26,
+   "y": 95.1,
+   "w": 29.7,
+   "size": 1.4,
+   "style": "caption",
+   "align": "right",
+   "weight": "normal",
+   "text": "Compositions of contrasted objects."
+  },
+  {
+   "k": "txt",
+   "x": 1.99,
+   "y": 98.3,
+   "w": 10,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "100"
+  }
+ ]
+}

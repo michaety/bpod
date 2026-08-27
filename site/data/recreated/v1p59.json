@@ -1,0 +1,74 @@
+{
+ "v": 1,
+ "p": 59,
+ "bg": "#f1f0ed",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.03,
+   "y": 3.4,
+   "w": 65.03,
+   "h": 71.6
+  },
+  {
+   "k": "art",
+   "x": 70.08,
+   "y": 3.4,
+   "w": 27.43,
+   "h": 22.15
+  },
+  {
+   "k": "art",
+   "x": 70.08,
+   "y": 27.55,
+   "w": 27.43,
+   "h": 22.15
+  },
+  {
+   "k": "art",
+   "x": 70.08,
+   "y": 51.75,
+   "w": 27.43,
+   "h": 22.15
+  },
+  {
+   "k": "txt",
+   "x": 70.22,
+   "y": 73.97,
+   "w": 27.43,
+   "size": 1.42,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Students work on easels in the museum. The majority of the figures are protected in glass cases."
+   ],
+   "h": 3.45
+  },
+  {
+   "k": "txt",
+   "x": 2.68,
+   "y": 90.38,
+   "w": 29.71,
+   "size": 1.48,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Sculpture from pre-Colombian America, the formal structure of which is similar to Romanesque sculpture, makes the transition from object to museum drawing."
+   ],
+   "h": 4.74
+  },
+  {
+   "k": "txt",
+   "x": 94.0,
+   "y": 97.2,
+   "w": 3.5,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "57"
+  }
+ ]
+}

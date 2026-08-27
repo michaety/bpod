@@ -1,0 +1,60 @@
+{
+ "v": 1,
+ "p": 96,
+ "bg": "#f3f2ee",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.19,
+   "y": 3.4,
+   "w": 64.94,
+   "h": 71.1
+  },
+  {
+   "k": "art",
+   "x": 70.05,
+   "y": 4.25,
+   "w": 27.9,
+   "h": 20.6
+  },
+  {
+   "k": "art",
+   "x": 70.05,
+   "y": 28.15,
+   "w": 27.9,
+   "h": 23.4
+  },
+  {
+   "k": "art",
+   "x": 70.05,
+   "y": 53.15,
+   "w": 27.9,
+   "h": 21.35
+  },
+  {
+   "k": "txt",
+   "x": 2.15,
+   "y": 90.38,
+   "w": 32.0,
+   "size": 1.45,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "This strong, dark drawing captures the essence of celery, a heavy root. The contrast between curved and stretched surfaces is clarified through explicit tonal gradation."
+   ],
+   "h": 4.84
+  },
+  {
+   "k": "txt",
+   "x": 1.99,
+   "y": 98.1,
+   "w": 8.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "94"
+  }
+ ]
+}

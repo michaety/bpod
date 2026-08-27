@@ -7,29 +7,25 @@
    "k": "art",
    "x": 2.93,
    "y": 2.85,
-   "w": 64.41,
-   "h": 70.53
+   "w": 64.41
   },
   {
    "k": "art",
    "x": 70.4,
    "y": 3.09,
-   "w": 27.52,
-   "h": 21.22
+   "w": 27.52
   },
   {
    "k": "art",
    "x": 70.4,
    "y": 27.55,
-   "w": 27.52,
-   "h": 21.22
+   "w": 27.52
   },
   {
    "k": "art",
    "x": 70.4,
    "y": 52.21,
-   "w": 27.52,
-   "h": 21.22
+   "w": 27.52
   },
   {
    "k": "txt",
@@ -39,11 +35,11 @@
    "size": 1.42,
    "style": "body",
    "align": "left",
-   "h": 14.73,
    "paras": [
     "The representation of a wood planer is carefully constructed by subdividing a block into the appropriate cross sections. Complicated shapes such as the hand grip can be achieved in this way. In searching for the correct forms various accents are developed.",
     "The bristles of the broom should not be rendered as a series of small strokes. The student should recognize the essential forms, such as the obtuse pyramid composed of a blunt cone and the bundles of gathered bristle."
-   ]
+   ],
+   "h": 14.73
   },
   {
    "k": "txt",

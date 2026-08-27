@@ -1,0 +1,53 @@
+{
+ "v": 1,
+ "p": 65,
+ "bg": "#f0efeb",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.17,
+   "y": 3.0,
+   "w": 92.99,
+   "h": 70.35
+  },
+  {
+   "k": "txt",
+   "x": 2.95,
+   "y": 74.02,
+   "w": 30.0,
+   "size": 1.45,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "These studies show the stages in drawing a carved-wood figure."
+   ],
+   "h": 2.21
+  },
+  {
+   "k": "txt",
+   "x": 2.69,
+   "y": 89.02,
+   "w": 30.0,
+   "size": 1.45,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The teacher analyzes the work of the student based on his experience. Critical discussion of the work and the resulting corrections enable the student to reach his goal in a shorter time than he could on his own."
+   ],
+   "h": 5.82
+  },
+  {
+   "k": "txt",
+   "x": 88.0,
+   "y": 98.4,
+   "w": 9.8,
+   "size": 1.35,
+   "style": "folio",
+   "align": "right",
+   "weight": "bold",
+   "text": "63"
+  }
+ ]
+}

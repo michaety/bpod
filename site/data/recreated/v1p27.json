@@ -7,8 +7,7 @@
    "k": "art",
    "x": 32.46,
    "y": 3.29,
-   "w": 65.25,
-   "h": 68.87
+   "w": 65.25
   },
   {
    "k": "txt",
@@ -18,10 +17,10 @@
    "size": 1.45,
    "style": "body",
    "align": "left",
-   "h": 7.28,
    "paras": [
     "The drawing procedure is comparable to that of the carpenter or sculptor, who finds his mental image in roughly formed material. In drawing the toy animal the spatial relationship, position, and development of the surfaces are created from a rectangular block."
-   ]
+   ],
+   "h": 7.28
   },
   {
    "k": "txt",

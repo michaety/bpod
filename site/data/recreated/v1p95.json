@@ -1,0 +1,74 @@
+{
+ "v": 1,
+ "p": 95,
+ "bg": "#d9dad5",
+ "el": [
+  {
+   "k": "art",
+   "x": 4.9,
+   "y": 3.59,
+   "w": 91.48,
+   "h": 49.05
+  },
+  {
+   "k": "txt",
+   "x": 4.77,
+   "y": 54.06,
+   "w": 27.6,
+   "size": 1.36,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "These studies of potatoes are based on the contrast between light and shadow. The surfaces are defined with lines, and the shadow is rendered with differentiated crosshatching, creating a cubistic appearance. The eyes and sprouts characterize the object."
+   ],
+   "h": 8.44
+  },
+  {
+   "k": "txt",
+   "x": 4.77,
+   "y": 71.01,
+   "w": 27.6,
+   "size": 1.36,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Simple arrangements of different objects that contain few details are shown."
+   ],
+   "h": 2.06
+  },
+  {
+   "k": "art",
+   "x": 4.9,
+   "y": 73.97,
+   "w": 27.48,
+   "h": 21.13
+  },
+  {
+   "k": "art",
+   "x": 37.03,
+   "y": 73.97,
+   "w": 27.48,
+   "h": 21.13
+  },
+  {
+   "k": "art",
+   "x": 69.03,
+   "y": 73.97,
+   "w": 27.48,
+   "h": 21.13
+  },
+  {
+   "k": "txt",
+   "x": 88.1,
+   "y": 97.0,
+   "w": 8.4,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "bold",
+   "text": "93"
+  }
+ ]
+}

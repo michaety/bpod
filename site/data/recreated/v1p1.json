@@ -1,0 +1,167 @@
+{
+ "v": 1,
+ "p": 1,
+ "bg": "#ceb989",
+ "el": [
+  {
+   "k": "txt",
+   "x": 4.2,
+   "y": 3.44,
+   "w": 28,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "text": "Manfred Maier"
+  },
+  {
+   "k": "txt",
+   "x": 36.01,
+   "y": 3.44,
+   "w": 60,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The Foundation Program at the School of Design",
+    "Basel, Switzerland"
+   ],
+   "h": 2.83
+  },
+  {
+   "k": "txt",
+   "x": 86,
+   "y": 9.45,
+   "w": 11.2,
+   "size": 31,
+   "style": "title",
+   "align": "right",
+   "weight": "bold",
+   "text": "1"
+  },
+  {
+   "k": "txt",
+   "x": 35.95,
+   "y": 20.9,
+   "w": 45,
+   "size": 4.2,
+   "style": "title",
+   "align": "left",
+   "weight": "bold",
+   "text": "Basic Principles"
+  },
+  {
+   "k": "txt",
+   "x": 35.95,
+   "y": 24.3,
+   "w": 45,
+   "size": 4.2,
+   "style": "title",
+   "align": "left",
+   "weight": "bold",
+   "text": "of Design"
+  },
+  {
+   "k": "txt",
+   "x": 4.27,
+   "y": 49.95,
+   "w": 20,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "text": "Van Nostrand/"
+  },
+  {
+   "k": "txt",
+   "x": 27.6,
+   "y": 49.95,
+   "w": 7.5,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "text": "Volume"
+  },
+  {
+   "k": "txt",
+   "x": 36.2,
+   "y": 49.95,
+   "w": 56,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "text": "Object Drawing",
+   "link": "Object Drawing"
+  },
+  {
+   "k": "txt",
+   "x": 4.27,
+   "y": 51.72,
+   "w": 20,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "text": "Reinhold"
+  },
+  {
+   "k": "txt",
+   "x": 27.6,
+   "y": 51.72,
+   "w": 7.5,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "text": "1"
+  },
+  {
+   "k": "txt",
+   "x": 36.2,
+   "y": 51.72,
+   "w": 56,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "text": "Object and Museum Drawing",
+   "link": "Object and Museum Drawing"
+  },
+  {
+   "k": "txt",
+   "x": 36.2,
+   "y": 53.56,
+   "w": 56,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "text": "Nature Drawing",
+   "link": "Nature Drawing"
+  },
+  {
+   "k": "art",
+   "x": 4.21,
+   "y": 71.26,
+   "w": 29.44,
+   "h": 22.49
+  },
+  {
+   "k": "art",
+   "x": 36.07,
+   "y": 71.3,
+   "w": 29.25,
+   "h": 22.3
+  },
+  {
+   "k": "art",
+   "x": 67.75,
+   "y": 71.3,
+   "w": 29.38,
+   "h": 22.44
+  }
+ ]
+}

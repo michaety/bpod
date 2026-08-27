@@ -1,0 +1,4 @@
+{ "v": 1, "p": 88, "bg": "#efeeea", "el": [
+  {"k":"art","x":2.15,"y":3.93,"w":85.23,"h":91.9},
+  {"k":"txt","x":1.63,"y":97.1,"w":10,"size":1.5,"style":"folio","align":"left","weight":"normal","text":"86"}
+] }

@@ -1,0 +1,60 @@
+{
+ "v": 1,
+ "p": 76,
+ "bg": "#d0d0cb",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.55,
+   "y": 3.25,
+   "w": 30.5,
+   "size": 1.3,
+   "style": "heading",
+   "align": "left",
+   "weight": "bold",
+   "text": "Nature Drawing",
+   "link": "Nature Drawing"
+  },
+  {
+   "k": "txt",
+   "x": 2.6,
+   "y": 28.23,
+   "w": 30.6,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In object drawing and museum drawing spontaneous, personal interpretation of the object is subordinate to structure. The objects are man-made, either abstracted from nature or constructed from imagination. In contrast, in the pictorial translation of natural objects the students are directly confronted with the process of creative abstraction involved in drawing. The plant world offers a wide variety of forms, colors, textures, and structures to encourage personal interpretation; they are ideally suited to free, spontaneous, and intuitive rendering. Spontaneity, representation possibilities, developing the drawing and personal interpretation are the foundation of the drawing process.",
+    "The interrelationship is important to the representation of organic light and shadow structures, because direct formal control is impossible; nature studies help the student develop sensitivity and the ability to differentiate tonal values. The placement of the shadow lines should reinforce the form, material, and spatial effect. A feeling for proportion and spatial relationships develops by combining different objects. Decorative, formal elements and accents are explored for contrast (large-small, high-low, narrow-wide, curved-straight, light-dark, flowing-quiet, many-few, for example).",
+    "The students begin by drawing simple leaf forms such as branches, plants, and vegetables with spherical, bulbous, and cylindrical shapes. Pencils from 3B to 6B are used on different-toned and -textured paper; more experienced students experiment with charcoal, brush, or pen-and-ink."
+   ],
+   "h": 32.34
+  },
+  {
+   "k": "txt",
+   "x": 2.73,
+   "y": 61.17,
+   "w": 30.6,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Each drawing is evaluated on the basis of personal interpretation and expression. Comparison of individual styles is especially interesting and stimulating to the students."
+   ],
+   "h": 7.18
+  },
+  {
+   "k": "txt",
+   "x": 2.85,
+   "y": 94.9,
+   "w": 10,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "74"
+  }
+ ]
+}

@@ -7,29 +7,25 @@
    "k": "art",
    "x": 2.42,
    "y": 3.5,
-   "w": 64.6,
-   "h": 69.0
+   "w": 64.6
   },
   {
    "k": "art",
    "x": 69.0,
    "y": 3.4,
-   "w": 27.5,
-   "h": 21.3
+   "w": 27.5
   },
   {
    "k": "art",
    "x": 69.0,
    "y": 27.73,
-   "w": 27.5,
-   "h": 21.3
+   "w": 27.5
   },
   {
    "k": "art",
    "x": 69.0,
    "y": 51.85,
-   "w": 27.5,
-   "h": 21.2
+   "w": 27.5
   },
   {
    "k": "txt",
@@ -39,20 +35,22 @@
    "size": 1.4,
    "style": "body",
    "align": "left",
-   "h": 8.49,
    "paras": [
     "The blade and shoe supports of the ice skate are composed of two planes that intersect at right angles. The object is lying on its side, creating a foreshortened diagonal plane that requires careful spatial observation. The numerous details must be subordinated to the larger forms, and should not confuse the student."
-   ]
+   ],
+   "h": 8.49
   },
   {
    "k": "txt",
-   "x": 36.55,
-   "y": 87.0,
+   "x": 36.63,
+   "y": 87.28,
    "w": 30.5,
    "size": 1.4,
    "style": "heading",
    "align": "left",
-   "text": "A comparison of both drawings clarifies the different linear formulations corresponding to the inherent character of the objects.",
+   "paras": [
+    "A comparison of both drawings clarifies the different linear formulations corresponding to the inherent character of the objects."
+   ],
    "h": 4.01
   },
   {

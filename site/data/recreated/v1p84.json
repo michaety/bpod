@@ -1,0 +1,74 @@
+{
+ "v": 1,
+ "p": 84,
+ "bg": "#edebe6",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.18,
+   "y": 3.05,
+   "w": 27.83,
+   "h": 21.45
+  },
+  {
+   "k": "art",
+   "x": 3.18,
+   "y": 27.25,
+   "w": 27.83,
+   "h": 21.0
+  },
+  {
+   "k": "art",
+   "x": 3.18,
+   "y": 52.1,
+   "w": 27.83,
+   "h": 22.25
+  },
+  {
+   "k": "art",
+   "x": 32.14,
+   "y": 3.05,
+   "w": 64.15,
+   "h": 71.95
+  },
+  {
+   "k": "txt",
+   "x": 2.21,
+   "y": 90.18,
+   "w": 27.3,
+   "size": 1.33,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The students are drawing a branch placed on a platform in the middle of the room. They can select their position corresponding with their drawing intention."
+   ],
+   "h": 5.0
+  },
+  {
+   "k": "txt",
+   "x": 31.88,
+   "y": 90.72,
+   "w": 29.6,
+   "size": 1.33,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In this example the structure of the branches remains dominant. The drawing is begun from the interior form of the branch; the scattered seed pods are clearly worked and lightly indicated."
+   ],
+   "h": 5.15
+  },
+  {
+   "k": "txt",
+   "x": 2.05,
+   "y": 97.55,
+   "w": 8.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "82"
+  }
+ ]
+}

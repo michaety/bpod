@@ -1,0 +1,88 @@
+{
+ "v": 1,
+ "p": 77,
+ "bg": "#e8e8e5",
+ "el": [
+  {
+   "k": "art",
+   "x": 5.45,
+   "y": 3.45,
+   "w": 92.39,
+   "h": 48.13
+  },
+  {
+   "k": "txt",
+   "x": 5.12,
+   "y": 53.08,
+   "w": 27.5,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In the beginning pressed or naturally dried leaves are the subjects for pictorial translation. They are drawn from an isometric frontal viewpoint and foreshortened in different positions from different angles. In contrast to solid objects, flat objects can be drawn from a stronger top view. The examples shown here and on the following three pages are studies of Norwegian maple leaves."
+   ],
+   "h": 12.15
+  },
+  {
+   "k": "txt",
+   "x": 37.47,
+   "y": 53.04,
+   "w": 27.9,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The proportions within a rectangular plane are indicated with a few lines. The structure is defined through the position of the veins and through the rough outline of the leaf. Tonal structure is developed through rhythmic movement of the contour, rendered in bold lines, and through the incorporation of details. The above drawings are carefully structured while the study on the following page is more rhythmic."
+   ],
+   "h": 12.1
+  },
+  {
+   "k": "txt",
+   "x": 5.12,
+   "y": 69.11,
+   "w": 27.5,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The photographs below and on the following right-hand page show frontal and foreshortened views of maple leaves."
+   ],
+   "h": 3.45
+  },
+  {
+   "k": "art",
+   "x": 5.12,
+   "y": 73.48,
+   "w": 28.02,
+   "h": 20.98
+  },
+  {
+   "k": "art",
+   "x": 37.6,
+   "y": 73.48,
+   "w": 27.82,
+   "h": 20.98
+  },
+  {
+   "k": "art",
+   "x": 69.82,
+   "y": 73.48,
+   "w": 28.02,
+   "h": 20.98
+  },
+  {
+   "k": "txt",
+   "x": 88.0,
+   "y": 96.31,
+   "w": 9.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "75"
+  }
+ ]
+}

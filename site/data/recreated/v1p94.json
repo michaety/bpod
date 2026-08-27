@@ -1,0 +1,74 @@
+{
+ "v": 1,
+ "p": 94,
+ "bg": "#eeedea",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.45,
+   "y": 3.93,
+   "w": 27.26,
+   "h": 20.77
+  },
+  {
+   "k": "art",
+   "x": 3.45,
+   "y": 28.42,
+   "w": 27.26,
+   "h": 20.77
+  },
+  {
+   "k": "art",
+   "x": 3.45,
+   "y": 52.77,
+   "w": 27.26,
+   "h": 20.77
+  },
+  {
+   "k": "art",
+   "x": 40.4,
+   "y": 3.73,
+   "w": 57.64,
+   "h": 70.05
+  },
+  {
+   "k": "txt",
+   "x": 2.8,
+   "y": 89.69,
+   "w": 27.5,
+   "size": 1.45,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The students must structure their own compositions. Groupings of garlic bulbs are shown here."
+   ],
+   "h": 3.33
+  },
+  {
+   "k": "txt",
+   "x": 39.69,
+   "y": 90.13,
+   "w": 45.7,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The individual forms in this drawing are very finely rendered, and sectional planes are partially indicated. They are placed at right angles to the central axis of the forms to strengthen the dimensional effect."
+   ],
+   "h": 5.93
+  },
+  {
+   "k": "txt",
+   "x": 2.9,
+   "y": 97.05,
+   "w": 10,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "bold",
+   "text": "92"
+  }
+ ]
+}

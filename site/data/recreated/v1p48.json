@@ -1,0 +1,81 @@
+{
+ "v": 1,
+ "p": 48,
+ "bg": "#edece7",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.8,
+   "y": 3.9,
+   "w": 45.87,
+   "h": 48.7
+  },
+  {
+   "k": "art",
+   "x": 51.0,
+   "y": 3.9,
+   "w": 45.94,
+   "h": 48.7
+  },
+  {
+   "k": "txt",
+   "x": 2.68,
+   "y": 54.1,
+   "w": 27.2,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The structure of this still-life drawing starts with a cube, cylinder, half cylinder, small cube, and triangular prism, the result of dividing the cube. Overlapping forms and objects are distinguished with careful accents; elements remain that reinforce the structure of the drawing."
+   ],
+   "h": 8.64
+  },
+  {
+   "k": "txt",
+   "x": 2.48,
+   "y": 64.16,
+   "w": 27.2,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The students observe the same still-life group from different positions. The height of the half cylinder is 60 centimeters. The transparency of the objects, which are made of metal rods, allows for exact observation, comparison of shapes, and control of overlapping lines."
+   ],
+   "h": 8.53
+  },
+  {
+   "k": "art",
+   "x": 2.66,
+   "y": 75.15,
+   "w": 29.16,
+   "h": 21.6
+  },
+  {
+   "k": "art",
+   "x": 35.29,
+   "y": 75.15,
+   "w": 29.16,
+   "h": 21.6
+  },
+  {
+   "k": "art",
+   "x": 67.91,
+   "y": 75.15,
+   "w": 29.16,
+   "h": 21.6
+  },
+  {
+   "k": "txt",
+   "x": 2.2,
+   "y": 98.1,
+   "w": 8.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "46"
+  }
+ ]
+}

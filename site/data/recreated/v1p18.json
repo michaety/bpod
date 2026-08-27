@@ -7,8 +7,7 @@
    "k": "art",
    "x": 31.95,
    "y": 3.25,
-   "w": 65.65,
-   "h": 70.1
+   "w": 65.65
   },
   {
    "k": "txt",
@@ -18,10 +17,10 @@
    "size": 1.35,
    "style": "body",
    "align": "left",
-   "h": 13.7,
    "paras": [
     "A cylinder is always constructed in relation to a prism: first two cubes are drawn. Inserting the correct foreshortened circle is relatively simple with the cubes in the proper spatial position. The foreshortened circular shapes always appear as geometric ellipses, the longer axes of which are perpendicular to the center axis of the cylinder. The vertical and horizontal axes of the ellipse touch the middle point on each side of the cube. The four corner shapes should give the illusion of being equal."
-   ]
+   ],
+   "h": 13.7
   },
   {
    "k": "txt",
@@ -31,10 +30,10 @@
    "size": 1.35,
    "style": "body",
    "align": "left",
-   "h": 6.15,
    "paras": [
     "At the beginning of the course dimensional imagination and pictorial sensitivity may not be sufficiently developed to avoid the common angle and proportion mistakes that appear in these four drawings."
-   ]
+   ],
+   "h": 6.15
   },
   {
    "k": "txt",

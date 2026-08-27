@@ -1,0 +1,74 @@
+{
+ "v": 1,
+ "p": 47,
+ "bg": "#dfe0de",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.7,
+   "y": 3.89,
+   "w": 65.42,
+   "h": 68.97
+  },
+  {
+   "k": "art",
+   "x": 69.22,
+   "y": 3.84,
+   "w": 27.83,
+   "h": 20.79
+  },
+  {
+   "k": "art",
+   "x": 69.22,
+   "y": 28.12,
+   "w": 27.83,
+   "h": 20.54
+  },
+  {
+   "k": "art",
+   "x": 69.22,
+   "y": 52.21,
+   "w": 27.83,
+   "h": 20.64
+  },
+  {
+   "k": "txt",
+   "x": 37.46,
+   "y": 87.03,
+   "w": 29.66,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Drawings from objects such as this plaster copy of a wall pedestal expand the student's ability to represent complex shapes that are strongly geometric in character."
+   ],
+   "h": 4.79
+  },
+  {
+   "k": "txt",
+   "x": 69.35,
+   "y": 87.03,
+   "w": 27.83,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Advanced students draw objects that are placed on rolling platforms, boxes of different heights, adjustable object stands, or hung on the wall. All the facilities are extremely mobile."
+   ],
+   "h": 5.97
+  },
+  {
+   "k": "txt",
+   "x": 88.5,
+   "y": 96.94,
+   "w": 8.62,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "bold",
+   "text": "45"
+  }
+ ]
+}

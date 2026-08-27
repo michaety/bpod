@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "p": 2,
+  "bg": "#d0cabd",
+  "el": [
+    {"k": "art", "x": 13.99, "y": 19.0, "w": 72.62, "h": 64.25},
+    {"k": "txt", "x": 9.99, "y": 92.75, "w": 80.28, "size": 3.2, "style": "body", "align": "center", "weight": "normal", "text": "https://archive.org/details/basicprincipleso0011maie"}
+  ]
+}

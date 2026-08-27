@@ -1,0 +1,74 @@
+{
+ "v": 1,
+ "p": 100,
+ "bg": "#eceae5",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.18,
+   "y": 3.65,
+   "w": 27.97,
+   "h": 20.85
+  },
+  {
+   "k": "art",
+   "x": 32.01,
+   "y": 3.65,
+   "w": 64.08,
+   "h": 71.35
+  },
+  {
+   "k": "art",
+   "x": 3.18,
+   "y": 27.65,
+   "w": 27.97,
+   "h": 21.0
+  },
+  {
+   "k": "art",
+   "x": 2.65,
+   "y": 51.75,
+   "w": 27.0,
+   "h": 22.15
+  },
+  {
+   "k": "txt",
+   "x": 2.21,
+   "y": 90.28,
+   "w": 26.5,
+   "size": 1.46,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The above photographs show the subject of the study, the drawing in process, with the correct hand and pencil position, and the working environment."
+   ],
+   "h": 4.84
+  },
+  {
+   "k": "txt",
+   "x": 31.75,
+   "y": 90.87,
+   "w": 31.0,
+   "size": 1.46,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In addition to representing the bananas dimensionally the student tried to express the color and texture of the spotted surface with gray tones and lines."
+   ],
+   "h": 4.58
+  },
+  {
+   "k": "txt",
+   "x": 2.1,
+   "y": 97.8,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "bold",
+   "text": "98"
+  }
+ ]
+}

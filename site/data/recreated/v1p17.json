@@ -7,8 +7,7 @@
    "k": "art",
    "x": 31.95,
    "y": 2.95,
-   "w": 64.65,
-   "h": 68.7
+   "w": 64.65
   },
   {
    "k": "txt",
@@ -18,10 +17,10 @@
    "size": 1.35,
    "style": "body",
    "align": "left",
-   "h": 3.25,
    "paras": [
     "In the small frontal view at the upper left the structure, form, and proportions of the object are examined."
-   ]
+   ],
+   "h": 3.25
   },
   {
    "k": "txt",

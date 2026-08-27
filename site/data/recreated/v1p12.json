@@ -1,0 +1,56 @@
+{
+ "v": 1,
+ "p": 12,
+ "bg": "#e8e7e0",
+ "el": [
+  {
+   "k": "txt",
+   "x": 19.1,
+   "y": 4.35,
+   "w": 12,
+   "size": 1.95,
+   "style": "label",
+   "align": "left",
+   "weight": "normal",
+   "text": "Volume 1"
+  },
+  {
+   "k": "txt",
+   "x": 33.0,
+   "y": 4.35,
+   "w": 25,
+   "size": 1.95,
+   "style": "label",
+   "align": "left",
+   "weight": "normal",
+   "text": "Introduction"
+  },
+  {
+   "k": "txt",
+   "x": 32.28,
+   "y": 53.22,
+   "w": 65.7,
+   "size": 1.9,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Freehand drawing is a traditional means of pictorial representation and communication. The drawing is a medium of mental and manual abstraction from perception and experience. The drawing process is a discipline by which visual sensitivity and the perceptual differentiation of form, rhythm, and abstraction are encouraged. The courses in life drawing provide a practical basis for personal and professional development through constant, intensive involvement in the drawing process. Fashionable stylistic tendencies and theories are consciously avoided; therefore professional demands are not considered.",
+    "The students draw objects from life using elementary forms. The teaching method is linear in structure: a drawing is developed from the total form to the related details. It is fundamentally an abstraction and not a photographic copy or an enumeration of detail. Personal drawing characteristics and means of expression are expanded through a mastery of the medium and through continual experience. The complex, creative process of drawing is structured through many interrelated activities: observation and perception, comprehension of form and proportion as a unity, abstraction of analyzed form into pictorial, dimensional illusion, mastery of techniques and means of expression, controlled chronological development of the creative process, and critical evaluation of the results.",
+    "The reapplication of accumulated experience and knowledge leads to continued refinement and sensitivity. The drawing process is a continual, linear experience. Each result must be questioned: there is no single, absolute goal."
+   ],
+   "h": 45.19
+  },
+  {
+   "k": "txt",
+   "x": 2.7,
+   "y": 97.4,
+   "w": 8,
+   "size": 1.2,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "10"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "v": 1,
+ "p": 98,
+ "bg": "#f1efeb",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.86,
+   "y": 3.6,
+   "w": 65.08,
+   "h": 71.0
+  },
+  {
+   "k": "art",
+   "x": 69.58,
+   "y": 3.9,
+   "w": 26.84,
+   "h": 20.95
+  },
+  {
+   "k": "art",
+   "x": 69.58,
+   "y": 28.25,
+   "w": 26.84,
+   "h": 21.0
+  },
+  {
+   "k": "art",
+   "x": 69.58,
+   "y": 52.85,
+   "w": 26.84,
+   "h": 23.55
+  },
+  {
+   "k": "txt",
+   "x": 68.25,
+   "y": 87.87,
+   "w": 29.0,
+   "size": 1.42,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In contrast to the cubistic interpretation of the apple, these studies of a corn cob are bold and dynamic. The leaves are differentiated and rhythmically drawn, while the detailed forms of the kernels are barely indicated. Overlapping surfaces are emphasized through linear accents."
+   ],
+   "h": 8.79
+  },
+  {
+   "k": "txt",
+   "x": 1.69,
+   "y": 91.36,
+   "w": 30.0,
+   "size": 1.42,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The angular surfaces of a peeled apple suggest a cubistic interpretation. Light and shadow are handled differently through fine cross hatching."
+   ],
+   "h": 4.14
+  },
+  {
+   "k": "txt",
+   "x": 1.86,
+   "y": 96.1,
+   "w": 8.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "96"
+  }
+ ]
+}

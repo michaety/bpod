@@ -1,0 +1,74 @@
+{
+ "v": 1,
+ "p": 85,
+ "bg": "#f2f0ec",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.66,
+   "y": 3.5,
+   "w": 64.41,
+   "h": 71.0
+  },
+  {
+   "k": "art",
+   "x": 69.06,
+   "y": 3.9,
+   "w": 28.22,
+   "h": 20.6
+  },
+  {
+   "k": "art",
+   "x": 69.06,
+   "y": 27.9,
+   "w": 28.22,
+   "h": 20.7
+  },
+  {
+   "k": "art",
+   "x": 69.06,
+   "y": 51.75,
+   "w": 28.22,
+   "h": 22.75
+  },
+  {
+   "k": "txt",
+   "x": 2.39,
+   "y": 90.48,
+   "w": 30.5,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The arrangement of single forms is subordinate in this drawing. The branch is represented as a complete rhythmic structure; the lines are strong and bold."
+   ],
+   "h": 4.58
+  },
+  {
+   "k": "txt",
+   "x": 69.29,
+   "y": 90.53,
+   "w": 28.22,
+   "size": 1.5,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Many different objects are used in the drawing classes."
+   ],
+   "h": 2.21
+  },
+  {
+   "k": "txt",
+   "x": 92.0,
+   "y": 98.2,
+   "w": 5.3,
+   "size": 1.35,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "83"
+  }
+ ]
+}
