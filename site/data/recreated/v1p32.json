@@ -1,0 +1,51 @@
+{
+ "v": 1,
+ "p": 32,
+ "bg": "#efeeea",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.2,
+   "y": 3.79,
+   "w": 45.56,
+   "h": 41.09
+  },
+  {
+   "k": "art",
+   "x": 51.1,
+   "y": 3.4,
+   "w": 46.52,
+   "h": 41.52
+  },
+  {
+   "k": "txt",
+   "x": 3.12,
+   "y": 47.4,
+   "w": 31.8,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "h": 6.35,
+   "paras": [
+    "The object in this drawing, a water faucet, consists of a number of different elementary shapes, such as prisms, cylinders, cones, and spheres. The graphic representation is carefully constructed from the center of the object, the intersection of the two cylinders."
+   ]
+  },
+  {
+   "k": "art",
+   "x": 51.0,
+   "y": 46.58,
+   "w": 46.48,
+   "h": 39.98
+  },
+  {
+   "k": "txt",
+   "x": 3.2,
+   "y": 96.5,
+   "w": 10,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "text": "30"
+  }
+ ]
+}

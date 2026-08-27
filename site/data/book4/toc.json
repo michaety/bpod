@@ -1,0 +1,104 @@
+{
+ "sections": [
+  {
+   "title": "Cover",
+   "page": 1,
+   "level": 1
+  },
+  {
+   "title": "Title Page",
+   "page": 5,
+   "level": 1
+  },
+  {
+   "title": "General Introduction",
+   "page": 7,
+   "level": 1
+  },
+  {
+   "title": "Table of Contents (Volumes 1-4)",
+   "page": 8,
+   "level": 1
+  },
+  {
+   "title": "Foundation Program Schedule, Summer Semester 1975",
+   "page": 10,
+   "level": 1
+  },
+  {
+   "title": "Introduction to Volume 4",
+   "page": 12,
+   "level": 1
+  },
+  {
+   "title": "Color 1",
+   "page": 13,
+   "level": 1
+  },
+  {
+   "title": "Color Recognition",
+   "page": 14,
+   "level": 2
+  },
+  {
+   "title": "Color Studies with Divided Squares",
+   "page": 26,
+   "level": 2
+  },
+  {
+   "title": "Graphic Exercises",
+   "page": 44,
+   "level": 1
+  },
+  {
+   "title": "First Phase: Solution Variations",
+   "page": 46,
+   "level": 2
+  },
+  {
+   "title": "Second Phase: Developing the Variations",
+   "page": 48,
+   "level": 2
+  },
+  {
+   "title": "Third Phase: Ordering Relationships",
+   "page": 50,
+   "level": 2
+  },
+  {
+   "title": "Fourth Phase: Differentiation",
+   "page": 54,
+   "level": 2
+  },
+  {
+   "title": "Dimensional Design",
+   "page": 76,
+   "level": 1
+  },
+  {
+   "title": "Modeling with Clay: Hand and Fingers as Tools",
+   "page": 77,
+   "level": 2
+  },
+  {
+   "title": "Paper Structures",
+   "page": 83,
+   "level": 2
+  },
+  {
+   "title": "The Hand as a Mold",
+   "page": 91,
+   "level": 2
+  },
+  {
+   "title": "Furrow Forms in Foam Rubber",
+   "page": 97,
+   "level": 2
+  },
+  {
+   "title": "Modeling Water Movement",
+   "page": 101,
+   "level": 2
+  }
+ ]
+}

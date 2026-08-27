@@ -1,0 +1,82 @@
+{
+ "v": 1,
+ "p": 16,
+ "bg": "#dcdbd7",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.19,
+   "y": 3.73,
+   "w": 65.47,
+   "h": 69.39
+  },
+  {
+   "k": "art",
+   "x": 71.31,
+   "y": 3.69,
+   "w": 28.35,
+   "h": 21.13
+  },
+  {
+   "k": "art",
+   "x": 70.85,
+   "y": 28.35,
+   "w": 28.15,
+   "h": 20.98
+  },
+  {
+   "k": "art",
+   "x": 70.25,
+   "y": 52.87,
+   "w": 28.29,
+   "h": 20.93
+  },
+  {
+   "k": "txt",
+   "x": 2.26,
+   "y": 85.21,
+   "w": 29.5,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "h": 3.44,
+   "paras": [
+    "Angles and proportions can be drawn correctly by inserting a foreshortened circle into the base of the quadrate."
+   ]
+  },
+  {
+   "k": "txt",
+   "x": 35.26,
+   "y": 85.75,
+   "w": 31.2,
+   "size": 1.35,
+   "style": "heading",
+   "align": "left",
+   "text": "Both examples correspond to the basic proportions of the cube, which is structured and defined with light guidelines. The pictorial, dimensional form of the object is emphasized through the differentiation of linear accents and distinguished from the actual form of the cube. The drawing should represent a free and solid unity and not a flat outline.",
+   "h": 9.79
+  },
+  {
+   "k": "txt",
+   "x": 69.65,
+   "y": 86.73,
+   "w": 28.0,
+   "size": 1.38,
+   "style": "caption",
+   "align": "left",
+   "paras": [
+    "Many different objects can be derived from a 15 cm cube."
+   ],
+   "h": 2.29
+  },
+  {
+   "k": "txt",
+   "x": 2.19,
+   "y": 96.02,
+   "w": 10.0,
+   "size": 1.2,
+   "style": "folio",
+   "align": "left",
+   "text": "14"
+  }
+ ]
+}

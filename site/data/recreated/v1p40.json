@@ -1,0 +1,62 @@
+{
+ "v": 1,
+ "p": 40,
+ "bg": "#f2f1ee",
+ "el": [
+  {
+   "k": "art",
+   "x": 4.55,
+   "y": 3.28,
+   "w": 41.0,
+   "h": 45.44
+  },
+  {
+   "k": "art",
+   "x": 50.13,
+   "y": 3.28,
+   "w": 41.67,
+   "h": 46.03
+  },
+  {
+   "k": "art",
+   "x": 49.0,
+   "y": 50.3,
+   "w": 42.8,
+   "h": 44.9
+  },
+  {
+   "k": "txt",
+   "x": 3.45,
+   "y": 77.07,
+   "w": 30.0,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "h": 21.13,
+   "paras": [
+    "These four illustrations demonstrate the chronological stages of a drawing as well as the composition of the objects on the page."
+   ]
+  },
+  {
+   "k": "txt",
+   "x": 3.45,
+   "y": 81.55,
+   "w": 30.0,
+   "size": 1.4,
+   "style": "heading",
+   "align": "left",
+   "text": "To draw a shoe, one begins with a cubistic formulation, although most of the shapes are rounded and flow into one another; a faceted-crystal formation is avoided. The object is structured with transverse and lateral axes on the ground surface. The soft transitions of shapes are drawn with light, scattered lines. The shoelaces are drawn according to their movement in individual surfaces. The lines on the shadow side of the form are accentuated, while those on the lit side tend to fade.",
+   "h": 18.47
+  },
+  {
+   "k": "txt",
+   "x": 3.51,
+   "y": 96.07,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "text": "38"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "sections": [
+  {
+   "title": "Title Page",
+   "page": 1,
+   "level": 1
+  },
+  {
+   "title": "General Introduction",
+   "page": 7,
+   "level": 1
+  },
+  {
+   "title": "Table of Contents",
+   "page": 8,
+   "level": 1
+  },
+  {
+   "title": "Foundation Program Schedule (Summer Semester 1975)",
+   "page": 10,
+   "level": 1
+  },
+  {
+   "title": "Introduction to Volume 3",
+   "page": 12,
+   "level": 1
+  },
+  {
+   "title": "Material Studies",
+   "page": 13,
+   "level": 1
+  },
+  {
+   "title": "Paper Studies",
+   "page": 14,
+   "level": 2
+  },
+  {
+   "title": "Transparency",
+   "page": 34,
+   "level": 2
+  },
+  {
+   "title": "Combination",
+   "page": 37,
+   "level": 2
+  },
+  {
+   "title": "Textile Design",
+   "page": 44,
+   "level": 1
+  },
+  {
+   "title": "Manipulated Structures",
+   "page": 63,
+   "level": 2
+  },
+  {
+   "title": "Color 2",
+   "page": 76,
+   "level": 1
+  },
+  {
+   "title": "Opaque Techniques (Tempera)",
+   "page": 77,
+   "level": 2
+  },
+  {
+   "title": "Collage",
+   "page": 94,
+   "level": 2
+  }
+ ]
+}

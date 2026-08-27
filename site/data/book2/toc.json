@@ -1,0 +1,49 @@
+{
+ "sections": [
+  {
+   "title": "Cover",
+   "page": 1,
+   "level": 1
+  },
+  {
+   "title": "Title Page",
+   "page": 5,
+   "level": 1
+  },
+  {
+   "title": "General Introduction",
+   "page": 7,
+   "level": 1
+  },
+  {
+   "title": "Table of Contents",
+   "page": 8,
+   "level": 1
+  },
+  {
+   "title": "Foundation Program Schedule (Summer Semester 1975)",
+   "page": 10,
+   "level": 1
+  },
+  {
+   "title": "Volume 2 Introduction",
+   "page": 12,
+   "level": 1
+  },
+  {
+   "title": "Memory Drawing",
+   "page": 13,
+   "level": 1
+  },
+  {
+   "title": "Technical Drawing and Perspective",
+   "page": 46,
+   "level": 1
+  },
+  {
+   "title": "Lettering",
+   "page": 78,
+   "level": 1
+  }
+ ]
+}

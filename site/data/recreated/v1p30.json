@@ -1,0 +1,58 @@
+{
+ "v": 1,
+ "p": 30,
+ "bg": "#ecebe9",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.71,
+   "y": 2.8,
+   "w": 64.09,
+   "h": 70.09
+  },
+  {
+   "k": "art",
+   "x": 70.2,
+   "y": 2.95,
+   "w": 27.59,
+   "h": 21.07
+  },
+  {
+   "k": "art",
+   "x": 70.2,
+   "y": 27.55,
+   "w": 27.59,
+   "h": 21.07
+  },
+  {
+   "k": "art",
+   "x": 70.2,
+   "y": 52.21,
+   "w": 27.59,
+   "h": 21.07
+  },
+  {
+   "k": "txt",
+   "x": 3.12,
+   "y": 88.51,
+   "w": 29.9,
+   "size": 1.42,
+   "style": "body",
+   "align": "left",
+   "h": 8.69,
+   "paras": [
+    "In these studies of pliers and shoes negative spaces are drawn as shapes. They clarify the structure of the object and the spatial effect of the representation. Dependency on such helping forms can be avoided with experience."
+   ]
+  },
+  {
+   "k": "txt",
+   "x": 3.12,
+   "y": 95.78,
+   "w": 10.0,
+   "size": 1.5,
+   "style": "folio",
+   "align": "left",
+   "text": "28"
+  }
+ ]
+}

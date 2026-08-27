@@ -1,0 +1,49 @@
+{
+ "sections": [
+  {
+   "title": "Title Page",
+   "page": 1,
+   "level": 1
+  },
+  {
+   "title": "Imprint",
+   "page": 6,
+   "level": 1
+  },
+  {
+   "title": "General Introduction",
+   "page": 7,
+   "level": 1
+  },
+  {
+   "title": "Foundation Program Schedule (Summer Semester 1975)",
+   "page": 10,
+   "level": 1
+  },
+  {
+   "title": "Contents of Volume 1",
+   "page": 11,
+   "level": 1
+  },
+  {
+   "title": "Introduction to Volume 1",
+   "page": 12,
+   "level": 1
+  },
+  {
+   "title": "Object Drawing",
+   "page": 13,
+   "level": 1
+  },
+  {
+   "title": "Object and Museum Drawing",
+   "page": 44,
+   "level": 1
+  },
+  {
+   "title": "Nature Drawing",
+   "page": 76,
+   "level": 1
+  }
+ ]
+}
