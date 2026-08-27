@@ -1,12 +1,62 @@
 const NBOOKS = 4;
+const FRONT_TITLES = new Set([
+  "cover", "title page", "imprint", "general introduction", "table of contents",
+]);
 
-async function loadBook(b) {
-  const res = await fetch(`data/book${b}/pages.json`);
-  return res.json();
+async function loadJson(url) {
+  try {
+    const r = await fetch(url);
+    if (!r.ok) return null;
+    return await r.json();
+  } catch (e) { return null; }
 }
 
 function esc(s) {
   return s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+}
+
+function norm(s) {
+  return s.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+}
+
+/* Load all four volumes and merge them into one continuous book. */
+async function loadMerged() {
+  const vols = [];
+  for (let b = 1; b <= NBOOKS; b++) {
+    const bk = await loadJson(`data/book${b}/pages.json`);
+    if (!bk) continue;
+    const toc = await loadJson(`data/book${b}/toc.json`);
+    const idx = await loadJson(`data/book${b}/index.json`);
+    vols.push({ b, pages: bk.pages, toc: (toc && toc.sections) || [], idx: idx || [] });
+  }
+  let g = 0;
+  const pages = [], sections = [], offsets = {};
+  const termMap = new Map();
+  for (const v of vols) {
+    offsets[v.b] = g;
+    sections.push({ title: `Volume ${v.b}`, gpage: g + 1, level: 0, b: v.b });
+    for (const s of v.toc)
+      sections.push({ title: s.title, level: s.level, gpage: g + s.page, b: v.b, vpage: s.page });
+    for (const p of v.pages) pages.push(Object.assign({}, p, { b: v.b, gn: g + p.n }));
+    for (const [t, ps] of v.idx) {
+      if (!termMap.has(t)) termMap.set(t, []);
+      termMap.get(t).push(...ps.map(p => g + p));
+    }
+    g += v.pages.length;
+  }
+  const index = [...termMap.entries()].sort((a, b2) => (a[0] < b2[0] ? -1 : 1));
+
+  // Section titles that are unique content sections -> jump targets for printed contents lines
+  const titleCount = new Map();
+  for (const s of sections) {
+    if (s.level < 1 || FRONT_TITLES.has(norm(s.title).replace(/ volumes? \d.*$/, ""))) continue;
+    const k = norm(s.title);
+    titleCount.set(k, (titleCount.get(k) || []).concat(s.gpage));
+  }
+  const linkMap = new Map();
+  for (const [k, gps] of titleCount) if (gps.length === 1 && k.length >= 6) linkMap.set(k, gps[0]);
+
+  return { pages, sections, index, offsets, linkMap, total: g };
 }
 
 function snippet(text, q) {
@@ -19,12 +69,12 @@ function snippet(text, q) {
   return s;
 }
 
-function searchPages(book, q) {
+function searchPages(pages, q) {
   const hits = [];
-  for (const p of book.pages) {
+  for (const p of pages) {
     const text = p.lines.map(l => l.t).join(" ");
     if (text.toLowerCase().includes(q.toLowerCase())) {
-      hits.push({ book: book.book, page: p.n, snip: snippet(text, q) });
+      hits.push({ b: p.b, n: p.n, gn: p.gn, snip: snippet(text, q) });
     }
   }
   return hits;
@@ -34,26 +84,28 @@ function searchPages(book, q) {
 
 async function initHome() {
   const grid = document.getElementById("books");
-  const books = [];
+  let offset = 0;
+  const allPages = [];
   for (let b = 1; b <= NBOOKS; b++) {
-    try {
-      const bk = await loadBook(b);
-      books.push(bk);
-      const a = document.createElement("div");
-      a.className = "bookcard";
-      let secs = "";
-      try {
-        const toc = await (await fetch(`data/book${b}/toc.json`)).json();
-        secs = toc.sections.filter(s => s.level === 1 && s.page >= 12)
-          .map(s => `<a class="seclink" href="book.html?b=${b}&p=${s.page}">${esc(s.title)}</a>`)
-          .join("");
-      } catch (e) { /* no toc */ }
-      a.innerHTML = `<a href="book.html?b=${b}">
-          <img src="data/book${b}/thumb/p000.jpg" loading="lazy">
-          <div class="label">Volume ${b}<span>${bk.pages.length} pages</span></div></a>
-        <div class="seclinks">${secs}</div>`;
-      grid.appendChild(a);
-    } catch (e) { /* book not built yet */ }
+    const bk = await loadJson(`data/book${b}/pages.json`);
+    if (!bk) continue;
+    const myOffset = offset;
+    for (const p of bk.pages) allPages.push(Object.assign({}, p, { b, gn: myOffset + p.n }));
+    const card = document.createElement("div");
+    card.className = "bookcard";
+    let secs = "";
+    const toc = await loadJson(`data/book${b}/toc.json`);
+    if (toc && toc.sections) {
+      secs = toc.sections.filter(s => s.level === 1 && s.page >= 12)
+        .map(s => `<a class="seclink" href="book.html?p=${myOffset + s.page}">${esc(s.title)}</a>`)
+        .join("");
+    }
+    card.innerHTML = `<a href="book.html?p=${myOffset + 1}">
+        <img src="data/book${b}/thumb/p000.jpg" loading="lazy">
+        <div class="label">Volume ${b}<span>${bk.pages.length} pages</span></div></a>
+      <div class="seclinks">${secs}</div>`;
+    grid.appendChild(card);
+    offset += bk.pages.length;
   }
 
   const input = document.getElementById("q");
@@ -62,47 +114,49 @@ async function initHome() {
     const q = input.value.trim();
     results.innerHTML = "";
     if (q.length < 3) return;
-    let all = [];
-    for (const bk of books) all = all.concat(searchPages(bk, q));
+    const all = searchPages(allPages, q);
     results.innerHTML = `<div class="rcount">${all.length} pages match</div>` +
       all.slice(0, 200).map(h =>
-        `<a class="result" href="book.html?b=${h.book}&p=${h.page}&q=${encodeURIComponent(q)}">
-          <div class="where">Volume ${h.book} · page ${h.page}</div><div>${h.snip}</div></a>`
+        `<a class="result" href="book.html?p=${h.gn}&q=${encodeURIComponent(q)}">
+          <div class="where">Volume ${h.b} · page ${h.n}</div><div>${h.snip}</div></a>`
       ).join("");
   });
 }
 
-/* ---------- book viewer ---------- */
+/* ---------- merged book viewer ---------- */
 
-function renderPage(bookNum, p, q) {
+function renderPage(p, q, linkMap) {
   const div = document.createElement("div");
   div.className = "page";
-  div.id = `page-${p.n}`;
+  div.id = `page-${p.gn}`;
   div.style.aspectRatio = `${p.w} / ${p.h}`;
   const pct = (v, total) => (v / total * 100).toFixed(3);
 
   let html = "";
   for (const im of p.images) {
-    html += `<img class="region" loading="lazy" src="data/book${bookNum}/${im.src}"
+    html += `<img class="region" loading="lazy" src="data/book${p.b}/${im.src}"
       style="left:${pct(im.x, p.w)}%;top:${pct(im.y, p.h)}%;width:${pct(im.w, p.w)}%;height:${pct(im.h, p.h)}%">`;
   }
+  const frontMatter = p.n <= 12;
   for (const l of p.lines) {
     const hl = q && l.t.toLowerCase().includes(q.toLowerCase()) ? " hl" : "";
     const ov = l.ov ? " ov" : "";
-    html += `<div class="tl${hl}${ov}" data-r="${(l.fs / p.w).toFixed(5)}"
-      style="left:${pct(l.x, p.w)}%;top:${pct(l.y, p.h)}%">${esc(l.t)}</div>`;
+    let target = null;
+    if (frontMatter && linkMap) {
+      const t = linkMap.get(norm(l.t));
+      if (t && t !== p.gn) target = t;
+    }
+    const style = `left:${pct(l.x, p.w)}%;top:${pct(l.y, p.h)}%`;
+    if (target) {
+      html += `<a class="tl lnk${hl}${ov}" data-r="${(l.fs / p.w).toFixed(5)}" data-go="${target}"
+        style="${style}" title="Jump to this section">${esc(l.t)}</a>`;
+    } else {
+      html += `<div class="tl${hl}${ov}" data-r="${(l.fs / p.w).toFixed(5)}" style="${style}">${esc(l.t)}</div>`;
+    }
   }
-  div.dataset.scan = `data/book${bookNum}/${p.scan}`;
+  div.dataset.scan = `data/book${p.b}/${p.scan}`;
   div.innerHTML = html;
   return div;
-}
-
-async function loadJson(url) {
-  try {
-    const r = await fetch(url);
-    if (!r.ok) return null;
-    return await r.json();
-  } catch (e) { return null; }
 }
 
 function gotoPage(n) {
@@ -112,20 +166,28 @@ function gotoPage(n) {
 
 async function initBook() {
   const params = new URLSearchParams(location.search);
-  const b = parseInt(params.get("b") || "1");
   const q = params.get("q") || "";
-  const book = await loadBook(b);
-  document.getElementById("booktitle").textContent = `Volume ${b}`;
-  document.title = book.title;
+  const book = await loadMerged();
+  // legacy links: ?b=N&p=<page within volume>
+  let startPage = parseInt(params.get("p") || "0");
+  if (params.get("b") && book.offsets[parseInt(params.get("b"))] !== undefined) {
+    startPage = book.offsets[parseInt(params.get("b"))] + (startPage || 1);
+  }
+  document.getElementById("booktitle").textContent = "Volumes 1–4";
+  document.title = "Basic Principles of Design — Complete";
 
   const main = document.getElementById("pages");
   for (const p of book.pages) {
-    main.appendChild(renderPage(b, p, q));
+    main.appendChild(renderPage(p, q, book.linkMap));
     const no = document.createElement("div");
     no.className = "pageno";
-    no.textContent = p.n;
+    no.textContent = `${p.gn} · Vol. ${p.b} p. ${p.n}`;
     main.appendChild(no);
   }
+  main.addEventListener("click", e => {
+    const a = e.target.closest("a.lnk");
+    if (a) { e.preventDefault(); gotoPage(a.dataset.go); }
+  });
 
   function applyFontSizes() {
     const pw = document.querySelector(".page").getBoundingClientRect().width;
@@ -140,57 +202,61 @@ async function initBook() {
     rt = setTimeout(applyFontSizes, 150);
   });
 
-  const modeBtn = document.getElementById("mode");
-  modeBtn.addEventListener("click", () => {
-    const scan = document.body.classList.toggle("scanmode");
-    modeBtn.textContent = scan ? "Rebuilt view" : "Scan view";
-    modeBtn.classList.toggle("active", scan);
-    document.querySelectorAll(".page").forEach(pg => {
-      let img = pg.querySelector("img.scanimg");
-      if (scan && !img) {
-        img = document.createElement("img");
-        img.className = "scanimg";
-        img.loading = "lazy";
-        img.src = pg.dataset.scan;
-        pg.appendChild(img);
-      } else if (!scan && img) {
-        img.remove();
-      }
-    });
-  });
-
   const pn = document.getElementById("pagenum");
-  pn.max = book.pages.length;
+  pn.max = book.total;
   pn.addEventListener("change", () => gotoPage(pn.value));
 
-  /* ---- sidebar ---- */
-  const toc = await loadJson(`data/book${b}/toc.json`);
+  /* ---- volume switcher ---- */
+  const vs = document.getElementById("volswitch");
+  if (vs) {
+    vs.innerHTML = `<span>Vol.</span>` + Object.keys(book.offsets).map(b =>
+      `<button data-b="${b}">${b}</button>`).join("");
+    vs.querySelectorAll("button").forEach(btn =>
+      btn.addEventListener("click", () => gotoPage(book.offsets[btn.dataset.b] + 1)));
+  }
+
+  /* ---- sidebar: contents ---- */
   const tocPane = document.getElementById("tab-toc");
-  if (toc && toc.sections && toc.sections.length) {
-    tocPane.innerHTML = toc.sections.map((s, i) =>
-      `<a class="toc-item l${s.level}" data-p="${s.page}" data-i="${i}">
-        ${esc(s.title)}<span class="pg">${s.page}</span></a>`
+  if (book.sections.length) {
+    tocPane.innerHTML = book.sections.map((s, i) =>
+      `<a class="toc-item l${s.level}" data-p="${s.gpage}" data-i="${i}">
+        ${esc(s.title)}<span class="pg">${s.level === 0 ? "" : s.vpage}</span></a>`
     ).join("");
     tocPane.querySelectorAll(".toc-item").forEach(el =>
       el.addEventListener("click", () => gotoPage(el.dataset.p)));
   } else {
-    tocPane.innerHTML = `<div class="toc-empty">No contents outline available for this volume yet.</div>`;
+    tocPane.innerHTML = `<div class="toc-empty">No contents outline available.</div>`;
   }
 
+  /* ---- sidebar: thumbnails ---- */
   const thumbsPane = document.getElementById("tab-thumbs");
-  thumbsPane.innerHTML = `<div class="thumbgrid">` + book.pages.map(p =>
-    `<div class="thumb" data-p="${p.n}" id="th-${p.n}">
-      <img loading="lazy" src="data/book${b}/thumb/p${String(p.n - 1).padStart(3, "0")}.jpg">
-      <div class="tn">${p.n}</div></div>`
-  ).join("") + `</div>`;
+  let thtml = "";
+  let lastB = 0;
+  for (const p of book.pages) {
+    if (p.b !== lastB) {
+      if (lastB) thtml += `</div>`;
+      thtml += `<div class="thumbvol">Volume ${p.b}</div><div class="thumbgrid">`;
+      lastB = p.b;
+    }
+    thtml += `<div class="thumb" data-p="${p.gn}" id="th-${p.gn}">
+      <img loading="lazy" src="data/book${p.b}/thumb/p${String(p.n - 1).padStart(3, "0")}.jpg">
+      <div class="tn">${p.n}</div></div>`;
+  }
+  if (lastB) thtml += `</div>`;
+  thumbsPane.innerHTML = thtml;
   thumbsPane.querySelectorAll(".thumb").forEach(el =>
     el.addEventListener("click", () => gotoPage(el.dataset.p)));
 
-  const idx = await loadJson(`data/book${b}/index.json`);
+  /* ---- sidebar: index ---- */
   const idxPane = document.getElementById("tab-idx");
-  if (idx && idx.length) {
+  if (book.index.length) {
+    const gToLabel = g => {
+      let b = 1;
+      for (const [bb, off] of Object.entries(book.offsets)) if (g > off) b = parseInt(bb);
+      return `${b}·${g - book.offsets[b]}`;
+    };
     const byLetter = {};
-    for (const [term, pgs] of idx) (byLetter[term[0].toUpperCase()] ??= []).push([term, pgs]);
+    for (const [term, pgs] of book.index) (byLetter[term[0].toUpperCase()] ??= []).push([term, pgs]);
     const letters = Object.keys(byLetter).sort();
     let html = `<div class="letternav">` +
       letters.map(L => `<a href="#idx-${L}">${L}</a>`).join("") + `</div>`;
@@ -198,7 +264,7 @@ async function initBook() {
       html += `<div class="idx-letter" id="idx-${L}">${L}</div>`;
       for (const [term, pgs] of byLetter[L]) {
         html += `<div class="idx-term">${esc(term)}
-          <span class="pgs">${pgs.map(p => `<a data-p="${p}">${p}</a>`).join("")}</span></div>`;
+          <span class="pgs">${pgs.map(p => `<a data-p="${p}" title="Volume ${gToLabel(p).split("·")[0]}, page ${gToLabel(p).split("·")[1]}">${gToLabel(p)}</a>`).join("")}</span></div>`;
       }
     }
     idxPane.innerHTML = html;
@@ -206,6 +272,7 @@ async function initBook() {
       el.addEventListener("click", () => gotoPage(el.dataset.p)));
   }
 
+  /* ---- tabs / sidebar toggle ---- */
   document.querySelectorAll(".tabs button").forEach(btn =>
     btn.addEventListener("click", () => {
       document.querySelectorAll(".tabs button").forEach(x => x.classList.remove("active"));
@@ -217,27 +284,26 @@ async function initBook() {
     document.body.classList.toggle("nosb"));
 
   /* ---- current-page tracking ---- */
-  let curPage = 1;
+  let curPage = 0;
   function setCurrent(n) {
     if (n === curPage) return;
     curPage = n;
     pn.value = n;
     const u = new URL(location);
+    u.searchParams.delete("b");
     u.searchParams.set("p", n);
     history.replaceState(null, "", u);
     document.querySelectorAll(".thumb.cur").forEach(x => x.classList.remove("cur"));
     document.getElementById(`th-${n}`)?.classList.add("cur");
-    if (toc && toc.sections) {
-      let cur = -1;
-      toc.sections.forEach((s, i) => { if (s.page <= n) cur = i; });
-      document.querySelectorAll(".toc-item.cur").forEach(x => x.classList.remove("cur"));
-      if (cur >= 0) {
-        const el = tocPane.querySelector(`[data-i="${cur}"]`);
-        if (el) {
-          el.classList.add("cur");
-          if (document.getElementById("tab-toc").classList.contains("active"))
-            el.scrollIntoView({ block: "nearest" });
-        }
+    let cur = -1;
+    book.sections.forEach((s, i) => { if (s.gpage <= n) cur = i; });
+    document.querySelectorAll(".toc-item.cur").forEach(x => x.classList.remove("cur"));
+    if (cur >= 0) {
+      const el = tocPane.querySelector(`[data-i="${cur}"]`);
+      if (el) {
+        el.classList.add("cur");
+        if (document.getElementById("tab-toc").classList.contains("active"))
+          el.scrollIntoView({ block: "nearest" });
       }
     }
   }
@@ -257,13 +323,34 @@ async function initBook() {
     if (e.target.tagName === "INPUT") return;
     if (e.key === "ArrowRight" || e.key === "PageDown") {
       e.preventDefault();
-      gotoPage(Math.min(curPage + 1, book.pages.length));
+      gotoPage(Math.min(curPage + 1, book.total));
     } else if (e.key === "ArrowLeft" || e.key === "PageUp") {
       e.preventDefault();
       gotoPage(Math.max(curPage - 1, 1));
     }
   });
 
+  /* ---- scan mode toggle ---- */
+  const modeBtn = document.getElementById("mode");
+  modeBtn.addEventListener("click", () => {
+    const scan = document.body.classList.toggle("scanmode");
+    modeBtn.textContent = scan ? "Rebuilt view" : "Scan view";
+    modeBtn.classList.toggle("active", scan);
+    document.querySelectorAll(".page").forEach(pg => {
+      let img = pg.querySelector("img.scanimg");
+      if (scan && !img) {
+        img = document.createElement("img");
+        img.className = "scanimg";
+        img.loading = "lazy";
+        img.src = pg.dataset.scan;
+        pg.appendChild(img);
+      } else if (!scan && img) {
+        img.remove();
+      }
+    });
+  });
+
+  /* ---- search ---- */
   const input = document.getElementById("q");
   const results = document.getElementById("results");
   input.value = q;
@@ -271,16 +358,16 @@ async function initBook() {
     const qq = input.value.trim();
     results.innerHTML = "";
     if (qq.length < 3) return;
-    const hits = searchPages(book, qq);
+    const hits = searchPages(book.pages, qq);
     results.innerHTML = `<div class="rcount">${hits.length} pages match</div>` +
       hits.map(h =>
-        `<div class="result" data-p="${h.page}">
-          <div class="where">Page ${h.page}</div><div>${h.snip}</div></div>`
+        `<div class="result" data-p="${h.gn}">
+          <div class="where">Vol. ${h.b} · page ${h.n}</div><div>${h.snip}</div></div>`
       ).join("");
     results.querySelectorAll(".result").forEach(el => {
       el.addEventListener("click", () => {
         highlight(input.value.trim());
-        document.getElementById(`page-${el.dataset.p}`).scrollIntoView({ behavior: "smooth" });
+        gotoPage(el.dataset.p);
       });
     });
   });
@@ -291,8 +378,8 @@ async function initBook() {
     });
   }
 
-  if (params.get("p")) {
-    const el = document.getElementById(`page-${params.get("p")}`);
+  if (startPage) {
+    const el = document.getElementById(`page-${startPage}`);
     if (el) el.scrollIntoView();
   }
 }

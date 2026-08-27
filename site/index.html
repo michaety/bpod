@@ -3,22 +3,36 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Basic Principles of Design — Library</title>
+<title>Basic Principles of Design</title>
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 <header class="topbar">
-  <h1>Basic Principles of Design</h1>
-  <span class="sub">Manfred Maier · Van Nostrand Reinhold, 1977 · private study copy</span>
-</header>
-<main class="home">
-  <div class="searchbox">
-    <input id="q" type="search" placeholder="Search all four volumes…" autofocus>
+  <a href="library.html" class="back">Library</a>
+  <button id="sbtoggle" title="Toggle sidebar">&#9776;</button>
+  <h1 id="booktitle"></h1>
+  <div id="volswitch" class="volswitch"></div>
+  <div class="controls">
+    <input id="q" type="search" placeholder="Search this volume…">
+    <label class="pagejump">Page <input id="pagenum" type="number" min="1" value="1"></label>
+    <button id="mode" title="Toggle rebuilt / original scan view">Scan view</button>
   </div>
-  <div id="results" class="results"></div>
-  <div id="books" class="bookgrid"></div>
-</main>
+</header>
+<div id="results" class="results floatpanel"></div>
+<div class="layout">
+  <aside id="sidebar">
+    <div class="tabs">
+      <button data-tab="toc" class="active">Contents</button>
+      <button data-tab="thumbs">Pages</button>
+      <button data-tab="idx">Index</button>
+    </div>
+    <div id="tab-toc" class="tabpane active"></div>
+    <div id="tab-thumbs" class="tabpane"></div>
+    <div id="tab-idx" class="tabpane"></div>
+  </aside>
+  <main id="pages" class="pages"></main>
+</div>
 <script src="assets/app.js"></script>
-<script>initHome();</script>
+<script>initBook();</script>
 </body>
 </html>
