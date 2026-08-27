@@ -1,0 +1,76 @@
+{
+ "v": 2,
+ "p": 11,
+ "bg": "#eeeee6",
+ "el": [
+  {
+   "k": "txt",
+   "x": 27.54,
+   "y": 3.19,
+   "w": 9,
+   "size": 1.75,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Volume"
+  },
+  {
+   "k": "txt",
+   "x": 27.54,
+   "y": 5.05,
+   "w": 9,
+   "size": 1.75,
+   "style": "heading",
+   "align": "left",
+   "weight": "bold",
+   "text": "2"
+  },
+  {
+   "k": "txt",
+   "x": 36.75,
+   "y": 3.19,
+   "w": 58,
+   "size": 1.75,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Memory Drawing",
+   "link": "Memory Drawing"
+  },
+  {
+   "k": "txt",
+   "x": 36.75,
+   "y": 5.25,
+   "w": 58,
+   "size": 1.75,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Technical Drawing and Perspective",
+   "link": "Technical Drawing and Perspective"
+  },
+  {
+   "k": "txt",
+   "x": 36.75,
+   "y": 7.11,
+   "w": 58,
+   "size": 1.75,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Lettering",
+   "link": "Lettering"
+  },
+  {
+   "k": "txt",
+   "x": 88.0,
+   "y": 96.4,
+   "w": 10,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "9"
+  }
+ ]
+}

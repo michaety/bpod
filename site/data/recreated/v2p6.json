@@ -1,13 +1,13 @@
 {
- "v": 1,
+ "v": 2,
  "p": 6,
- "bg": "#d4d4d0",
+ "bg": "#eeeee6",
  "el": [
   {
    "k": "txt",
-   "x": 1.6,
-   "y": 47.61,
-   "w": 31.0,
+   "x": 1.78,
+   "y": 48.27,
+   "w": 31,
    "size": 1.35,
    "style": "body",
    "align": "left",
@@ -31,23 +31,56 @@
     "Joseph Finocchiaro",
     "William Longhauser",
     "Janet Longhauser",
-    "Library of Congress Catalog Card Number",
-    "77-3493",
-    "ISBN 0-442-24977-2 (v.1)",
-    "ISBN 0-442-24978-0 (v.2)",
-    "ISBN 0-442-24979-9 (v.3)",
-    "ISBN 0-442-24980-2 (v.4)",
-    "All rights reserved. No part of this work covered by the copyright hereon may be reproduced or used in any form or by any means—graphic, electronic, or mechanical, including photocopying, recording, taping, or information storage and retrieval systems—without written permission of the publisher.",
-    "Printed in Switzerland",
-    "Composition: Schüler AG, Biel"
+    "Library of Congress Catalog Card Number"
    ],
-   "h": 22.07
+   "h": 21.6
   },
   {
    "k": "txt",
-   "x": 1.6,
-   "y": 90.97,
-   "w": 31.0,
+   "x": 1.91,
+   "y": 70.47,
+   "w": 31,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "77-3493",
+    "ISBN 0-442-24977-2 (v. 1)",
+    "ISBN 0-442-24978-0 (v. 2)",
+    "ISBN 0-442-24979-9 (v. 3)",
+    "ISBN 0-442-24980-2 (v. 4)",
+    "All rights reserved. No part of this work covered by the copyright hereon may be reproduced or used in any form or by any means—graphic, electronic, or mechanical, including photocopying, recording, taping, or information storage and retrieval systems—without written permission of the publisher."
+   ],
+   "h": 7.09
+  },
+  {
+   "k": "txt",
+   "x": 1.85,
+   "y": 87.99,
+   "w": 31,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Printed in Switzerland"
+  },
+  {
+   "k": "txt",
+   "x": 1.85,
+   "y": 90.39,
+   "w": 31,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Composition: Schüler AG, Biel"
+  },
+  {
+   "k": "txt",
+   "x": 1.85,
+   "y": 91.61,
+   "w": 31,
    "size": 1.35,
    "style": "body",
    "align": "left",
@@ -56,9 +89,9 @@
   },
   {
    "k": "txt",
-   "x": 1.6,
-   "y": 92.06,
-   "w": 31.0,
+   "x": 1.85,
+   "y": 92.78,
+   "w": 31,
    "size": 1.35,
    "style": "body",
    "align": "left",
@@ -67,9 +100,9 @@
   },
   {
    "k": "txt",
-   "x": 1.6,
-   "y": 93.24,
-   "w": 31.0,
+   "x": 1.85,
+   "y": 94.0,
+   "w": 31,
    "size": 1.35,
    "style": "body",
    "align": "left",
@@ -78,9 +111,9 @@
   },
   {
    "k": "txt",
-   "x": 33.84,
-   "y": 47.66,
-   "w": 32.0,
+   "x": 34.06,
+   "y": 48.22,
+   "w": 31,
    "size": 1.35,
    "style": "body",
    "align": "left",
@@ -91,45 +124,85 @@
     "A Division of Litton Educational Publishing, Inc.",
     "450 West 33rd Street",
     "New York, NY 10001, U.S.A.",
-    "Van Nostrand Reinhold Limited",
-    "1410 Birchmount Road",
-    "Scarborough, Ontario M1P 2E7, Canada",
-    "Van Nostrand Reinhold Australia Pty. Ltd.",
-    "17 Queen Street",
-    "Mitcham, Victoria 3132, Australia"
+    "Van Nostrand Reinhold Limited"
    ],
-   "h": 5.8
+   "h": 5.79
   },
   {
    "k": "txt",
-   "x": 34.04,
-   "y": 54.71,
-   "w": 32.0,
+   "x": 34.1,
+   "y": 56.42,
+   "w": 31,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "1410 Birchmount Road"
+  },
+  {
+   "k": "txt",
+   "x": 34.1,
+   "y": 57.49,
+   "w": 31,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Scarborough, Ontario M1P 2E7, Canada"
+  },
+  {
+   "k": "txt",
+   "x": 34.1,
+   "y": 59.88,
+   "w": 31,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Van Nostrand Reinhold Australia Pty. Ltd."
+  },
+  {
+   "k": "txt",
+   "x": 34.1,
+   "y": 61.1,
+   "w": 31,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "17 Queen Street"
+  },
+  {
+   "k": "txt",
+   "x": 34.19,
+   "y": 64.57,
+   "w": 31,
    "size": 1.35,
    "style": "body",
    "align": "left",
    "weight": "normal",
    "paras": [
+    "Mitcham, Victoria 3132, Australia",
     "Van Nostrand Reinhold Company Ltd.",
     "Molly Millars Lane",
-    "Wokingham, Berkshire, England"
-   ],
-   "h": 3.45
-  },
-  {
-   "k": "txt",
-   "x": 34.11,
-   "y": 59.4,
-   "w": 32.0,
-   "size": 1.35,
-   "style": "body",
-   "align": "left",
-   "weight": "normal",
-   "paras": [
+    "Wokingham, Berkshire, England",
     "16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1",
     "Library of Congress Cataloging in Publication",
     "Data",
-    "Maier, Manfred",
+    "Maier, Manfred"
+   ],
+   "h": 9.52
+  },
+  {
+   "k": "txt",
+   "x": 34.26,
+   "y": 75.16,
+   "w": 31,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
     "Basic principles of design.",
     "Translation of Elementare Entwurfs- und Gestaltungsprozesse. Die Grundkurse an der Kunstgewerbeschule Basel, Schweiz.",
     "CONTENTS: v.1. Object drawing, object and museum drawing, nature drawing. — v.2. Memory drawing, technical drawing and perspective, lettering. — v.3. Material studies, textile design, color 2. — v.4. Color 1, graphic exercises, dimensional design.",
@@ -140,7 +213,7 @@
     "ISBN 0-442-24979-9 (v.3)",
     "ISBN 0-442-24980-2 (v.4)"
    ],
-   "h": 3.4
+   "h": 21.06
   }
  ]
 }
