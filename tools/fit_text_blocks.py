@@ -81,9 +81,17 @@ def main():
         def paras_of(e):
             return e["paras"] if e.get("paras") else [e.get("text", "")]
 
+        # recompute text heights from scratch each run so re-runs are idempotent.
+        # art rectangles keep their own h - it is their measured geometry.
+        for e in el:
+            if e.get("k") == "txt":
+                e.pop("h", None)
+
+        # any long run of text flows, whatever style it was labelled; a genuine
+        # heading or folio is short and keeps its own line
         flow = [e for e in el
                 if e.get("k") == "txt"
-                and e.get("style") in ("body", "caption")
+                and e.get("style") != "folio"
                 and len(" ".join(paras_of(e))) >= 45]
         touched = False
         claimed = set()
@@ -92,11 +100,15 @@ def main():
             bx, by = bl["x0"] / PW * 100, bl["y0"] / PH * 100
             bh = (bl["y1"] - bl["y0"]) / PH * 100
             bw = (bl["x1"] - bl["x0"]) / PW * 100
-            members = [e for e in flow
-                       if id(e) not in claimed
+            # every non-folio line sitting inside this printed block belongs to it,
+            # including short ones the length filter skipped
+            members = [e for e in el
+                       if e.get("k") == "txt"
+                       and e.get("style") != "folio"
+                       and id(e) not in claimed
                        and abs(e["x"] - bx) < 8
                        and by - 2.5 <= e["y"] <= by + bh + 2.5]
-            if not members:
+            if not any(len(" ".join(paras_of(m))) >= 45 for m in members):
                 continue
             members.sort(key=lambda e: e["y"])
             for e in members:
@@ -120,6 +132,23 @@ def main():
         for e in flow:
             if id(e) not in claimed:
                 skipped.append(f"{f}: unmatched block {e.get('text','')[:34]!r}")
+
+        # Hard guard: never let a fitted block reach anything below it in the same
+        # column - a following paragraph, a heading, or the printed folio.
+        txts = [e for e in el if e.get("k") == "txt"]
+        for e in txts:
+            if "h" not in e:
+                continue
+            ex0, ex1 = e["x"], e["x"] + e.get("w", 0)
+            below = [o["y"] for o in txts
+                     if o is not e
+                     and o["y"] > e["y"] + 0.5
+                     and min(ex1, o["x"] + o.get("w", 0)) - max(ex0, o["x"]) > 1]
+            if below:
+                limit = min(below) - e["y"] - 0.6
+                if limit > 0 and e["h"] > limit:
+                    e["h"] = round(limit, 2)
+                    touched = True
 
         if touched:
             with open(path, "w", encoding="utf-8") as fh:
