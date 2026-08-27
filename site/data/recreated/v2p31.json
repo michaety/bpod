@@ -1,0 +1,74 @@
+{
+ "v": 2,
+ "p": 31,
+ "bg": "#ecece4",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.62,
+   "y": 3.53,
+   "w": 43.5,
+   "h": 23.54
+  },
+  {
+   "k": "art",
+   "x": 54.89,
+   "y": 5.1,
+   "w": 42.46,
+   "h": 22.76
+  },
+  {
+   "k": "art",
+   "x": 3.62,
+   "y": 28.25,
+   "w": 42.98,
+   "h": 22.76
+  },
+  {
+   "k": "art",
+   "x": 54.89,
+   "y": 29.03,
+   "w": 41.94,
+   "h": 22.76
+  },
+  {
+   "k": "art",
+   "x": 3.11,
+   "y": 52.57,
+   "w": 43.5,
+   "h": 22.76
+  },
+  {
+   "k": "art",
+   "x": 54.89,
+   "y": 58.07,
+   "w": 22.78,
+   "h": 17.26
+  },
+  {
+   "k": "txt",
+   "x": 53.85,
+   "y": 90.14,
+   "w": 30,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In the gray-value and color studies of the selected composition both bright colors were changed. The above unmixed-color combination was used in the enlargement. The corresponding sketch appears on the following page."
+   ],
+   "h": 5.93
+  },
+  {
+   "k": "txt",
+   "x": 85.86,
+   "y": 97.69,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "29"
+  }
+ ]
+}

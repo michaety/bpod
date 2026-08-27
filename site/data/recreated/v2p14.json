@@ -82,25 +82,15 @@
   },
   {
    "k": "txt",
-   "x": 33.7,
+   "x": 33.65,
    "y": 83.16,
    "w": 29,
    "size": 1.3,
    "style": "body",
    "align": "left",
    "weight": "normal",
-   "text": "The top row shows:"
-  },
-  {
-   "k": "txt",
-   "x": 33.72,
-   "y": 86.73,
-   "w": 29,
-   "size": 1.3,
-   "style": "body",
-   "align": "left",
-   "weight": "normal",
    "paras": [
+    "The top row shows:",
     "a wall and floor in the same relationship;",
     "a small wall with a large floor surface;",
     "and a large wall with a small floor.",
@@ -109,7 +99,7 @@
     "a large floor with a small wall;",
     "and a large wall with a small floor."
    ],
-   "h": 8.69
+   "h": 2.17
   },
   {
    "k": "txt",

@@ -99,20 +99,7 @@
     "Mitcham, Victoria 3132, Australia",
     "Van Nostrand Reinhold Company Ltd.",
     "Molly Millars Lane",
-    "Wokingham, Berkshire, England"
-   ],
-   "h": 5.8
-  },
-  {
-   "k": "txt",
-   "x": 34.04,
-   "y": 54.71,
-   "w": 32.0,
-   "size": 1.35,
-   "style": "body",
-   "align": "left",
-   "weight": "normal",
-   "paras": [
+    "Wokingham, Berkshire, England",
     "16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1",
     "Library of Congress Cataloging in Publication",
     "Data",
@@ -127,7 +114,7 @@
     "ISBN 0-442-24979-9 (v.3)",
     "ISBN 0-442-24980-2 (v.4)"
    ],
-   "h": 3.45
+   "h": 5.8
   }
  ]
 }

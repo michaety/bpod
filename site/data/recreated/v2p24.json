@@ -1,0 +1,74 @@
+{
+ "v": 2,
+ "p": 24,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.54,
+   "y": 3.87,
+   "w": 42.0,
+   "h": 22.43
+  },
+  {
+   "k": "art",
+   "x": 51.22,
+   "y": 2.71,
+   "w": 43.0,
+   "h": 23.2
+  },
+  {
+   "k": "art",
+   "x": 1.54,
+   "y": 27.84,
+   "w": 42.0,
+   "h": 22.43
+  },
+  {
+   "k": "art",
+   "x": 51.73,
+   "y": 27.07,
+   "w": 43.02,
+   "h": 22.81
+  },
+  {
+   "k": "art",
+   "x": 2.05,
+   "y": 51.43,
+   "w": 42.0,
+   "h": 22.43
+  },
+  {
+   "k": "art",
+   "x": 52.24,
+   "y": 51.04,
+   "w": 43.02,
+   "h": 22.81
+  },
+  {
+   "k": "txt",
+   "x": 2.56,
+   "y": 88.4,
+   "w": 29,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In these sketches on the same theme the differentiated treatment of the foreground and the checkered floor is particularly interesting. In this interpretation of the theme the desired wish appears to be breakfast served in bed."
+   ],
+   "h": 5.89
+  },
+  {
+   "k": "txt",
+   "x": 2.63,
+   "y": 95.87,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "22"
+  }
+ ]
+}

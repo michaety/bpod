@@ -117,25 +117,15 @@
   },
   {
    "k": "txt",
-   "x": 34.1,
-   "y": 56.42,
-   "w": 31,
-   "size": 1.35,
-   "style": "body",
-   "align": "left",
-   "weight": "normal",
-   "text": "1410 Birchmount Road"
-  },
-  {
-   "k": "txt",
    "x": 34.12,
-   "y": 59.88,
+   "y": 55.25,
    "w": 31,
    "size": 1.35,
    "style": "body",
    "align": "left",
    "weight": "normal",
    "paras": [
+    "1410 Birchmount Road",
     "Scarborough, Ontario M1P 2E7, Canada",
     "Van Nostrand Reinhold Australia Pty. Ltd.",
     "17 Queen Street",
@@ -148,12 +138,12 @@
     "Data",
     "Maier, Manfred"
    ],
-   "h": 3.36
+   "h": 3.47
   },
   {
    "k": "txt",
-   "x": 34.19,
-   "y": 64.57,
+   "x": 34.12,
+   "y": 59.88,
    "w": 31,
    "size": 1.35,
    "style": "body",
@@ -170,7 +160,7 @@
     "ISBN 0-442-24979-9 (v.3)",
     "ISBN 0-442-24980-2 (v.4)"
    ],
-   "h": 9.52
+   "h": 3.36
   }
  ]
 }

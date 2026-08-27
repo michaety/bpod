@@ -1,0 +1,88 @@
+{
+ "v": 2,
+ "p": 23,
+ "bg": "#ecebe4",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.11,
+   "y": 1.96,
+   "w": 30.57,
+   "h": 23.15
+  },
+  {
+   "k": "art",
+   "x": 54.0,
+   "y": 3.05,
+   "w": 43.0,
+   "h": 22.7
+  },
+  {
+   "k": "art",
+   "x": 1.58,
+   "y": 26.29,
+   "w": 31.09,
+   "h": 22.76
+  },
+  {
+   "k": "art",
+   "x": 54.28,
+   "y": 27.46,
+   "w": 42.69,
+   "h": 22.36
+  },
+  {
+   "k": "art",
+   "x": 1.58,
+   "y": 50.61,
+   "w": 30.57,
+   "h": 23.15
+  },
+  {
+   "k": "art",
+   "x": 53.75,
+   "y": 51.4,
+   "w": 42.69,
+   "h": 22.36
+  },
+  {
+   "k": "txt",
+   "x": 1.12,
+   "y": 74.94,
+   "w": 31,
+   "size": 1.3,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The students are sketching in pencil, working on color sketches, and making enlargements."
+   ],
+   "h": 2.18
+  },
+  {
+   "k": "txt",
+   "x": 53.56,
+   "y": 90.63,
+   "w": 29,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "These three sketches on the theme breakfast were done directly with the brush, using black, white, and gray tones."
+   ],
+   "h": 3.43
+  },
+  {
+   "k": "txt",
+   "x": 86.29,
+   "y": 95.82,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "21"
+  }
+ ]
+}

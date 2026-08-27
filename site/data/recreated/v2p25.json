@@ -1,0 +1,53 @@
+{
+ "v": 2,
+ "p": 25,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "art",
+   "x": 10.36,
+   "y": 3.14,
+   "w": 87.51,
+   "h": 47.87
+  },
+  {
+   "k": "art",
+   "x": 10.0,
+   "y": 52.18,
+   "w": 42.6,
+   "h": 22.76
+  },
+  {
+   "k": "art",
+   "x": 54.4,
+   "y": 52.18,
+   "w": 42.2,
+   "h": 22.76
+  },
+  {
+   "k": "txt",
+   "x": 9.13,
+   "y": 89.65,
+   "w": 30,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Two bright colors, black, and white were used for this enlargement. Both color sketches were selected for enlargement because of the spontaneous working method and the partially glazed application of the paint."
+   ],
+   "h": 5.98
+  },
+  {
+   "k": "txt",
+   "x": 86.0,
+   "y": 97.35,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "23"
+  }
+ ]
+}
