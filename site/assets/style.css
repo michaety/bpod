@@ -147,11 +147,13 @@ body.nosb #sidebar { display: none; }
 .volswitch { display: flex; gap: 4px; align-items: center; font-size: 13px; color: #666; }
 .volswitch button { padding: 4px 10px; }
 
-/* clickable printed-contents lines */
-.page a.tl.lnk { color: var(--accent); text-decoration: none; }
-.page a.tl.lnk:hover { text-decoration: underline; }
-.page a.tl.lnk.ov { color: transparent; }
-.page a.tl.lnk.ov:hover { background: rgba(200, 55, 45, .12); }
+/* clickable printed-contents lines: transparent hotspots over the scan */
+.page a.tl.lnk {
+  color: transparent;
+  border-bottom: 2px solid rgba(200, 55, 45, .45);
+  cursor: pointer;
+}
+.page a.tl.lnk:hover { background: rgba(200, 55, 45, .14); border-radius: 2px; }
 
 /* contents tab */
 .toc-item.l0 {
@@ -228,19 +230,15 @@ body.nosb #sidebar { display: none; }
   position: absolute;
   white-space: nowrap;
   line-height: 1;
-  color: var(--ink);
+  color: transparent;
+  z-index: 2;
 }
-.page .tl.hl { background: #ffe27a; }
-.page .tl.ov { color: transparent; }
-.page .tl.ov.hl { background: rgba(255, 226, 122, .55); }
-.page .tl.ov::selection { background: rgba(60, 120, 255, .35); }
-.page img.region { position: absolute; }
-.page img.scanimg { position: absolute; inset: 0; width: 100%; height: 100%; }
+.page .tl::selection { background: rgba(60, 120, 255, .35); }
+.page .tl.hl { background: rgba(255, 226, 122, .55); border-radius: 2px; }
+.page img.scanimg { position: absolute; inset: 0; width: 100%; height: 100%; z-index: 1; }
 .pageno {
   text-align: center;
   color: #666;
   font-size: 12px;
   margin: -22px 0 26px;
 }
-body.scanmode .page .tl { color: transparent; }
-body.scanmode .page .tl.hl { background: rgba(255, 226, 122, .55); }

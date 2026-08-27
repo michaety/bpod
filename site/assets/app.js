@@ -132,11 +132,7 @@ function renderPage(p, q, linkMap) {
   div.style.aspectRatio = `${p.w} / ${p.h}`;
   const pct = (v, total) => (v / total * 100).toFixed(3);
 
-  let html = "";
-  for (const im of p.images) {
-    html += `<img class="region" loading="lazy" src="data/book${p.b}/${im.src}"
-      style="left:${pct(im.x, p.w)}%;top:${pct(im.y, p.h)}%;width:${pct(im.w, p.w)}%;height:${pct(im.h, p.h)}%">`;
-  }
+  let html = `<img class="scanimg" loading="lazy" decoding="async" src="data/book${p.b}/${p.scan}">`;
   const frontMatter = p.n <= 12;
   for (const l of p.lines) {
     const hl = q && l.t.toLowerCase().includes(q.toLowerCase()) ? " hl" : "";
@@ -154,7 +150,6 @@ function renderPage(p, q, linkMap) {
       html += `<div class="tl${hl}${ov}" data-r="${(l.fs / p.w).toFixed(5)}" style="${style}">${esc(l.t)}</div>`;
     }
   }
-  div.dataset.scan = `data/book${p.b}/${p.scan}`;
   div.innerHTML = html;
   return div;
 }
@@ -328,26 +323,6 @@ async function initBook() {
       e.preventDefault();
       gotoPage(Math.max(curPage - 1, 1));
     }
-  });
-
-  /* ---- scan mode toggle ---- */
-  const modeBtn = document.getElementById("mode");
-  modeBtn.addEventListener("click", () => {
-    const scan = document.body.classList.toggle("scanmode");
-    modeBtn.textContent = scan ? "Rebuilt view" : "Scan view";
-    modeBtn.classList.toggle("active", scan);
-    document.querySelectorAll(".page").forEach(pg => {
-      let img = pg.querySelector("img.scanimg");
-      if (scan && !img) {
-        img = document.createElement("img");
-        img.className = "scanimg";
-        img.loading = "lazy";
-        img.src = pg.dataset.scan;
-        pg.appendChild(img);
-      } else if (!scan && img) {
-        img.remove();
-      }
-    });
   });
 
   /* ---- search ---- */
