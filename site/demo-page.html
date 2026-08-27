@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Page recreation demo</title>
+<style>
+  body { background: #d8d6d1; font-family: Helvetica, Arial, sans-serif; margin: 0; padding: 30px; }
+  .wrap { display: flex; gap: 30px; justify-content: center; align-items: flex-start; }
+  .col { width: 620px; }
+  .col h3 { font-size: 13px; color: #555; margin: 0 0 8px; font-weight: 400; }
+
+  /* --- recreated page --- */
+  .rp {
+    position: relative;
+    aspect-ratio: 1525 / 2036;
+    background: #f2f1ee;
+    box-shadow: 0 3px 14px rgba(0,0,0,.25);
+    container-type: inline-size;
+  }
+  .art {
+    position: absolute;
+    background-image: url("data/book1/img/p013_scan.jpg");
+    background-repeat: no-repeat;
+  }
+  .rp .cap {
+    position: absolute;
+    font-style: italic;
+    font-size: 2.15cqw;
+    line-height: 1.32;
+    color: #1c1c1c;
+  }
+  .rp .folio { position: absolute; font-size: 1.9cqw; color: #444; }
+
+  .scan { width: 100%; display: block; box-shadow: 0 3px 14px rgba(0,0,0,.25); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="col">
+    <h3>Recreated page — live text, artwork windowed from the scan</h3>
+    <div class="rp" id="rp">
+      <div class="cap" style="left:2.5%;top:85.6%;width:29%">
+        Proceeding from the basic measurements of the cube, different model positions are
+        achieved by grouping the rectangular solids.
+      </div>
+      <div class="folio" style="left:2.7%;top:94.6%">12</div>
+    </div>
+  </div>
+  <div class="col">
+    <h3>Original scan</h3>
+    <img class="scan" src="data/book1/img/p013_scan.jpg">
+  </div>
+</div>
+
+<script>
+// Place a rectangle of the source scan (all values in % of the page) as a positioned element.
+function art(parent, x, y, w, h) {
+  const d = document.createElement("div");
+  d.className = "art";
+  d.style.left = x + "%";
+  d.style.top = y + "%";
+  d.style.width = w + "%";
+  d.style.height = h + "%";
+  d.style.backgroundSize = (100 / w * 100) + "% " + (100 / h * 100) + "%";
+  d.style.backgroundPosition = (x / (100 - w) * 100) + "% " + (y / (100 - h) * 100) + "%";
+  parent.appendChild(d);
+}
+const rp = document.getElementById("rp");
+art(rp, 3.8, 3.4, 27.2, 21.5);   // cube photo 1
+art(rp, 3.8, 27.9, 27.2, 21.4);  // cube photo 2
+art(rp, 3.8, 52.4, 27.2, 21.4);  // cube photo 3
+art(rp, 32.1, 3.4, 65.4, 70.4);  // large drawing panel
+</script>
+</body>
+</html>

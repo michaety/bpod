@@ -125,6 +125,45 @@ async function initHome() {
 
 /* ---------- merged book viewer ---------- */
 
+/* A hand-authored recreation: live text over artwork windowed out of the scan. */
+function renderRecreated(p, rec, q, sectionPages) {
+  const div = document.createElement("div");
+  div.className = "page rpage";
+  div.id = `page-${p.gn}`;
+  div.style.aspectRatio = `${p.w} / ${p.h}`;
+  if (rec.bg) div.style.background = rec.bg;
+  const scan = `data/book${p.b}/${p.scan}`;
+
+  let html = "";
+  for (const e of rec.el || []) {
+    if (e.k === "art") {
+      const bx = e.w >= 100 ? 0 : e.x / (100 - e.w) * 100;
+      const by = e.h >= 100 ? 0 : e.y / (100 - e.h) * 100;
+      html += `<div class="art" style="left:${e.x}%;top:${e.y}%;width:${e.w}%;height:${e.h}%;
+        background-image:url('${scan}');
+        background-size:${(100 / e.w * 100).toFixed(2)}% ${(100 / e.h * 100).toFixed(2)}%;
+        background-position:${bx.toFixed(2)}% ${by.toFixed(2)}%"></div>`;
+    } else if (e.k === "txt") {
+      const hl = q && e.text.toLowerCase().includes(q.toLowerCase()) ? " hl" : "";
+      const target = e.link && sectionPages[e.link];
+      const style = `left:${e.x}%;top:${e.y}%;` +
+        (e.w ? `width:${e.w}%;` : "") +
+        `font-size:${e.size}cqw;` +
+        (e.align && e.align !== "left" ? `text-align:${e.align};` : "");
+      const cls = `rt rt-${e.style || "body"}${hl}`;
+      html += target && target !== p.gn
+        ? `<a class="${cls} rlnk" data-p="${target}" style="${style}">${esc(e.text)}</a>`
+        : `<div class="${cls}" style="${style}">${esc(e.text)}</div>`;
+    }
+  }
+  div.innerHTML = html;
+  div.addEventListener("click", ev => {
+    const a = ev.target.closest("a.rlnk");
+    if (a) { ev.preventDefault(); gotoPage(a.dataset.p); }
+  });
+  return div;
+}
+
 function renderPage(p, q, linkMap) {
   const div = document.createElement("div");
   div.className = "page";
@@ -201,9 +240,32 @@ async function initBook() {
   document.getElementById("booktitle").textContent = "Volumes 1–4";
   document.title = "Basic Principles of Design — Complete";
 
+  /* Load hand-authored page recreations, where they exist. */
+  const sectionPages = {};
+  for (const s of book.sections) if (s.level >= 1) sectionPages[s.title] = s.gpage;
+  const manifest = (await loadJson("data/recreated/manifest.json")) || [];
+  const recs = {};
+  await Promise.all(manifest.map(async key => {
+    const [b, n] = key.split(":");
+    const rec = await loadJson(`data/recreated/v${b}p${n}.json`);
+    if (rec) recs[key] = rec;
+  }));
+
   const main = document.getElementById("pages");
   main.appendChild(renderCover(book));
   for (const p of book.pages) {
+    const rec = recs[`${p.b}:${p.n}`];
+    if (rec) {
+      // recreated transcription is cleaner than OCR: let it drive search too
+      const txt = (rec.el || []).filter(e => e.k === "txt");
+      if (txt.length) p.lines = txt.map(e => ({ t: e.text }));
+      main.appendChild(renderRecreated(p, rec, q, sectionPages));
+      const no = document.createElement("div");
+      no.className = "pageno";
+      no.textContent = `${p.gn} · Vol. ${p.b} p. ${p.n}`;
+      main.appendChild(no);
+      continue;
+    }
     main.appendChild(renderPage(p, q, book.linkMap));
     const no = document.createElement("div");
     no.className = "pageno";
