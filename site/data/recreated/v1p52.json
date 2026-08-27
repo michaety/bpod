@@ -1,5 +1,39 @@
-{ "v": 1, "p": 52, "bg": "#edebe6", "el": [
-  {"k":"art","x":2.39,"y":1.6,"w":70.3,"h":73.2},
-  {"k":"txt","x":75.5,"y":89.2,"w":21.5,"size":1.45,"style":"body","align":"left","weight":"bold","text":"Although the forms of this figure are very simple and strong, its pictorial translation is very difficult for the students, since the surfaces do not have clear boundaries and flow into each other. The first drawing, simplified into geometric forms, is extremely expressive. The figure is handled with a more restrained impression in the second drawing."},
-  {"k":"txt","x":2.98,"y":96.8,"w":8,"size":1.3,"style":"folio","align":"left","weight":"normal","text":"50"}
-] }
+{
+ "v": 1,
+ "p": 52,
+ "bg": "#d0d0cd",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.5,
+   "y": 3.1,
+   "w": 69.8,
+   "h": 69.2
+  },
+  {
+   "k": "txt",
+   "x": 66.49,
+   "y": 85.91,
+   "w": 30.64,
+   "size": 1.45,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Although the forms of this figure are very simple and strong, its pictorial translation is very difficult for the students, since the surfaces do not have clear boundaries and flow into each other. The first drawing, simplified into geometric forms, is extremely expressive. The figure is handled with a more restrained impression in the second drawing."
+   ],
+   "h": 9.99
+  },
+  {
+   "k": "txt",
+   "x": 2.98,
+   "y": 96.8,
+   "w": 8,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "50"
+  }
+ ]
+}

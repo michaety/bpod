@@ -1,45 +1,45 @@
 {
  "v": 1,
  "p": 85,
- "bg": "#f2f0ec",
+ "bg": "#d5d5d1",
  "el": [
   {
    "k": "art",
-   "x": 2.66,
-   "y": 3.5,
-   "w": 64.41,
-   "h": 71.0
+   "x": 2.58,
+   "y": 3.59,
+   "w": 64.19,
+   "h": 69.11
   },
   {
    "k": "art",
-   "x": 69.06,
-   "y": 3.9,
-   "w": 28.22,
-   "h": 20.6
+   "x": 69.1,
+   "y": 3.69,
+   "w": 27.48,
+   "h": 20.64
   },
   {
    "k": "art",
-   "x": 69.06,
-   "y": 27.9,
-   "w": 28.22,
-   "h": 20.7
+   "x": 69.1,
+   "y": 27.83,
+   "w": 27.48,
+   "h": 20.69
   },
   {
    "k": "art",
-   "x": 69.06,
-   "y": 51.75,
-   "w": 28.22,
-   "h": 22.75
+   "x": 69.1,
+   "y": 52.01,
+   "w": 27.48,
+   "h": 20.69
   },
   {
    "k": "txt",
    "x": 2.39,
    "y": 90.48,
    "w": 30.5,
-   "size": 1.5,
+   "size": 1.4,
    "style": "body",
    "align": "left",
-   "weight": "bold",
+   "weight": "normal",
    "paras": [
     "The arrangement of single forms is subordinate in this drawing. The branch is represented as a complete rhythmic structure; the lines are strong and bold."
    ],
@@ -50,7 +50,7 @@
    "x": 69.29,
    "y": 90.53,
    "w": 28.22,
-   "size": 1.5,
+   "size": 1.4,
    "style": "caption",
    "align": "left",
    "weight": "normal",
@@ -62,7 +62,7 @@
   {
    "k": "txt",
    "x": 92.0,
-   "y": 98.2,
+   "y": 96.94,
    "w": 5.3,
    "size": 1.35,
    "style": "folio",

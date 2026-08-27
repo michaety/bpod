@@ -1,14 +1,14 @@
 {
  "v": 1,
  "p": 7,
- "bg": "#eae8e0",
+ "bg": "#d4d5d0",
  "el": [
   {
    "k": "txt",
    "x": 2.2,
-   "y": 3.5,
+   "y": 3.3,
    "w": 26,
-   "size": 1.5,
+   "size": 1.6,
    "style": "heading",
    "align": "left",
    "weight": "normal",
@@ -17,9 +17,9 @@
   {
    "k": "txt",
    "x": 2.2,
-   "y": 6.2,
+   "y": 6.11,
    "w": 26,
-   "size": 0.95,
+   "size": 1.1,
    "style": "label",
    "align": "left",
    "weight": "normal",
@@ -28,9 +28,9 @@
   {
    "k": "txt",
    "x": 2.2,
-   "y": 7.5,
+   "y": 7.27,
    "w": 26,
-   "size": 0.95,
+   "size": 1.1,
    "style": "label",
    "align": "left",
    "weight": "normal",
@@ -40,8 +40,8 @@
    "k": "txt",
    "x": 32.36,
    "y": 5.14,
-   "w": 65.8,
-   "size": 1.6,
+   "w": 65.4,
+   "size": 1.9,
    "style": "body",
    "align": "left",
    "weight": "bold",
@@ -57,21 +57,21 @@
   {
    "k": "txt",
    "x": 32.36,
-   "y": 23.7,
-   "w": 65.8,
-   "size": 1.6,
+   "y": 60.59,
+   "w": 65.46,
+   "size": 1.9,
    "style": "body",
    "align": "left",
    "weight": "bold",
    "paras": [
     "In conclusion special thanks are expressed to those who devoted their time and energy to the realization of this work."
    ],
-   "h": 6.53
+   "h": 10.33
   },
   {
    "k": "txt",
    "x": 92.3,
-   "y": 96.6,
+   "y": 96.11,
    "w": 5.5,
    "size": 1.2,
    "style": "folio",

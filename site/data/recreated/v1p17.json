@@ -1,22 +1,24 @@
 {
  "v": 1,
  "p": 17,
- "bg": "#f2f1ee",
+ "bg": "#d1d1ce",
  "el": [
   {
    "k": "art",
-   "x": 31.95,
-   "y": 2.95,
-   "w": 64.65
+   "x": 32.02,
+   "y": 3.02,
+   "w": 64.64,
+   "h": 68.68
   },
   {
    "k": "txt",
    "x": 31.83,
    "y": 84.68,
-   "w": 30.5,
-   "size": 1.35,
+   "w": 28.5,
+   "size": 1.4,
    "style": "body",
    "align": "left",
+   "weight": "normal",
    "paras": [
     "In the small frontal view at the upper left the structure, form, and proportions of the object are examined."
    ],
@@ -25,11 +27,12 @@
   {
    "k": "txt",
    "x": 86.36,
-   "y": 95.55,
+   "y": 96.4,
    "w": 10.63,
    "size": 1.3,
    "style": "folio",
    "align": "right",
+   "weight": "normal",
    "text": "15"
   }
  ]

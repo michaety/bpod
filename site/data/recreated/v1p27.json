@@ -1,22 +1,24 @@
 {
  "v": 1,
  "p": 27,
- "bg": "#dcdbd6",
+ "bg": "#d2d3cf",
  "el": [
   {
    "k": "art",
-   "x": 32.46,
-   "y": 3.29,
-   "w": 65.25
+   "x": 32.39,
+   "y": 3.48,
+   "w": 65.05,
+   "h": 68.63
   },
   {
    "k": "txt",
    "x": 32.2,
    "y": 87.29,
-   "w": 30.6,
-   "size": 1.45,
+   "w": 30.23,
+   "size": 1.4,
    "style": "body",
    "align": "left",
+   "weight": "bold",
    "paras": [
     "The drawing procedure is comparable to that of the carpenter or sculptor, who finds his mental image in roughly formed material. In drawing the toy animal the spatial relationship, position, and development of the surfaces are created from a rectangular block."
    ],
@@ -24,12 +26,13 @@
   },
   {
    "k": "txt",
-   "x": 87.7,
-   "y": 95.85,
+   "x": 87.77,
+   "y": 96.13,
    "w": 10.0,
-   "size": 1.4,
+   "size": 1.3,
    "style": "folio",
    "align": "right",
+   "weight": "normal",
    "text": "25"
   }
  ]

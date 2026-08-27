@@ -1,34 +1,38 @@
 {
  "v": 1,
  "p": 25,
- "bg": "#f1f0ed",
+ "bg": "#d1d1cd",
  "el": [
   {
    "k": "art",
-   "x": 5.05,
+   "x": 5.11,
    "y": 3.58,
-   "w": 92.59
+   "w": 92.26,
+   "h": 68.39
   },
   {
    "k": "art",
-   "x": 35.93,
-   "y": 73.22,
-   "w": 28.0
+   "x": 35.87,
+   "y": 73.27,
+   "w": 28.0,
+   "h": 20.64
   },
   {
    "k": "art",
-   "x": 67.61,
-   "y": 73.22,
-   "w": 29.64
+   "x": 69.38,
+   "y": 73.47,
+   "w": 27.93,
+   "h": 20.64
   },
   {
    "k": "txt",
    "x": 4.39,
    "y": 83.47,
-   "w": 27.6,
-   "size": 1.45,
+   "w": 28.5,
+   "size": 1.4,
    "style": "caption",
    "align": "left",
+   "weight": "normal",
    "paras": [
     "The work of previous students is displayed for inspiration. Fundamental questions are explained by the teacher and demonstrated on the blackboard.",
     "The pencil should be held without supporting the hand or arm on the paper. If necessary, the small finger can be used to guide the hand."
@@ -37,12 +41,13 @@
   },
   {
    "k": "txt",
-   "x": 87.6,
-   "y": 95.9,
+   "x": 87.51,
+   "y": 96.28,
    "w": 10.0,
-   "size": 1.4,
+   "size": 1.3,
    "style": "folio",
    "align": "right",
+   "weight": "normal",
    "text": "23"
   }
  ]

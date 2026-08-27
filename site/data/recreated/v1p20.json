@@ -1,31 +1,35 @@
 {
  "v": 1,
  "p": 20,
- "bg": "#efedea",
+ "bg": "#d0d0cd",
  "el": [
   {
    "k": "art",
    "x": 3.1,
    "y": 3.9,
-   "w": 64.25
+   "w": 64.25,
+   "h": 69.4
   },
   {
    "k": "art",
    "x": 70.15,
    "y": 3.8,
-   "w": 27.8
+   "w": 27.8,
+   "h": 21.09
   },
   {
    "k": "art",
    "x": 70.15,
    "y": 28.5,
-   "w": 27.8
+   "w": 27.8,
+   "h": 20.99
   },
   {
    "k": "art",
    "x": 70.15,
    "y": 53.1,
-   "w": 27.8
+   "w": 27.8,
+   "h": 20.96
   },
   {
    "k": "txt",
@@ -35,6 +39,7 @@
    "size": 1.35,
    "style": "body",
    "align": "left",
+   "weight": "bold",
    "paras": [
     "Mastery of construction principles and experience with the prism, cylinder, cone, and sphere are prerequisites for drawing complex objects such as bottles. Linear cross sections, which define the basic forms, strengthen the dimensional effect of the drawing and show the volume of the object. Overlapping and negative spaces offer interesting creative possibilities for composing single objects and groups of objects."
    ],
@@ -48,6 +53,7 @@
    "size": 1.37,
    "style": "caption",
    "align": "left",
+   "weight": "normal",
    "paras": [
     "Overlapping objects are easily recognized and controlled through their transparency."
    ],
@@ -61,6 +67,7 @@
    "size": 1.28,
    "style": "folio",
    "align": "left",
+   "weight": "normal",
    "text": "18"
   }
  ]

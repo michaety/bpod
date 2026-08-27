@@ -1,19 +1,21 @@
 {
  "v": 1,
  "p": 15,
- "bg": "#dcdbd6",
+ "bg": "#d1d1cd",
  "el": [
   {
    "k": "art",
-   "x": 54.92,
-   "y": 3.02,
-   "w": 41.48
+   "x": 54.78,
+   "y": 2.92,
+   "w": 41.74,
+   "h": 44.77
   },
   {
    "k": "art",
-   "x": 54.92,
-   "y": 48.86,
-   "w": 41.48
+   "x": 55.11,
+   "y": 48.76,
+   "w": 41.74,
+   "h": 45.11
   },
   {
    "k": "txt",
@@ -23,6 +25,7 @@
    "size": 1.33,
    "style": "body",
    "align": "left",
+   "weight": "bold",
    "paras": [
     "During the first weeks of classes the cube serves as the basic model for drawing. Its six squares are perpendicular (at right angles) to one another, and the lengths of the sides are equal. It is drawn from a slight top view and placed diagonally so that one corner is forward. The form of the three visible quadrates changes according to the cube's placement and the position of the drawer. An extreme top view is avoided in order to keep the imaginary vertical picture plane and the vertical lines parallel. In the lower study a solid rectangular form was discovered by bisecting a cube.",
     "The two studies represent typical beginning results. They demonstrate the following mistakes: awkward and trivial interpretation, disorganized composition, confusion of scale, incorrect angles and proportions, distortion of parallel lines, stiff linear quality, and lack of clarity in pictorial expression."
@@ -32,11 +35,12 @@
   {
    "k": "txt",
    "x": 88.0,
-   "y": 95.9,
+   "y": 96.11,
    "w": 9.12,
-   "size": 1.2,
+   "size": 1.25,
    "style": "folio",
    "align": "right",
+   "weight": "normal",
    "text": "13"
   }
  ]

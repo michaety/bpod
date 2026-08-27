@@ -1,14 +1,14 @@
 {
  "v": 1,
  "p": 79,
- "bg": "#eeedea",
+ "bg": "#d0d1cd",
  "el": [
   {
    "k": "art",
-   "x": 5.91,
-   "y": 3.59,
-   "w": 92.26,
-   "h": 48.67
+   "x": 5.9,
+   "y": 3.5,
+   "w": 92.3,
+   "h": 48.75
   },
   {
    "k": "txt",
@@ -18,7 +18,7 @@
    "size": 1.35,
    "style": "body",
    "align": "left",
-   "weight": "bold",
+   "weight": "normal",
    "paras": [
     "The curled surfaces exhibited in the contours and veins of autumn leaves are studied through their dimensional form sequences. Careful insertion of direct and indirect shadows in appropriate areas supports the spatial compression.",
     "In the study on the following page the search for form and the working process are legible."
@@ -27,24 +27,24 @@
   },
   {
    "k": "art",
-   "x": 5.64,
+   "x": 5.2,
    "y": 73.68,
-   "w": 27.89,
-   "h": 20.79
+   "w": 28.33,
+   "h": 20.85
   },
   {
    "k": "art",
-   "x": 37.93,
-   "y": 73.77,
-   "w": 27.69,
-   "h": 20.74
+   "x": 37.6,
+   "y": 73.68,
+   "w": 27.95,
+   "h": 20.85
   },
   {
    "k": "art",
-   "x": 70.08,
-   "y": 73.87,
-   "w": 27.89,
-   "h": 20.74
+   "x": 69.75,
+   "y": 73.68,
+   "w": 28.15,
+   "h": 20.85
   },
   {
    "k": "txt",

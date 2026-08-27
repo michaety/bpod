@@ -1,9 +1,29 @@
 {
-  "v": 1,
-  "p": 3,
-  "bg": "#e9e8e1",
-  "el": [
-    {"k":"txt","x":35.06,"y":4.25,"w":60,"size":1.8,"style":"heading","align":"left","weight":"bold","text":"School of Design Basel, Switzerland"},
-    {"k":"txt","x":35.06,"y":6.1,"w":60,"size":1.8,"style":"heading","align":"left","weight":"bold","text":"Foundation Program"}
-  ]
+ "v": 1,
+ "p": 3,
+ "bg": "#d6d6d1",
+ "el": [
+  {
+   "k": "txt",
+   "x": 35.06,
+   "y": 4.25,
+   "w": 60,
+   "size": 1.8,
+   "style": "heading",
+   "align": "left",
+   "weight": "bold",
+   "text": "School of Design Basel, Switzerland"
+  },
+  {
+   "k": "txt",
+   "x": 35.06,
+   "y": 6.1,
+   "w": 60,
+   "size": 1.8,
+   "style": "heading",
+   "align": "left",
+   "weight": "bold",
+   "text": "Foundation Program"
+  }
+ ]
 }

@@ -1,31 +1,35 @@
 {
  "v": 1,
  "p": 37,
- "bg": "#f2f1ec",
+ "bg": "#d4d4d0",
  "el": [
   {
    "k": "art",
-   "x": 2.45,
-   "y": 3.85,
-   "w": 28.05
+   "x": 2.03,
+   "y": 3.94,
+   "w": 27.83,
+   "h": 20.59
   },
   {
    "k": "art",
-   "x": 2.45,
-   "y": 27.72,
-   "w": 28.05
+   "x": 2.03,
+   "y": 27.8,
+   "w": 27.83,
+   "h": 20.59
   },
   {
    "k": "art",
-   "x": 2.45,
-   "y": 51.68,
-   "w": 28.05
+   "x": 2.03,
+   "y": 51.61,
+   "w": 27.83,
+   "h": 20.49
   },
   {
    "k": "art",
-   "x": 31.82,
-   "y": 3.85,
-   "w": 65.43
+   "x": 31.83,
+   "y": 3.99,
+   "w": 65.49,
+   "h": 68.11
   },
   {
    "k": "txt",
@@ -33,8 +37,9 @@
    "y": 86.48,
    "w": 28.7,
    "size": 1.4,
-   "style": "caption",
+   "style": "body",
    "align": "left",
+   "weight": "normal",
    "paras": [
     "The drill is developed from a reclining cylinder composed of sectional planes. The fixed points of the foreshortened, winding spiral lie within these sectional planes. The accentuated tones, the swing of the line, and the light insertion of shadow strengthen the spatial effect."
    ],
@@ -46,8 +51,9 @@
    "y": 86.39,
    "w": 30.45,
    "size": 1.4,
-   "style": "caption",
+   "style": "body",
    "align": "left",
+   "weight": "normal",
    "paras": [
     "The basic structure of the cobbler's horn is composed of three planes that intersect at right angles, on which the details are drawn. This allows a free but exacting linear treatment."
    ],
@@ -56,11 +62,12 @@
   {
    "k": "txt",
    "x": 87.7,
-   "y": 96.0,
+   "y": 96.25,
    "w": 10.0,
    "size": 1.3,
    "style": "folio",
    "align": "right",
+   "weight": "normal",
    "text": "35"
   }
  ]

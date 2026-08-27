@@ -1,57 +1,453 @@
 {
-  "v": 1,
-  "p": 9,
-  "bg": "#eeece7",
-  "el": [
-    {"k":"art","x":2.04,"y":3.10,"w":29.84,"h":22.75},
-    {"k":"art","x":34.54,"y":3.10,"w":30.18,"h":22.75},
-    {"k":"art","x":67.30,"y":3.10,"w":30.25,"h":22.75},
-
-    {"k":"art","x":2.04,"y":27.25,"w":29.84,"h":22.50},
-    {"k":"art","x":34.54,"y":27.25,"w":30.18,"h":22.50},
-    {"k":"art","x":67.30,"y":27.25,"w":30.25,"h":22.50},
-
-    {"k":"art","x":2.04,"y":51.50,"w":29.84,"h":23.10},
-    {"k":"art","x":34.54,"y":51.50,"w":30.18,"h":23.10},
-    {"k":"art","x":67.30,"y":51.50,"w":30.25,"h":23.10},
-
-    {"k":"txt","x":2.04,"y":78.90,"w":29.84,"size":2.05,"style":"heading","align":"left","weight":"bold","text":"Volume 2"},
-    {"k":"txt","x":34.54,"y":78.90,"w":30.18,"size":2.05,"style":"heading","align":"left","weight":"bold","text":"Volume 3"},
-    {"k":"txt","x":67.30,"y":78.90,"w":30.25,"size":2.05,"style":"heading","align":"left","weight":"bold","text":"Volume 4"},
-
-    {"k":"txt","x":2.04,"y":85.15,"w":29.84,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Contributors:"},
-    {"k":"txt","x":2.04,"y":86.65,"w":24.50,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Memory Drawing","link":"Memory Drawing"},
-    {"k":"txt","x":2.04,"y":86.65,"w":29.84,"size":1.50,"style":"body","align":"right","weight":"bold","text":"11"},
-    {"k":"txt","x":2.04,"y":88.05,"w":29.84,"size":1.50,"style":"body","align":"left","weight":"bold","text":"His A."},
-    {"k":"txt","x":2.04,"y":89.65,"w":24.50,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Technical Drawing and Perspective","link":"Technical Drawing and Perspective"},
-    {"k":"txt","x":2.04,"y":89.65,"w":29.84,"size":1.50,"style":"body","align":"right","weight":"bold","text":"44"},
-    {"k":"txt","x":2.04,"y":91.05,"w":29.84,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Tramèr J."},
-    {"k":"txt","x":2.04,"y":92.65,"w":24.50,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Lettering","link":"Lettering"},
-    {"k":"txt","x":2.04,"y":92.65,"w":29.84,"size":1.50,"style":"body","align":"right","weight":"bold","text":"76"},
-    {"k":"txt","x":2.04,"y":94.05,"w":29.84,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Gürtler A."},
-
-    {"k":"txt","x":34.54,"y":85.15,"w":30.18,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Contributors:"},
-    {"k":"txt","x":34.54,"y":86.65,"w":25.00,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Material Studies","link":"Material Studies"},
-    {"k":"txt","x":34.54,"y":86.65,"w":30.18,"size":1.50,"style":"body","align":"right","weight":"bold","text":"11"},
-    {"k":"txt","x":34.54,"y":88.05,"w":30.18,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Hutter J."},
-    {"k":"txt","x":34.54,"y":89.65,"w":25.00,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Textile Design","link":"Textile Design"},
-    {"k":"txt","x":34.54,"y":89.65,"w":30.18,"size":1.50,"style":"body","align":"right","weight":"bold","text":"42"},
-    {"k":"txt","x":34.54,"y":91.05,"w":30.18,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Hernandez-Moor L. / Kern U."},
-    {"k":"txt","x":34.54,"y":92.65,"w":25.00,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Color 2","link":"Color 2"},
-    {"k":"txt","x":34.54,"y":92.65,"w":30.18,"size":1.50,"style":"body","align":"right","weight":"bold","text":"74"},
-    {"k":"txt","x":34.54,"y":94.05,"w":30.18,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Gautschi R. / Pola P."},
-
-    {"k":"txt","x":67.30,"y":85.15,"w":30.25,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Contributors:"},
-    {"k":"txt","x":67.30,"y":86.65,"w":25.00,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Color 1","link":"Color 1"},
-    {"k":"txt","x":67.30,"y":86.65,"w":30.25,"size":1.50,"style":"body","align":"right","weight":"bold","text":"11"},
-    {"k":"txt","x":67.30,"y":88.05,"w":30.25,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Zwimpfer M."},
-    {"k":"txt","x":67.30,"y":89.65,"w":25.00,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Graphic Exercises","link":"Graphic Exercises"},
-    {"k":"txt","x":67.30,"y":89.65,"w":30.25,"size":1.50,"style":"body","align":"right","weight":"bold","text":"42"},
-    {"k":"txt","x":67.30,"y":91.05,"w":30.25,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Maier M."},
-    {"k":"txt","x":67.30,"y":92.65,"w":25.00,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Dimensional Design","link":"Dimensional Design"},
-    {"k":"txt","x":67.30,"y":92.65,"w":30.25,"size":1.50,"style":"body","align":"right","weight":"bold","text":"74"},
-    {"k":"txt","x":67.30,"y":94.05,"w":30.25,"size":1.50,"style":"body","align":"left","weight":"bold","text":"Grossenbacher M."},
-
-    {"k":"txt","x":67.30,"y":96.55,"w":30.25,"size":1.30,"style":"folio","align":"right","weight":"normal","text":"7"}
-  ]
+ "v": 1,
+ "p": 9,
+ "bg": "#d1d1cd",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.95,
+   "y": 3.45,
+   "w": 30.3,
+   "h": 22.35
+  },
+  {
+   "k": "art",
+   "x": 34.65,
+   "y": 3.45,
+   "w": 30.2,
+   "h": 22.35
+  },
+  {
+   "k": "art",
+   "x": 67.3,
+   "y": 3.45,
+   "w": 30.3,
+   "h": 22.35
+  },
+  {
+   "k": "art",
+   "x": 1.95,
+   "y": 27.45,
+   "w": 30.3,
+   "h": 22.25
+  },
+  {
+   "k": "art",
+   "x": 34.65,
+   "y": 27.45,
+   "w": 30.2,
+   "h": 22.25
+  },
+  {
+   "k": "art",
+   "x": 67.3,
+   "y": 27.45,
+   "w": 30.3,
+   "h": 22.25
+  },
+  {
+   "k": "art",
+   "x": 1.95,
+   "y": 51.35,
+   "w": 30.3,
+   "h": 22.25
+  },
+  {
+   "k": "art",
+   "x": 34.65,
+   "y": 51.35,
+   "w": 30.2,
+   "h": 22.25
+  },
+  {
+   "k": "art",
+   "x": 67.3,
+   "y": 51.35,
+   "w": 30.3,
+   "h": 22.25
+  },
+  {
+   "k": "txt",
+   "x": 1.98,
+   "y": 78.3,
+   "w": 30.25,
+   "size": 1.85,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Volume 2"
+  },
+  {
+   "k": "txt",
+   "x": 34.68,
+   "y": 78.3,
+   "w": 30.18,
+   "size": 1.85,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Volume 3"
+  },
+  {
+   "k": "txt",
+   "x": 67.44,
+   "y": 78.3,
+   "w": 30.25,
+   "size": 1.85,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Volume 4"
+  },
+  {
+   "k": "txt",
+   "x": 1.98,
+   "y": 85.1,
+   "w": 30.25,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Contributors:"
+  },
+  {
+   "k": "txt",
+   "x": 1.98,
+   "y": 86.15,
+   "w": 24.5,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Memory Drawing",
+   "link": "Memory Drawing"
+  },
+  {
+   "k": "txt",
+   "x": 1.98,
+   "y": 86.15,
+   "w": 30.25,
+   "size": 1.32,
+   "style": "body",
+   "align": "right",
+   "weight": "normal",
+   "text": "11"
+  },
+  {
+   "k": "txt",
+   "x": 1.98,
+   "y": 87.55,
+   "w": 30.25,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "His A."
+  },
+  {
+   "k": "txt",
+   "x": 1.98,
+   "y": 88.6,
+   "w": 24.5,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Technical Drawing and Perspective",
+   "link": "Technical Drawing and Perspective"
+  },
+  {
+   "k": "txt",
+   "x": 1.98,
+   "y": 88.6,
+   "w": 30.25,
+   "size": 1.32,
+   "style": "body",
+   "align": "right",
+   "weight": "normal",
+   "text": "44"
+  },
+  {
+   "k": "txt",
+   "x": 1.98,
+   "y": 90.0,
+   "w": 30.25,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Tramèr J."
+  },
+  {
+   "k": "txt",
+   "x": 1.98,
+   "y": 91.1,
+   "w": 24.5,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Lettering",
+   "link": "Lettering"
+  },
+  {
+   "k": "txt",
+   "x": 1.98,
+   "y": 91.1,
+   "w": 30.25,
+   "size": 1.32,
+   "style": "body",
+   "align": "right",
+   "weight": "normal",
+   "text": "76"
+  },
+  {
+   "k": "txt",
+   "x": 1.98,
+   "y": 92.5,
+   "w": 30.25,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Gürtler A."
+  },
+  {
+   "k": "txt",
+   "x": 34.68,
+   "y": 85.1,
+   "w": 30.18,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Contributors:"
+  },
+  {
+   "k": "txt",
+   "x": 34.68,
+   "y": 86.15,
+   "w": 25.0,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Material Studies",
+   "link": "Material Studies"
+  },
+  {
+   "k": "txt",
+   "x": 34.68,
+   "y": 86.15,
+   "w": 30.18,
+   "size": 1.32,
+   "style": "body",
+   "align": "right",
+   "weight": "normal",
+   "text": "11"
+  },
+  {
+   "k": "txt",
+   "x": 34.68,
+   "y": 87.55,
+   "w": 30.18,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Hutter J."
+  },
+  {
+   "k": "txt",
+   "x": 34.68,
+   "y": 88.6,
+   "w": 25.0,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Textile Design",
+   "link": "Textile Design"
+  },
+  {
+   "k": "txt",
+   "x": 34.68,
+   "y": 88.6,
+   "w": 30.18,
+   "size": 1.32,
+   "style": "body",
+   "align": "right",
+   "weight": "normal",
+   "text": "42"
+  },
+  {
+   "k": "txt",
+   "x": 34.68,
+   "y": 90.0,
+   "w": 30.18,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Hernandez-Moor L. / Kern U."
+  },
+  {
+   "k": "txt",
+   "x": 34.68,
+   "y": 91.1,
+   "w": 25.0,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Color 2",
+   "link": "Color 2"
+  },
+  {
+   "k": "txt",
+   "x": 34.68,
+   "y": 91.1,
+   "w": 30.18,
+   "size": 1.32,
+   "style": "body",
+   "align": "right",
+   "weight": "normal",
+   "text": "74"
+  },
+  {
+   "k": "txt",
+   "x": 34.68,
+   "y": 92.5,
+   "w": 30.18,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Gautschi R. / Pola P."
+  },
+  {
+   "k": "txt",
+   "x": 67.44,
+   "y": 85.1,
+   "w": 30.25,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Contributors:"
+  },
+  {
+   "k": "txt",
+   "x": 67.44,
+   "y": 86.15,
+   "w": 25.0,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Color 1",
+   "link": "Color 1"
+  },
+  {
+   "k": "txt",
+   "x": 67.44,
+   "y": 86.15,
+   "w": 30.25,
+   "size": 1.32,
+   "style": "body",
+   "align": "right",
+   "weight": "normal",
+   "text": "11"
+  },
+  {
+   "k": "txt",
+   "x": 67.44,
+   "y": 87.55,
+   "w": 30.25,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Zwimpfer M."
+  },
+  {
+   "k": "txt",
+   "x": 67.44,
+   "y": 88.6,
+   "w": 25.0,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Graphic Exercises",
+   "link": "Graphic Exercises"
+  },
+  {
+   "k": "txt",
+   "x": 67.44,
+   "y": 88.6,
+   "w": 30.25,
+   "size": 1.32,
+   "style": "body",
+   "align": "right",
+   "weight": "normal",
+   "text": "42"
+  },
+  {
+   "k": "txt",
+   "x": 67.44,
+   "y": 90.0,
+   "w": 30.25,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Maier M."
+  },
+  {
+   "k": "txt",
+   "x": 67.44,
+   "y": 91.1,
+   "w": 25.0,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Dimensional Design",
+   "link": "Dimensional Design"
+  },
+  {
+   "k": "txt",
+   "x": 67.44,
+   "y": 91.1,
+   "w": 30.25,
+   "size": 1.32,
+   "style": "body",
+   "align": "right",
+   "weight": "normal",
+   "text": "74"
+  },
+  {
+   "k": "txt",
+   "x": 67.44,
+   "y": 92.5,
+   "w": 30.25,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Grossenbacher M."
+  },
+  {
+   "k": "txt",
+   "x": 67.44,
+   "y": 95.78,
+   "w": 30.25,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "7"
+  }
+ ]
 }

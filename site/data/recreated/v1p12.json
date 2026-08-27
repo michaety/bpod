@@ -1,14 +1,14 @@
 {
  "v": 1,
  "p": 12,
- "bg": "#e8e7e0",
+ "bg": "#d2d2cf",
  "el": [
   {
    "k": "txt",
    "x": 19.1,
-   "y": 4.35,
+   "y": 4.49,
    "w": 12,
-   "size": 1.95,
+   "size": 1.75,
    "style": "label",
    "align": "left",
    "weight": "normal",
@@ -17,9 +17,9 @@
   {
    "k": "txt",
    "x": 33.0,
-   "y": 4.35,
+   "y": 4.49,
    "w": 25,
-   "size": 1.95,
+   "size": 1.75,
    "style": "label",
    "align": "left",
    "weight": "normal",
@@ -29,7 +29,7 @@
    "k": "txt",
    "x": 32.28,
    "y": 53.22,
-   "w": 65.7,
+   "w": 65.61,
    "size": 1.9,
    "style": "body",
    "align": "left",
@@ -44,7 +44,7 @@
   {
    "k": "txt",
    "x": 2.7,
-   "y": 97.4,
+   "y": 96.24,
    "w": 8,
    "size": 1.2,
    "style": "folio",

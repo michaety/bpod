@@ -1,7 +1,7 @@
 {
  "v": 1,
  "p": 6,
- "bg": "#edece6",
+ "bg": "#d4d4d0",
  "el": [
   {
    "k": "txt",
@@ -36,17 +36,30 @@
     "ISBN 0-442-24977-2 (v.1)",
     "ISBN 0-442-24978-0 (v.2)",
     "ISBN 0-442-24979-9 (v.3)",
-    "ISBN 0-442-24980-2 (v.4)",
+    "ISBN 0-442-24980-2 (v.4)"
+   ],
+   "h": 21.65
+  },
+  {
+   "k": "txt",
+   "x": 1.67,
+   "y": 69.86,
+   "w": 31.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
     "All rights reserved. No part of this work covered by the copyright hereon may be reproduced or used in any form or by any means—graphic, electronic, or mechanical, including photocopying, recording, taping, or information storage and retrieval systems—without written permission of the publisher.",
     "Printed in Switzerland",
     "Composition: Schüler AG, Biel"
    ],
-   "h": 22.07
+   "h": 19.35
   },
   {
    "k": "txt",
-   "x": 1.8,
-   "y": 91.0,
+   "x": 1.6,
+   "y": 90.97,
    "w": 31.0,
    "size": 1.35,
    "style": "body",
@@ -56,8 +69,8 @@
   },
   {
    "k": "txt",
-   "x": 1.8,
-   "y": 92.25,
+   "x": 1.6,
+   "y": 92.06,
    "w": 31.0,
    "size": 1.35,
    "style": "body",
@@ -67,8 +80,8 @@
   },
   {
    "k": "txt",
-   "x": 1.8,
-   "y": 93.5,
+   "x": 1.6,
+   "y": 93.24,
    "w": 31.0,
    "size": 1.35,
    "style": "body",
@@ -91,20 +104,27 @@
     "A Division of Litton Educational Publishing, Inc.",
     "450 West 33rd Street",
     "New York, NY 10001, U.S.A.",
-    "Van Nostrand Reinhold Limited"
+    "Van Nostrand Reinhold Limited",
+    "1410 Birchmount Road",
+    "Scarborough, Ontario M1P 2E7, Canada"
    ],
    "h": 5.8
   },
   {
    "k": "txt",
-   "x": 34.0,
-   "y": 56.65,
+   "x": 34.04,
+   "y": 54.71,
    "w": 32.0,
    "size": 1.35,
    "style": "body",
    "align": "left",
    "weight": "normal",
-   "text": "1410 Birchmount Road"
+   "paras": [
+    "Van Nostrand Reinhold Australia Pty. Ltd.",
+    "17 Queen Street",
+    "Mitcham, Victoria 3132, Australia"
+   ],
+   "h": 3.45
   },
   {
    "k": "txt",
@@ -116,17 +136,9 @@
    "align": "left",
    "weight": "normal",
    "paras": [
-    "Scarborough, Ontario M1P 2E7, Canada",
-    "Van Nostrand Reinhold Australia Pty. Ltd.",
-    "17 Queen Street",
-    "Mitcham, Victoria 3132, Australia",
     "Van Nostrand Reinhold Company Ltd.",
     "Molly Millars Lane",
-    "Wokingham, Berkshire, England",
-    "16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1",
-    "Library of Congress Cataloging in Publication",
-    "Data",
-    "Maier, Manfred"
+    "Wokingham, Berkshire, England"
    ],
    "h": 3.4
   },
@@ -140,6 +152,10 @@
    "align": "left",
    "weight": "normal",
    "paras": [
+    "16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1",
+    "Library of Congress Cataloging in Publication",
+    "Data",
+    "Maier, Manfred",
     "Basic principles of design.",
     "Translation of Elementare Entwurfs- und Gestaltungsprozesse. Die Grundkurse an der Kunstgewerbeschule Basel, Schweiz.",
     "CONTENTS: v.1. Object drawing, object and museum drawing, nature drawing. — v.2. Memory drawing, technical drawing and perspective, lettering. — v.3. Material studies, textile design, color 2. — v.4. Color 1, graphic exercises, dimensional design.",

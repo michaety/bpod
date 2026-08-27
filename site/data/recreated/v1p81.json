@@ -1,14 +1,14 @@
 {
  "v": 1,
  "p": 81,
- "bg": "#f0efec",
+ "bg": "#d0d0cc",
  "el": [
   {
    "k": "art",
-   "x": 31.96,
-   "y": 4.2,
-   "w": 58.73,
-   "h": 71.8
+   "x": 32.25,
+   "y": 4.3,
+   "w": 65.8,
+   "h": 68.65
   },
   {
    "k": "txt",
@@ -18,7 +18,7 @@
    "size": 1.35,
    "style": "body",
    "align": "left",
-   "weight": "bold",
+   "weight": "normal",
    "paras": [
     "Branches with dried leaves expand the study from single shapes to forms with many parts. Spiral and twisted surfaces, leaf sequences, and the harmonious interrelationship between forms and negative spaces should be understood and organized in a structured, rhythmic drawing. Accents result from line variation and from the use of flat, gray tones."
    ],

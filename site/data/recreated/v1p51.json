@@ -1,4 +1,25 @@
-{ "v": 1, "p": 51, "bg": "#f2f1ec", "el": [
-  {"k":"art","x":1.19,"y":3.4,"w":95.85,"h":90.97},
-  {"k":"txt","x":87,"y":96.6,"w":10.2,"size":1.2,"style":"folio","align":"right","weight":"normal","text":"49"}
-] }
+{
+ "v": 1,
+ "p": 51,
+ "bg": "#d0cec7",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.19,
+   "y": 3.4,
+   "w": 95.85,
+   "h": 90.97
+  },
+  {
+   "k": "txt",
+   "x": 87,
+   "y": 96.6,
+   "w": 10.2,
+   "size": 1.2,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "49"
+  }
+ ]
+}
