@@ -271,6 +271,8 @@ function renderCover(book) {
   return div;
 }
 
+const narrow = window.matchMedia("(max-width: 820px)");
+
 async function initBook() {
   const params = new URLSearchParams(location.search);
   const q = params.get("q") || "";
@@ -427,8 +429,17 @@ async function initBook() {
       btn.classList.add("active");
       document.getElementById(`tab-${btn.dataset.tab}`).classList.add("active");
     }));
-  document.getElementById("sbtoggle").addEventListener("click", () =>
-    document.body.classList.toggle("nosb"));
+  // on a phone the sidebar is a drawer over the page; on desktop it collapses
+  const closeDrawer = () => document.body.classList.remove("sb-open");
+  document.getElementById("sbtoggle").addEventListener("click", () => {
+    if (narrow.matches) document.body.classList.toggle("sb-open");
+    else document.body.classList.toggle("nosb");
+  });
+  document.getElementById("sbbackdrop")?.addEventListener("click", closeDrawer);
+  document.getElementById("sidebar").addEventListener("click", e => {
+    if (narrow.matches && e.target.closest(".toc-item, .thumb")) closeDrawer();
+  });
+  narrow.addEventListener("change", closeDrawer);
 
   /* ---- current-page tracking ---- */
   let curPage = 0;
@@ -469,8 +480,10 @@ async function initBook() {
   let mode = localStorage.getItem("bpod-view") || "scroll";
   function setMode(m) {
     mode = m;
+    // a phone always gets the single continuous column, whatever was saved
+    const eff = narrow.matches ? "scroll" : m;
     document.body.classList.remove("view-scroll", "view-page", "view-spread");
-    document.body.classList.add(`view-${m}`);
+    document.body.classList.add(`view-${eff}`);
     document.querySelectorAll("#viewmode button").forEach(b =>
       b.classList.toggle("active", b.dataset.v === m));
     try { localStorage.setItem("bpod-view", m); } catch (e) { /* private mode */ }
@@ -485,6 +498,8 @@ async function initBook() {
   document.querySelectorAll("#viewmode button").forEach(b =>
     b.addEventListener("click", () => setMode(b.dataset.v)));
   setMode(mode);
+  // phones read one long column; re-apply if the window crosses the breakpoint
+  narrow.addEventListener("change", () => setMode(mode));
 
   /* ---- keyboard paging ---- */
   document.addEventListener("keydown", e => {

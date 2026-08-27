@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>Mobile preview</title>
+<style>
+ body{background:#5a5a5a;margin:0;padding:18px;font:13px Helvetica,Arial,sans-serif;color:#eee;display:flex;gap:22px}
+ .phone{width:414px;height:820px;border:10px solid #111;border-radius:26px;overflow:hidden;background:#fff;flex:none}
+ iframe{width:100%;height:100%;border:0}
+ .lbl{margin-bottom:8px}
+</style></head><body>
+<div><div class="lbl">iPhone width (414px)</div>
+<div class="phone"><iframe src="index.html?p=14"></iframe></div></div>
+<div><div class="lbl">drawer open</div>
+<div class="phone"><iframe id="f2" src="index.html?p=14"></iframe></div></div>
+<script>
+document.getElementById('f2').addEventListener('load', e => {
+  setTimeout(() => { try { e.target.contentDocument.getElementById('sbtoggle').click(); } catch(x){} }, 2500);
+});
+</script>
+</body></html>
