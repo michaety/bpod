@@ -31,20 +31,7 @@
     "Joseph Finocchiaro",
     "William Longhauser",
     "Janet Longhauser",
-    "Library of Congress Catalog Card Number"
-   ],
-   "h": 21.67
-  },
-  {
-   "k": "txt",
-   "x": 2.6,
-   "y": 70.82,
-   "w": 31,
-   "size": 1.35,
-   "style": "body",
-   "align": "left",
-   "weight": "normal",
-   "paras": [
+    "Library of Congress Catalog Card Number",
     "77-3493",
     "ISBN 0-442-24977-2 (v. 1)",
     "ISBN 0-442-24978-0 (v. 2)",
@@ -52,7 +39,7 @@
     "ISBN 0-442-24980-2 (v. 4)",
     "All rights reserved. No part of this work covered by the copyright hereon may be reproduced or used in any form or by any means—graphic, electronic, or mechanical, including photocopying, recording, taping, or information storage and retrieval systems—without written permission of the publisher."
    ],
-   "h": 7.11
+   "h": 22.12
   },
   {
    "k": "txt",
@@ -141,47 +128,17 @@
   },
   {
    "k": "txt",
-   "x": 34.6,
-   "y": 58.71,
-   "w": 31,
-   "size": 1.35,
-   "style": "body",
-   "align": "left",
-   "weight": "normal",
-   "text": "Scarborough, Ontario M1P 2E7, Canada"
-  },
-  {
-   "k": "txt",
-   "x": 34.6,
-   "y": 61.08,
-   "w": 31,
-   "size": 1.35,
-   "style": "body",
-   "align": "left",
-   "weight": "normal",
-   "text": "Van Nostrand Reinhold Australia Pty. Ltd."
-  },
-  {
-   "k": "txt",
-   "x": 34.6,
-   "y": 62.26,
-   "w": 31,
-   "size": 1.35,
-   "style": "body",
-   "align": "left",
-   "weight": "normal",
-   "text": "17 Queen Street"
-  },
-  {
-   "k": "txt",
    "x": 35.11,
-   "y": 64.97,
+   "y": 60.3,
    "w": 31,
    "size": 1.35,
    "style": "body",
    "align": "left",
    "weight": "normal",
    "paras": [
+    "Scarborough, Ontario M1P 2E7, Canada",
+    "Van Nostrand Reinhold Australia Pty. Ltd.",
+    "17 Queen Street",
     "Mitcham, Victoria 3132, Australia",
     "Van Nostrand Reinhold Company Ltd.",
     "Molly Millars Lane",
@@ -189,12 +146,12 @@
     "16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1",
     "Library of Congress Cataloging in Publication"
    ],
-   "h": 5.69
+   "h": 3.3
   },
   {
    "k": "txt",
-   "x": 35.11,
-   "y": 75.48,
+   "x": 35.18,
+   "y": 71.94,
    "w": 31,
    "size": 1.35,
    "style": "body",
@@ -213,7 +170,7 @@
     "ISBN 0-442-24979-9 (v. 3)",
     "ISBN 0-442-24980-2 (v. 4)"
    ],
-   "h": 20.76
+   "h": 2.05
   }
  ]
 }

@@ -1,0 +1,106 @@
+{
+ "v": 3,
+ "p": 17,
+ "bg": "#8a8984",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.96,
+   "y": 3.5,
+   "w": 45.17,
+   "h": 47.44
+  },
+  {
+   "k": "art",
+   "x": 54.18,
+   "y": 3.5,
+   "w": 43.64,
+   "h": 47.17
+  },
+  {
+   "k": "txt",
+   "x": 2.24,
+   "y": 52.09,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Results from the individual textural studies are used in a horizontal-vertical, architectural composition. A contrasting free, organic composition is shown on the right."
+   ],
+   "h": 4.72
+  },
+  {
+   "k": "txt",
+   "x": 2.18,
+   "y": 67.8,
+   "w": 31,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "text": "The surface is worked by tapping with a hammer."
+  },
+  {
+   "k": "txt",
+   "x": 34.46,
+   "y": 67.11,
+   "w": 62.0,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Abundant variations are produced by tapping the head or tip of a nail against the paper."
+   ],
+   "h": 0.85
+  },
+  {
+   "k": "txt",
+   "x": 66.76,
+   "y": 68.56,
+   "w": 31,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Notching is produced by lightly tapping a chisel or spatula with a hammer. Similar effects are possible with other tools."
+   ],
+   "h": 2.16
+  },
+  {
+   "k": "art",
+   "x": 2.18,
+   "y": 72.24,
+   "w": 30.69,
+   "h": 24.26
+  },
+  {
+   "k": "art",
+   "x": 34.69,
+   "y": 72.24,
+   "w": 30.55,
+   "h": 24.26
+  },
+  {
+   "k": "art",
+   "x": 67.49,
+   "y": 72.24,
+   "w": 30.55,
+   "h": 24.26
+  },
+  {
+   "k": "txt",
+   "x": 88.0,
+   "y": 96.8,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "15"
+  }
+ ]
+}
