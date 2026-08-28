@@ -7,12 +7,23 @@
    "k": "txt",
    "x": 17.62,
    "y": 3.51,
-   "w": 12,
+   "w": 8,
    "size": 1.75,
    "style": "label",
    "align": "left",
    "weight": "normal",
-   "text": "Volume 2"
+   "text": "Volume"
+  },
+  {
+   "k": "txt",
+   "x": 25.03,
+   "y": 3.51,
+   "w": 4,
+   "size": 1.75,
+   "style": "label",
+   "align": "left",
+   "weight": "bold",
+   "text": "2"
   },
   {
    "k": "txt",

@@ -1,0 +1,60 @@
+{
+ "v": 2,
+ "p": 48,
+ "bg": "#eeede5",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.88,
+   "y": 3.56,
+   "w": 29.39,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Uses of the small, drop, and extension compasses are explained by the teacher, and the students experiment with them on sketch paper. Compass exercises include the construction of central-axis circles, with the constant reduction or enlargement of the radii and the formation of additional squares through divisions of the tangent points and diagonals, shown here. Mistakes are corrected with an etching knife or razor blade and not with opaque paint."
+   ],
+   "h": 12.05
+  },
+  {
+   "k": "art",
+   "x": 36.56,
+   "y": 2.93,
+   "w": 59.41,
+   "h": 45.34
+  },
+  {
+   "k": "txt",
+   "x": 2.82,
+   "y": 49.73,
+   "w": 86.3,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The irregularity of the tangent circles on the base grid is more striking here than in the above example. Despite extremely exact sketching, mistakes can occur from a slight shift of the compass point, the condition of the drawing board (hard- or soft-grain), or irregular ink flow, which dries at a different rate in areas in which the circles overlap."
+   ],
+   "h": 22.71
+  },
+  {
+   "k": "art",
+   "x": 36.3,
+   "y": 49.73,
+   "w": 59.22,
+   "h": 45.63
+  },
+  {
+   "k": "txt",
+   "x": 2.43,
+   "y": 96.44,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "46"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "v": 2,
+ "p": 49,
+ "bg": "#edede5",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.3,
+   "y": 3.14,
+   "w": 59.4,
+   "h": 45.55
+  },
+  {
+   "k": "txt",
+   "x": 67.38,
+   "y": 3.87,
+   "w": 29.64,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In the circle the secant and chord lines, at right angles to one another in relation to the square, are drawn regularly and symmetrically, with Thales' theorem offered as an explanation. As a variation of this exercise, a circle can be simulated by extending the fine subdivisions of the construction. If many lines converge at one point, irregular ink flow can be avoided by inserting a blank circular form."
+   ],
+   "h": 10.81
+  },
+  {
+   "k": "art",
+   "x": 3.3,
+   "y": 49.98,
+   "w": 59.4,
+   "h": 45.81
+  },
+  {
+   "k": "txt",
+   "x": 67.44,
+   "y": 50.02,
+   "w": 29.39,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "An ellipse is produced in the above construction by making proportional subdivisions of the rectangle and the symmetrical axes. Various elliptical constructions are explained. Experiments with French curves are done directly in ink on sketch paper because they require a great deal of practice."
+   ],
+   "h": 8.16
+  },
+  {
+   "k": "txt",
+   "x": 92.0,
+   "y": 96.5,
+   "w": 5.9,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "47"
+  }
+ ]
+}

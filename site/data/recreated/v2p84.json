@@ -1,0 +1,75 @@
+{
+ "v": 2,
+ "p": 84,
+ "bg": "#eeede5",
+ "el": [
+  {
+   "k": "art",
+   "x": 34.55,
+   "y": 3.52,
+   "w": 61.6,
+   "h": 30.28
+  },
+  {
+   "k": "txt",
+   "x": 3.33,
+   "y": 36.41,
+   "w": 29.5,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The curve is the final element in the basic exercises. Its clear, definite form essentially determines the characteristics of written capitals and round letters. The curve is fundamentally symmetrical and wider than the geometric half circle. The form should end either horizontally or slightly rounded.",
+    "The enlarged sections show corrections of curve characteristics."
+   ],
+   "h": 11.95
+  },
+  {
+   "k": "art",
+   "x": 34.78,
+   "y": 36.2,
+   "w": 61.54,
+   "h": 33.98
+  },
+  {
+   "k": "art",
+   "x": 35.0,
+   "y": 72.47,
+   "w": 29.47,
+   "h": 22.6
+  },
+  {
+   "k": "art",
+   "x": 66.62,
+   "y": 72.47,
+   "w": 30.1,
+   "h": 22.79
+  },
+  {
+   "k": "txt",
+   "x": 3.33,
+   "y": 81.36,
+   "w": 29.5,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "When the student is sure of his letter-building elements, symbols are organized into a composition. A predetermined number of elements is used. The structure of the forms should be simple: they should not contain more than three linear elements. The creative and inventive capacities of the students are stimulated through this exercise, which is a preliminary to actual letter writing. It summarizes the most important components of letter writing: technical discipline, concentration, understanding, and sensitivity to form, rhythm, and organization."
+   ],
+   "h": 14.74
+  },
+  {
+   "k": "txt",
+   "x": 3.6,
+   "y": 98.0,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "82"
+  }
+ ]
+}

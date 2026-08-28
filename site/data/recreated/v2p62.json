@@ -1,0 +1,74 @@
+{
+ "v": 2,
+ "p": 62,
+ "bg": "#eeede6",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.05,
+   "y": 3.56,
+   "w": 29.32,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "If a diagonal is drawn through a unit of area (rectangular solid, cube) on the ground plane, the remaining diagonals are parallel to it and retain the diagonal vanishing point (16) through the intersection of a visual ray running parallel to the diagonal. In this way entire spaces can be constructed from a single given unit of area."
+   ],
+   "h": 8.74
+  },
+  {
+   "k": "art",
+   "x": 33.67,
+   "y": 3.27,
+   "w": 61.84,
+   "h": 47.09
+  },
+  {
+   "k": "txt",
+   "x": 2.05,
+   "y": 58.22,
+   "w": 29.32,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Some variations of frontal views with a cubistic space are shown from left to right: high horizon, strong floor view; normal view, extreme angles avoided; lower horizon, strong ceiling view; strong side view, spatial distortion; normal view, slightly asymmetrical: and above, in the last example the representations are rectified by twisting the object or picture plane, shown below, strong views from above and below are corrected with converging lines. This procedure is reversed in photography."
+   ],
+   "h": 13.35
+  },
+  {
+   "k": "art",
+   "x": 1.73,
+   "y": 71.94,
+   "w": 29.83,
+   "h": 22.94
+  },
+  {
+   "k": "art",
+   "x": 33.23,
+   "y": 71.99,
+   "w": 29.83,
+   "h": 23.08
+  },
+  {
+   "k": "art",
+   "x": 64.98,
+   "y": 71.99,
+   "w": 30.54,
+   "h": 23.38
+  },
+  {
+   "k": "txt",
+   "x": 1.92,
+   "y": 96.49,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "60"
+  }
+ ]
+}

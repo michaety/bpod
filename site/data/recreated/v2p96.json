@@ -1,0 +1,60 @@
+{
+ "v": 2,
+ "p": 96,
+ "bg": "#edece4",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.39,
+   "y": 4.25,
+   "w": 93.22,
+   "h": 53.49
+  },
+  {
+   "k": "txt",
+   "x": 3.46,
+   "y": 62.71,
+   "w": 29.45,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The photographs below left show blackboard explanations of problems such as curve development, form width, and letter spacing. The right-hand illustration shows students sketching. The large sketching paper is fixed on a movable table-top. An oblique or vertical working surface enables the students to observe and control the large forms from a distance."
+   ],
+   "h": 9.88
+  },
+  {
+   "k": "art",
+   "x": 3.52,
+   "y": 72.94,
+   "w": 29.19,
+   "h": 22.68
+  },
+  {
+   "k": "art",
+   "x": 34.96,
+   "y": 73.04,
+   "w": 29.51,
+   "h": 22.83
+  },
+  {
+   "k": "art",
+   "x": 66.77,
+   "y": 73.24,
+   "w": 29.96,
+   "h": 22.92
+  },
+  {
+   "k": "txt",
+   "x": 3.33,
+   "y": 97.51,
+   "w": 8,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "94"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "v": 2,
+ "p": 51,
+ "bg": "#edece4",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.91,
+   "y": 3.14,
+   "w": 62.52,
+   "h": 47.42
+  },
+  {
+   "k": "txt",
+   "x": 67.38,
+   "y": 3.78,
+   "w": 30.0,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "This dimensional cross is extended to the walls dividing the cube. The proportion of the frontal to the foreshortened side of the cube in the standard diametric method is 1:0.5. The linear grid emphasizes the overlapping surfaces. Time-consuming, difficult shadow constructions are avoided at this stage."
+   ],
+   "h": 8.47
+  },
+  {
+   "k": "art",
+   "x": 3.82,
+   "y": 72.29,
+   "w": 30.16,
+   "h": 22.9
+  },
+  {
+   "k": "art",
+   "x": 36.12,
+   "y": 71.9,
+   "w": 29.9,
+   "h": 22.66
+  },
+  {
+   "k": "art",
+   "x": 68.03,
+   "y": 71.65,
+   "w": 29.32,
+   "h": 22.61
+  },
+  {
+   "k": "txt",
+   "x": 87.6,
+   "y": 95.7,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "49"
+  }
+ ]
+}

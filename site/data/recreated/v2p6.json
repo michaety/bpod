@@ -111,20 +111,7 @@
     "A Division of Litton Educational Publishing, Inc.",
     "450 West 33rd Street",
     "New York, NY 10001, U.S.A.",
-    "Van Nostrand Reinhold Limited"
-   ],
-   "h": 5.79
-  },
-  {
-   "k": "txt",
-   "x": 34.12,
-   "y": 55.25,
-   "w": 31,
-   "size": 1.35,
-   "style": "body",
-   "align": "left",
-   "weight": "normal",
-   "paras": [
+    "Van Nostrand Reinhold Limited",
     "1410 Birchmount Road",
     "Scarborough, Ontario M1P 2E7, Canada",
     "Van Nostrand Reinhold Australia Pty. Ltd.",
@@ -138,12 +125,12 @@
     "Data",
     "Maier, Manfred"
    ],
-   "h": 3.47
+   "h": 5.79
   },
   {
    "k": "txt",
    "x": 34.12,
-   "y": 59.88,
+   "y": 55.25,
    "w": 31,
    "size": 1.35,
    "style": "body",
@@ -160,7 +147,7 @@
     "ISBN 0-442-24979-9 (v.3)",
     "ISBN 0-442-24980-2 (v.4)"
    ],
-   "h": 3.36
+   "h": 3.47
   }
  ]
 }

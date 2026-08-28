@@ -1,0 +1,60 @@
+{
+ "v": 2,
+ "p": 75,
+ "bg": "#ecece4",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.92,
+   "y": 3.43,
+   "w": 61.71,
+   "h": 47.23
+  },
+  {
+   "k": "txt",
+   "x": 67.64,
+   "y": 4.02,
+   "w": 29.45,
+   "size": 1.45,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The cylinder is enclosed with a quarter circle-cube. It lies in the same over-the-corner representation as in the preceding drawing. Each quarter ellipse has another axial relationship and would approach a more circular form by extending the construction to the left vanishing point (without theoretically reaching it). The enclosing curve is seen as a half ellipse (circle) at the base and as a broken axial ellipse at the top."
+   ],
+   "h": 10.92
+  },
+  {
+   "k": "art",
+   "x": 4.34,
+   "y": 72.54,
+   "w": 30.1,
+   "h": 23.15
+  },
+  {
+   "k": "art",
+   "x": 36.63,
+   "y": 72.19,
+   "w": 29.64,
+   "h": 22.95
+  },
+  {
+   "k": "art",
+   "x": 68.28,
+   "y": 71.95,
+   "w": 29.51,
+   "h": 22.71
+  },
+  {
+   "k": "txt",
+   "x": 88.0,
+   "y": 96.8,
+   "w": 8.7,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "73"
+  }
+ ]
+}

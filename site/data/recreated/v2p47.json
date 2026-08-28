@@ -1,0 +1,61 @@
+{
+ "v": 2,
+ "p": 47,
+ "bg": "#edede5",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.98,
+   "y": 2.99,
+   "w": 60.3,
+   "h": 45.7
+  },
+  {
+   "k": "txt",
+   "x": 67.31,
+   "y": 3.58,
+   "w": 29.6,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In the beginning of this course, simple preparatory exercises explain correct handling of the materials and tools. The students learn to use T-square, triangle, pencil, ruling pen, compass, ink, paper, and drawing board. At the beginning they use pen-and-ink over pencil sketches: later inking pens such as Rapidographs can be used.",
+    "On the left a preliminary study is shown."
+   ],
+   "h": 10.92
+  },
+  {
+   "k": "art",
+   "x": 3.37,
+   "y": 49.39,
+   "w": 60.3,
+   "h": 45.95
+  },
+  {
+   "k": "txt",
+   "x": 67.57,
+   "y": 49.39,
+   "w": 29.6,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The Archimedes spiral can be approximated by constructing arches with their centers at the corners of polygons. With very small radii, the interior edge of the curve is deformed and needs more than four radial points. These curves are drawn directly in ink without preliminary pencil sketches to avoid difficulties in tracing the curves precisely."
+   ],
+   "h": 9.62
+  },
+  {
+   "k": "txt",
+   "x": 87.15,
+   "y": 96.27,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "45"
+  }
+ ]
+}

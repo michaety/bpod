@@ -1,0 +1,81 @@
+{
+ "v": 2,
+ "p": 104,
+ "bg": "#edece4",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.43,
+   "y": 4.49,
+   "w": 29.51,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Writing lowercase letters is quite different from capital letters. In contrast to the individual, unconnected forms of capital letters, lowercase letters depend on optical and calligraphic connections between the characters, organization of the text into separate words, and clear separations between the lines. The lowercase letters allow for a fluid writing text. The rhythmic uniformity of the writing movements produces a personal texture. The integration of capitals into the lowercase text and the correct proportions of ascenders and descenders to the x-height are essential components in this exercise."
+   ],
+   "h": 15.93
+  },
+  {
+   "k": "art",
+   "x": 34.19,
+   "y": 4.29,
+   "w": 61.33,
+   "h": 28.79
+  },
+  {
+   "k": "art",
+   "x": 34.19,
+   "y": 34.9,
+   "w": 61.33,
+   "h": 28.99
+  },
+  {
+   "k": "txt",
+   "x": 2.62,
+   "y": 56.17,
+   "w": 28.62,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "These illustrations show the students' initial difficulties in clarity, fluidity, and rhythm. The large illustration on the right shows a lowercase text without word spacing or capital letters. Uniform spacing between the characters is stressed. The illustration on the last page shows an organized text with cursive, lowercase letters."
+   ],
+   "h": 8.23
+  },
+  {
+   "k": "art",
+   "x": 34.19,
+   "y": 65.69,
+   "w": 61.33,
+   "h": 30.01
+  },
+  {
+   "k": "txt",
+   "x": 2.37,
+   "y": 85.21,
+   "w": 28.87,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The photographs on the right-hand page show sections from blackboard explanations. The beginning and end of the vertical line are strengthened through pressure. In straight-standing and cursive lowercase letters—for example—the traditional connection begins at the bottom of the stem. The head of the t is just above the line of the body height, and the f curve should not extend too far to the right."
+   ],
+   "h": 11.02
+  },
+  {
+   "k": "txt",
+   "x": 2.56,
+   "y": 97.46,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "102"
+  }
+ ]
+}

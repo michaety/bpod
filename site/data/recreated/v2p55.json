@@ -1,0 +1,60 @@
+{
+ "v": 2,
+ "p": 55,
+ "bg": "#edede5",
+ "el": [
+  {
+   "k": "art",
+   "x": 4.14,
+   "y": 3.19,
+   "w": 60.45,
+   "h": 46.0
+  },
+  {
+   "k": "txt",
+   "x": 68.67,
+   "y": 4.12,
+   "w": 29.64,
+   "size": 1.45,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "A foreshortened circle is divided into eight sections. The proportions of the angles from the half or quarter circle on the ground line are extended upward at the edge of the cube. The circle and the back corner of the cube happen to intersect in this drawing. Optional angles from the frontal circle can be transferred to the ellipse if the height proportions of the circle are inserted on the left edge of the cube."
+   ],
+   "h": 11.33
+  },
+  {
+   "k": "art",
+   "x": 4.27,
+   "y": 50.12,
+   "w": 60.13,
+   "h": 45.42
+  },
+  {
+   "k": "txt",
+   "x": 68.48,
+   "y": 50.32,
+   "w": 29.5,
+   "size": 1.45,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "If an element is elevated and turned uniformly on an axis, it produces a screwlike or winding line that is often incorrectly called a spiral. The constructed ground ellipse with its subdivisions is shifted in a parallel direction corresponding to the individual height levels. Elevation of the ground subdivision produces the individual sectors. The enclosed cylinder forms the shaft of the resulting winding stairs."
+   ],
+   "h": 10.92
+  },
+  {
+   "k": "txt",
+   "x": 88.0,
+   "y": 96.86,
+   "w": 9.86,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "53"
+  }
+ ]
+}

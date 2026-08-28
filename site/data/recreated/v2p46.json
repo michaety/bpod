@@ -1,0 +1,45 @@
+{
+ "v": 2,
+ "p": 46,
+ "bg": "#eeede5",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.88,
+   "y": 3.3,
+   "w": 30.0,
+   "size": 1.5,
+   "style": "heading",
+   "align": "left",
+   "weight": "bold",
+   "text": "Technical Drawing and Perspective",
+   "link": "Technical Drawing and Perspective"
+  },
+  {
+   "k": "txt",
+   "x": 2.94,
+   "y": 22.5,
+   "w": 30.0,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Many students have been introduced to geometry in secondary school. Plane geometry, a subdivision of the subject that includes simple, fundamental constructions as bisected angles, parallel projections, polygonal series, and the similarity ratio, forms the foundation for representational geometry. These fundamental constructions are applied in elementary exercises and supplemented with dimensional, graphic elements. The simple representation of a basic object is studied in parallel perspective. An understanding of the function of complicated constructions and the ability to draw them are developed through three-part axonometric, orthographic, and oblique projections. Students learn perspective and its principles through central projection in conjunction with photography. Extreme dimensional situations are consciously constructed and distorted beyond the normal field of vision; the difference is obvious between the perceived foreshortening in freehand drawing and the constructed perspective from a fixed viewpoint.",
+    "Drawing involving mathematical disciplines demands a neat representation, precision, and the concentration of the student. These skills are achieved through constant exercises with the appropriate tools and materials, especially ruling pen and compass. In professional practice they can be extended to production or architectural drawing, a technical specialty with recognized standards."
+   ],
+   "h": 26.8
+  },
+  {
+   "k": "txt",
+   "x": 2.48,
+   "y": 96.08,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "44"
+  }
+ ]
+}

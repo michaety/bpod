@@ -1,0 +1,61 @@
+{
+ "v": 2,
+ "p": 54,
+ "bg": "#eeede5",
+ "el": [
+  {
+   "k": "txt",
+   "x": 1.86,
+   "y": 3.86,
+   "w": 29.6,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In comparison to central projection, parallel projection always appears to be slightly distorted. The clarity of the direct measurements in the drawing compensates for the disadvantageous presentation.",
+    "Simple proportion numbers replace the usual edge angles, 7° and 42° respectively, on the circumscribed square for the elevation of the cube sides. In a variation of the previously mentioned Thales circle construction the ellipses are inserted on the three visible sides of the cube."
+   ],
+   "h": 14.54
+  },
+  {
+   "k": "art",
+   "x": 34.7,
+   "y": 3.3,
+   "w": 60.35,
+   "h": 45.85
+  },
+  {
+   "k": "txt",
+   "x": 1.86,
+   "y": 50.07,
+   "w": 29.6,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The ellipse and cube axe in the above illustration become identical by shifting the visible outer ellipse parallel to the center of the cube. A tangential curve, cut by the three ellipses at their contours, would give the parallel projection of a sphere, an ellipsoid of rotation whose center coincides with the gravitational center of the cube."
+   ],
+   "h": 9.47
+  },
+  {
+   "k": "art",
+   "x": 34.66,
+   "y": 50.1,
+   "w": 60.2,
+   "h": 45.78
+  },
+  {
+   "k": "txt",
+   "x": 1.6,
+   "y": 96.78,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "52"
+  }
+ ]
+}

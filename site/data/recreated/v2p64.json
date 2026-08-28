@@ -1,0 +1,46 @@
+{
+ "v": 2,
+ "p": 64,
+ "bg": "#eeede6",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.3,
+   "y": 3.61,
+   "w": 29.39,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Frontal and ground planes are covered with a grid. In a reduced-ground-plane situation vanishing points are inserted and correspondingly transferred to the measurements of the enlargement at the horizon. Correct transfer of scale is possible only on the ground line and on the tangential perpendicular standing lines (measuring edges). The horizon is adjusted to the height of the space and should not coincide with the edges of objects, as in the frame on the left wall in the drawing below."
+   ],
+   "h": 13.4
+  },
+  {
+   "k": "art",
+   "x": 35.98,
+   "y": 3.22,
+   "w": 59.41,
+   "h": 45.68
+  },
+  {
+   "k": "art",
+   "x": 35.15,
+   "y": 49.59,
+   "w": 59.86,
+   "h": 45.92
+  },
+  {
+   "k": "txt",
+   "x": 1.3,
+   "y": 96.7,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "62"
+  }
+ ]
+}

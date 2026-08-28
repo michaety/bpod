@@ -1,0 +1,60 @@
+{
+ "v": 2,
+ "p": 69,
+ "bg": "#eeede6",
+ "el": [
+  {
+   "k": "art",
+   "x": 4.45,
+   "y": 3.5,
+   "w": 59.75,
+   "h": 45.75
+  },
+  {
+   "k": "txt",
+   "x": 68.03,
+   "y": 4.17,
+   "w": 29.7,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The students can trace prefabricated dimensional grids on transparent paper. Complicated dimensional details are clarified with different line weights, surface cross hatching, and colored pencils."
+   ],
+   "h": 5.93
+  },
+  {
+   "k": "art",
+   "x": 4.45,
+   "y": 49.9,
+   "w": 59.75,
+   "h": 45.9
+  },
+  {
+   "k": "txt",
+   "x": 68.48,
+   "y": 49.98,
+   "w": 29.7,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "A visual inversion, a reversal from a convex to a concave illusion, can occur if you concentrate on this illustration of spatial corners. This effect would be significantly stronger in a parallel representation."
+   ],
+   "h": 5.93
+  },
+  {
+   "k": "txt",
+   "x": 88.0,
+   "y": 96.4,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "67"
+  }
+ ]
+}

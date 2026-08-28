@@ -1,0 +1,263 @@
+{
+ "v": 2,
+ "p": 61,
+ "bg": "#edede5",
+ "el": [
+  {
+   "k": "art",
+   "x": 4.53,
+   "y": 2.84,
+   "w": 62.01,
+   "h": 46.98
+  },
+  {
+   "k": "txt",
+   "x": 68.61,
+   "y": 3.53,
+   "w": 29.4,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The procedure is explained with a model and represented graphically. The construction of the model exhibits the principles that the eye point is the vanishing point for all parallel lines that are perpendicular to the main visual ray and that lines parallel to the picture plane remain parallel in the projection."
+   ],
+   "h": 8.42
+  },
+  {
+   "k": "txt",
+   "x": 68.8,
+   "y": 23.44,
+   "w": 29.4,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Key to the numbers in the examples shown here and on the following pages:",
+    "1. corner of a square"
+   ],
+   "h": 2.18
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 28.46,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "2. corner of a square"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 29.62,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "3. corner of a square"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 30.77,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "4. corner of a square"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 31.93,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "5. ground surface"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 33.09,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "6. picture plane"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 34.25,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "7. ground line"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 35.4,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "8. eye"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 36.56,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "9. standing position"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 37.72,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "10. main visual ray"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 38.88,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "11. visual ray"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 40.03,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "12. eye point (main point)"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 41.19,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "13. horizon"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 42.35,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "14. height of horizon"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 43.51,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "15. distance"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 44.66,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "16. diagonal point"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 45.82,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "17. left vanishing point"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 46.98,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "18. right vanishing point"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 48.14,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "19. plane"
+  },
+  {
+   "k": "txt",
+   "x": 73.3,
+   "y": 49.3,
+   "w": 24.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "20. frontal plane"
+  },
+  {
+   "k": "txt",
+   "x": 92.7,
+   "y": 96.6,
+   "w": 5.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "59"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "v": 2,
+ "p": 87,
+ "bg": "#ecece4",
+ "el": [
+  {
+   "k": "art",
+   "x": 4.08,
+   "y": 3.15,
+   "w": 92.94,
+   "h": 50.5
+  },
+  {
+   "k": "txt",
+   "x": 2.85,
+   "y": 70.23,
+   "w": 30.87,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Following this necessary foundation the students concentrate on the formulation of alphabetic symbols. Transcribing a Latin text is a suitable introduction to capital letters. Intervals between words are not considered in order to concentrate on organizing the lettering surface. Experience from the preceding exercises is transferred to the letters. Proportions between and within the individual symbols must be recognized and used correctly, and the different forms must be arranged according to size and degree of openness in a clear optical relationship to the total composition: for example, the letter O is small because of its closed nature; the termination of the letter N ascends slightly to the right and is compensated for by its two pointed angles. Each student works from the same model, but personal texture is developed. Individual organization, form, and general appearance deviate slightly from one another without differing essentially from the standard model."
+   ],
+   "h": 26.31
+  },
+  {
+   "k": "txt",
+   "x": 35.28,
+   "y": 77.44,
+   "w": 29.97,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The enlarged sections show corrections of the forms and proportions of individual signs. The curve of the R, above right, should not be pulled down but slightly elevated. The vertical position of the S is produced by aligning the ending strokes vertically with the width of the letterform. The width of the curves in B and P, center, is very small. In the complete picture the forms appear narrow because of this incorrect proportioning. The vertical of the K, below, should be slightly longer than the normal character height. The starlike appearance of the form neutralizes its relatively long diagonals. The meeting point of the lines in the Y are just below the geometric center."
+   ],
+   "h": 18.35
+  },
+  {
+   "k": "txt",
+   "x": 86.0,
+   "y": 96.5,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "85"
+  }
+ ]
+}

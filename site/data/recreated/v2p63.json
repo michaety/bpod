@@ -1,0 +1,60 @@
+{
+ "v": 2,
+ "p": 63,
+ "bg": "#edede5",
+ "el": [
+  {
+   "k": "art",
+   "x": 5.11,
+   "y": 2.89,
+   "w": 62.27,
+   "h": 47.38
+  },
+  {
+   "k": "txt",
+   "x": 68.87,
+   "y": 38.99,
+   "w": 28.67,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The horizon of the resulting dimensional grid is relative: the picture can be turned to change the space and the expression. If additional space is constructed beyond the ground line, the individual fields become increasingly distorted (7), similar in effect to a photograph taken with a wide-angle lens. New points can be inserted between (12) and (16) by dividing the line: halving or quartering, for example, skips of two or four units of volume, respectively, in the perspective."
+   ],
+   "h": 12.01
+  },
+  {
+   "k": "art",
+   "x": 5.18,
+   "y": 72.05,
+   "w": 29.9,
+   "h": 22.9
+  },
+  {
+   "k": "art",
+   "x": 37.41,
+   "y": 71.85,
+   "w": 25.96,
+   "h": 22.71
+  },
+  {
+   "k": "art",
+   "x": 66.8,
+   "y": 71.6,
+   "w": 27.96,
+   "h": 22.66
+  },
+  {
+   "k": "txt",
+   "x": 93.5,
+   "y": 96.13,
+   "w": 5.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "61"
+  }
+ ]
+}

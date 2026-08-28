@@ -1,0 +1,74 @@
+{
+ "v": 2,
+ "p": 39,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "art",
+   "x": 4.01,
+   "y": 3.92,
+   "w": 30.03,
+   "h": 31.88
+  },
+  {
+   "k": "art",
+   "x": 36.44,
+   "y": 4.51,
+   "w": 29.58,
+   "h": 31.58
+  },
+  {
+   "k": "art",
+   "x": 68.09,
+   "y": 4.66,
+   "w": 29.32,
+   "h": 32.12
+  },
+  {
+   "k": "art",
+   "x": 3.37,
+   "y": 43.45,
+   "w": 30.16,
+   "h": 32.42
+  },
+  {
+   "k": "art",
+   "x": 36.05,
+   "y": 43.99,
+   "w": 29.32,
+   "h": 31.98
+  },
+  {
+   "k": "art",
+   "x": 67.7,
+   "y": 44.34,
+   "w": 29.06,
+   "h": 31.73
+  },
+  {
+   "k": "txt",
+   "x": 2.59,
+   "y": 88.43,
+   "w": 30.42,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "These gray-value and color studies were done from the sketches on the opposite page. A different dimensional appearance and atmosphere are created in each study by painting the table surface light or dark and by changing both bright colors."
+   ],
+   "h": 7.12
+  },
+  {
+   "k": "txt",
+   "x": 86.18,
+   "y": 97.16,
+   "w": 10.0,
+   "size": 1.25,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "37"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "v": 2,
+ "p": 59,
+ "bg": "#edede5",
+ "el": [
+  {
+   "k": "art",
+   "x": 4.6,
+   "y": 2.89,
+   "w": 59.35,
+   "h": 45.52
+  },
+  {
+   "k": "txt",
+   "x": 68.74,
+   "y": 3.83,
+   "w": 29.58,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Changing from right to oblique angles parallel projection is simple with experience from the preceding exercises. For complicated objects the student must determine the axial direction of the cube in which the cross section is to be drawn. This prevents a strong foreshortening effect in the drawing. With the produced model such problems are investigated and clarified."
+   ],
+   "h": 9.77
+  },
+  {
+   "k": "txt",
+   "x": 68.67,
+   "y": 37.22,
+   "w": 29.51,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The cylinder, cut at an oblique angle to the axis of rotation, has an elliptical outline on the sectional plane. Dividing the ground-plane angles equally, transferring the ground to the side plane, and combining both views give the points of the ellipse on the frontal plane.",
+    "The students try to find further possibilities of penetrations. Difficult combinations such as cone-sphere or ring-pyramid are avoided at this stage."
+   ],
+   "h": 12.06
+  },
+  {
+   "k": "art",
+   "x": 4.47,
+   "y": 49.49,
+   "w": 59.61,
+   "h": 45.56
+  },
+  {
+   "k": "txt",
+   "x": 68.67,
+   "y": 85.48,
+   "w": 29.51,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "If a model of the cut cylinder is produced, it is important to determine the actual size of the sectional plane. The corresponding measurements are transferred from the ground plane at right angles to the intersecting line formed through the large axis of the ellipse. The actual lengths of the foreshortened lines are drawn on the blackboard."
+   ],
+   "h": 9.57
+  },
+  {
+   "k": "txt",
+   "x": 68.3,
+   "y": 97.6,
+   "w": 28.8,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "57"
+  }
+ ]
+}

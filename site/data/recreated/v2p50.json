@@ -1,0 +1,76 @@
+{
+ "v": 2,
+ "p": 50,
+ "bg": "#eeece5",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.56,
+   "y": 3.66,
+   "w": 29.6,
+   "size": 1.45,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In the isometric (one-dimensional) and diametric (two-dimensional) methods of parallel projection the representation is constructed by combining foreshortened ground and side views with the unforeshortened vertical view. This systematic method of finding spatial points is useful for the more complicated central projection.",
+    "On the right is a drawing of an axial cross in a cube. The exactness of the square touching the sides of the cube can be tested by inserting diagonals."
+   ],
+   "h": 9.52
+  },
+  {
+   "k": "art",
+   "x": 33.7,
+   "y": 3.1,
+   "w": 61.9,
+   "h": 47.31
+  },
+  {
+   "k": "txt",
+   "x": 2.3,
+   "y": 66.28,
+   "w": 29.6,
+   "size": 1.45,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The teacher and the students are at work in the classroom.",
+    "The three photographs on the right show the correct handling of the pencil and the ruling pen."
+   ],
+   "h": 4.81
+  },
+  {
+   "k": "art",
+   "x": 1.98,
+   "y": 71.74,
+   "w": 29.45,
+   "h": 22.89
+  },
+  {
+   "k": "art",
+   "x": 33.55,
+   "y": 71.99,
+   "w": 29.58,
+   "h": 22.89
+  },
+  {
+   "k": "art",
+   "x": 65.3,
+   "y": 72.18,
+   "w": 30.09,
+   "h": 23.23
+  },
+  {
+   "k": "txt",
+   "x": 2.17,
+   "y": 96.6,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "48"
+  }
+ ]
+}

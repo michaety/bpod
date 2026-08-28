@@ -1,0 +1,81 @@
+{
+ "v": 2,
+ "p": 79,
+ "bg": "#ecece4",
+ "el": [
+  {
+   "k": "txt",
+   "x": 3.69,
+   "y": 3.43,
+   "w": 30.9,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Forming the strokes and arranging them evenly form the basis of the lettering exercises. The stroke, both an independent form and part of a letterform character, must be lively and exciting. Accentuating the ends makes its form more distinct. The accent is produced by means of stronger pressure on the writing instrument. Abrupt increases or decreases of pressure should be avoided. Pressure and counterpressure must flow homogeneously into one another. A formal unity of word and line structure and a rhythmically balanced organization of the entire page are produced through the optical equality of interior and exterior spaces between characters and line intervals. The basic interval between two verticals is the starting point of the optical adjustment. The interval is somewhat smaller than a square. Additional spaces produced with diagonals or half verticals must be optically equal to the basic interval. Individual lines are written freely on the page, which makes the optical-organization process more direct, intensive, and intuitive. It should not be influenced by helping lines."
+   ],
+   "h": 29.89
+  },
+  {
+   "k": "art",
+   "x": 36.25,
+   "y": 4.07,
+   "w": 60.84,
+   "h": 29.67
+  },
+  {
+   "k": "txt",
+   "x": 4.08,
+   "y": 52.08,
+   "w": 30.42,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The exercises are written consecutively from left to right. The pencil must not be too soft: immediate wear produces a broad, awkward stroke. A hard pencil, on the other hand, impedes clear modulation and straightness of the stroke. The paper should not have a coarse texture, or the line will dissolve and lose its consistency. Corrections are made without erasing, and the exercise is repeated. In this way the student can compare and control the form."
+   ],
+   "h": 12.48
+  },
+  {
+   "k": "art",
+   "x": 36.44,
+   "y": 35.31,
+   "w": 60.91,
+   "h": 27.81
+  },
+  {
+   "k": "txt",
+   "x": 4.14,
+   "y": 91.03,
+   "w": 30.2,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The small illustrations here and on the following pages show different problem situations and appropriate explanations or corrections. The large illustrations document the solutions."
+   ],
+   "h": 5.15
+  },
+  {
+   "k": "art",
+   "x": 36.57,
+   "y": 64.74,
+   "w": 61.29,
+   "h": 29.57
+  },
+  {
+   "k": "txt",
+   "x": 88.0,
+   "y": 96.47,
+   "w": 9.7,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "77"
+  }
+ ]
+}

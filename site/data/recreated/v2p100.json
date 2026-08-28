@@ -1,0 +1,47 @@
+{
+ "v": 2,
+ "p": 100,
+ "bg": "#eeede5",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.2,
+   "y": 4.83,
+   "w": 92.57,
+   "h": 50.12
+  },
+  {
+   "k": "txt",
+   "x": 3.62,
+   "y": 87.85,
+   "w": 28.5,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "text": "In the two preceding exercises the characters are written slowly. The wide metal nib does not allow quick execution of individual lines and letters, but more spontaneous strokes are possible with pencil, brush, or charcoal because they offer no resistance to the writing movement."
+  },
+  {
+   "k": "txt",
+   "x": 34.7,
+   "y": 87.85,
+   "w": 29.6,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "The illustrations show the optical and rhythmical organization of an uppercase text. Conscious control is subordinate to spontaneous, quickly executed writing movements. In this instance felt-tip pens of different hardnesses and sizes are used."
+  },
+  {
+   "k": "txt",
+   "x": 3.62,
+   "y": 97.6,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "98"
+  }
+ ]
+}

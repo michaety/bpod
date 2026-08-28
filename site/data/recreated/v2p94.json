@@ -1,0 +1,64 @@
+{
+ "v": 2,
+ "p": 94,
+ "bg": "#edece5",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.52,
+   "y": 4.0,
+   "w": 92.83,
+   "h": 47.63
+  },
+  {
+   "k": "txt",
+   "x": 3.52,
+   "y": 72.86,
+   "w": 29.0,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In comparison to the pencil exercises forming capital letters with the pen is more dependent on technical ability, writing material, and formal perception. The contrasting pen strokes are sketched on large newsprint paper in order to recognize their characteristics within the fluid structure of the letterform."
+   ],
+   "h": 8.28
+  },
+  {
+   "k": "txt",
+   "x": 34.89,
+   "y": 72.82,
+   "w": 29.71,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The examples here and on the following two pages show two technically different methods of sketching letterforms: sketching the contours and filling in the forms or sketching with the broad edge of the writing tool (lithographic crayon or charcoal)."
+   ],
+   "h": 7.24
+  },
+  {
+   "k": "txt",
+   "x": 66.96,
+   "y": 94.87,
+   "w": 30.15,
+   "size": 1.4,
+   "style": "caption",
+   "align": "right",
+   "weight": "normal",
+   "text": "Formal problems are explained at the blackboard."
+  },
+  {
+   "k": "txt",
+   "x": 3.58,
+   "y": 97.36,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "92"
+  }
+ ]
+}

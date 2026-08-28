@@ -1,0 +1,60 @@
+{
+ "v": 2,
+ "p": 68,
+ "bg": "#eeeee6",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.82,
+   "y": 3.81,
+   "w": 29.4,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Regular perspective sections on the surfaces can be found from the sectional ground plane of the figure with visual rays or from the ground line with sectional or measuring points. The vertical subdivision on the right is constructed with regular transfers at the measuring edge and with the intersection of internal lines with diagonals."
+   ],
+   "h": 8.48
+  },
+  {
+   "k": "art",
+   "x": 36.62,
+   "y": 3.07,
+   "w": 59.4,
+   "h": 45.53
+  },
+  {
+   "k": "txt",
+   "x": 2.88,
+   "y": 49.93,
+   "w": 29.4,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "This illustration, constructed from the same grid, is an extension of the first dimensional representation (axial cross, dimensional knots). A model is likewise produced by the students. The four hollow cube knots are built from thirty-six solid cubes; the thirteen undrawn symmetrical axes and the nine symmetrical planes in each of the cubes can theoretically be extended through the entire model."
+   ],
+   "h": 10.66
+  },
+  {
+   "k": "art",
+   "x": 36.62,
+   "y": 49.83,
+   "w": 59.4,
+   "h": 45.87
+  },
+  {
+   "k": "txt",
+   "x": 2.62,
+   "y": 96.63,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "66"
+  }
+ ]
+}

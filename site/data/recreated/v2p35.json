@@ -1,0 +1,67 @@
+{
+ "v": 2,
+ "p": 35,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.75,
+   "y": 3.24,
+   "w": 43.04,
+   "h": 23.25
+  },
+  {
+   "k": "art",
+   "x": 55.08,
+   "y": 4.41,
+   "w": 42.14,
+   "h": 22.81
+  },
+  {
+   "k": "art",
+   "x": 3.5,
+   "y": 27.76,
+   "w": 42.98,
+   "h": 22.95
+  },
+  {
+   "k": "art",
+   "x": 54.82,
+   "y": 28.69,
+   "w": 41.88,
+   "h": 22.41
+  },
+  {
+   "k": "art",
+   "x": 3.17,
+   "y": 52.13,
+   "w": 43.04,
+   "h": 22.81
+  },
+  {
+   "k": "txt",
+   "x": 53.98,
+   "y": 90.83,
+   "w": 28.41,
+   "size": 1.36,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The use of white as a color in some of the color studies here and on the following pages is very interesting. Remaining light tones create a balance."
+   ],
+   "h": 4.47
+  },
+  {
+   "k": "txt",
+   "x": 85.92,
+   "y": 96.96,
+   "w": 10.0,
+   "size": 1.25,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "33"
+  }
+ ]
+}

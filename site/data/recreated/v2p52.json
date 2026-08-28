@@ -1,0 +1,74 @@
+{
+ "v": 2,
+ "p": 52,
+ "bg": "#eeede5",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.18,
+   "y": 3.66,
+   "w": 29.39,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Gradated revolving prisms are sketched in relation to the base grid or to the diagonals of the square, and the ground plan is drawn precisely. In the illustration on the right the grid is drawn at the sides of the cube, enclosing the steps from which the corresponding spatial points are produced with three-part projection. The vertical, linear grid can be drawn in different densities to correspond to the angle of each level."
+   ],
+   "h": 10.97
+  },
+  {
+   "k": "art",
+   "x": 33.55,
+   "y": 2.98,
+   "w": 61.91,
+   "h": 47.39
+  },
+  {
+   "k": "txt",
+   "x": 2.05,
+   "y": 62.86,
+   "w": 29.39,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Six variations of two intersecting or penetrating cubes can be drawn with the same exterior contour and varying interior lines, producing optical illusions: the dimensions of the views from above and below are indefinite. Such figures can always be realized dimensionally and are incorrectly labeled as impossible figures."
+   ],
+   "h": 8.43
+  },
+  {
+   "k": "art",
+   "x": 1.79,
+   "y": 71.69,
+   "w": 29.64,
+   "h": 23.04
+  },
+  {
+   "k": "art",
+   "x": 33.23,
+   "y": 71.84,
+   "w": 29.96,
+   "h": 23.23
+  },
+  {
+   "k": "art",
+   "x": 64.92,
+   "y": 72.03,
+   "w": 30.41,
+   "h": 23.43
+  },
+  {
+   "k": "txt",
+   "x": 1.86,
+   "y": 96.63,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "50"
+  }
+ ]
+}

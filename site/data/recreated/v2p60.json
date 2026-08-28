@@ -1,0 +1,74 @@
+{
+ "v": 2,
+ "p": 60,
+ "bg": "#eeede5",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.18,
+   "y": 3.76,
+   "w": 30.4,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Central perspective is derived empirically: it is not proven mathematically. In linear drawing objects represented in central perspective appear as if they were seen with one eye from a given viewpoint. Light rays that reach the eye from the object are replaced by constructed visual rays that strike the object from the eye. The fundamental principle of central perspective is the central projection: the visual rays of the observer penetrate an imaginary picture plane, and the penetration points produce the central-perspective image."
+   ],
+   "h": 14.74
+  },
+  {
+   "k": "art",
+   "x": 34.19,
+   "y": 3.27,
+   "w": 61.07,
+   "h": 47.1
+  },
+  {
+   "k": "txt",
+   "x": 1.98,
+   "y": 66.42,
+   "w": 31.0,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The theory is explained on the blackboard. These photographs show how the diagonal point in the model is determined and, on the right, the final perspective."
+   ],
+   "h": 4.66
+  },
+  {
+   "k": "art",
+   "x": 1.9,
+   "y": 72.1,
+   "w": 29.25,
+   "h": 22.6
+  },
+  {
+   "k": "art",
+   "x": 33.4,
+   "y": 72.1,
+   "w": 29.45,
+   "h": 22.6
+  },
+  {
+   "k": "art",
+   "x": 65.15,
+   "y": 72.1,
+   "w": 30.0,
+   "h": 22.6
+  },
+  {
+   "k": "txt",
+   "x": 1.84,
+   "y": 97.0,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "58"
+  }
+ ]
+}

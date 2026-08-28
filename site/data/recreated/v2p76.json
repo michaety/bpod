@@ -1,0 +1,39 @@
+{
+ "v": 2,
+ "p": 76,
+ "bg": "#eeede5",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.62,
+   "y": 2.98,
+   "w": 93.92,
+   "h": 72.03
+  },
+  {
+   "k": "txt",
+   "x": 3.27,
+   "y": 88.48,
+   "w": 29.8,
+   "size": 1.44,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The perspective of the over-the-corner dimensional grid is taken from a previously drawn model. The illustration shows a spatial meander that forms the original cube from two identical insertable forms. More complicated combinations are produced by connecting spatial diagonals."
+   ],
+   "h": 7.19
+  },
+  {
+   "k": "txt",
+   "x": 3.41,
+   "y": 97.0,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "74"
+  }
+ ]
+}

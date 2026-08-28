@@ -1,0 +1,73 @@
+{
+ "v": 2,
+ "p": 78,
+ "bg": "#eeede5",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.85,
+   "y": 4.2,
+   "w": 20.0,
+   "size": 1.4,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Lettering",
+   "link": "Lettering"
+  },
+  {
+   "k": "txt",
+   "x": 3.07,
+   "y": 40.31,
+   "w": 29.7,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Lettering is the visualization of linguistic sounds by means of graphic symbols. The symbols have changed often during the course of civilization: their function as part of a graphic-communication system, their readability, and their aesthetic form are creative problems. The optical problem of readability involves the interdependence of the individual symbols and the harmonious sequence of the letters in a text, which together form the foundation of letterform education.",
+    "Graphic formulation, rhythm, and composition are achieved through systematically structured, elementary exercises using letterforms on a given writing surface. They demand concentration and manual discipline. Through constant exercise the students become aware of the formal and technical abilities required to solve complex letter problems. The appearance and formal unity of letterforms are determined by the interrelationships among basic forms of individual characters and spaces between characters and by the continuous, rhythmic properties of the strokes and the writing materials. Different exercises explore pencil, charcoal, and pen-and-ink on unruled paper. The course is organized in terms of the following interrelated disciplines: stroke and character composition, from individual strokes to nonletter symbols; elementary capital letters; and curved elements, which should exhibit the same characteristic form and correspond to fixed proportions."
+   ],
+   "h": 11.9
+  },
+  {
+   "k": "txt",
+   "x": 2.94,
+   "y": 53.1,
+   "w": 29.7,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The exercises are expanded by changing the writing tool from pencil to pen. Different angle positions of the pen produced variations in the relationship between vertical and horizontal strokes. Bold sketching of individual characters is encouraged. Forms and properties of letters are developed through continual redrawing. The ability to write minuscule letters results from gained knowledge. Lettering is not simply copying historical patterns or even creating beautiful calligraphy."
+   ],
+   "h": 23.95
+  },
+  {
+   "k": "txt",
+   "x": 2.94,
+   "y": 77.65,
+   "w": 29.7,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In addition to the practical exercises lectures are given on the present aspects and historical development of the Latin alphabet. The students also receive an insight into other writing systems."
+   ],
+   "h": 12.21
+  },
+  {
+   "k": "txt",
+   "x": 2.85,
+   "y": 97.7,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "76"
+  }
+ ]
+}

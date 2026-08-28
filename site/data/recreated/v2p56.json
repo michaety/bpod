@@ -1,0 +1,74 @@
+{
+ "v": 2,
+ "p": 56,
+ "bg": "#eeece5",
+ "el": [
+  {
+   "k": "txt",
+   "x": 1.54,
+   "y": 4.25,
+   "w": 29.51,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Right-angle parallel projection of three planes is the basis of all technical drawing. It is best demonstrated with an open cube or a dimensional corner so that students can determine the form of the object. The procedure can be reversed: from two given projections of the same object the third must be found."
+   ],
+   "h": 8.33
+  },
+  {
+   "k": "art",
+   "x": 32.84,
+   "y": 3.22,
+   "w": 62.29,
+   "h": 47.83
+  },
+  {
+   "k": "txt",
+   "x": 1.66,
+   "y": 61.05,
+   "w": 29.45,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "These photographs of a model with movable planes demonstrate three-part projection. The shapes and dimensional features of the model can be prepared with wires. The turned position in front of a vertical glass plate is used to explain central projection: the appropriate threads are drawn through previously determined penetration points in the glass plate to produce the perspective picture."
+   ],
+   "h": 10.86
+  },
+  {
+   "k": "art",
+   "x": 1.73,
+   "y": 72.57,
+   "w": 29.13,
+   "h": 22.5
+  },
+  {
+   "k": "art",
+   "x": 33.03,
+   "y": 72.57,
+   "w": 29.58,
+   "h": 22.5
+  },
+  {
+   "k": "art",
+   "x": 65.11,
+   "y": 72.57,
+   "w": 29.58,
+   "h": 22.5
+  },
+  {
+   "k": "txt",
+   "x": 1.47,
+   "y": 97.12,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "54"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "v": 2,
+ "p": 66,
+ "bg": "#efede6",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.56,
+   "y": 3.66,
+   "w": 29.8,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In contrast to the preceding illustration, the object lies obliquely to the picture plane in an over-the-corner representation. Both possibilities are central perspective. The left vanishing point (17) is found with the visual ray (3) that cuts through the picture plane parallel to the sides of the square (1, 2). The right vanishing point (18) is constructed in an analogous way. The height of the object is transferred proportionally to the edges (measuring edges), tangentially to the picture plane. The object is turned at the picture plane 30°-60° corresponding to the normal drawing triangle. If a lateral vanishing point lies outside the drawing paper, the perspective depth can be found with the other lateral point and with the eye point by constructing dimensional triangles."
+   ],
+   "h": 20.9
+  },
+  {
+   "k": "art",
+   "x": 34.12,
+   "y": 3.12,
+   "w": 61.78,
+   "h": 47.05
+  },
+  {
+   "k": "txt",
+   "x": 2.5,
+   "y": 62.76,
+   "w": 29.8,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "A fan structure of vanishing lines can be found by connecting the plotted proportional scales at the measuring edges and the remaining verticals. A dimensional grid can be found by inserting diagonals. Sections at the verticals can be located with the similarity ratio. The diagrams show the formation of stairs with angular or cubic steps."
+   ],
+   "h": 8.54
+  },
+  {
+   "k": "art",
+   "x": 2.37,
+   "y": 71.99,
+   "w": 29.19,
+   "h": 22.54
+  },
+  {
+   "k": "art",
+   "x": 33.99,
+   "y": 72.13,
+   "w": 29.4,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 65.75,
+   "y": 72.28,
+   "w": 29.83,
+   "h": 23.03
+  },
+  {
+   "k": "txt",
+   "x": 2.36,
+   "y": 96.4,
+   "w": 10.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "64"
+  }
+ ]
+}
