@@ -1,0 +1,29 @@
+{
+ "v": 3,
+ "p": 3,
+ "bg": "#8e8d86",
+ "el": [
+  {
+   "k": "txt",
+   "x": 33.8,
+   "y": 4.2,
+   "w": 60,
+   "size": 1.8,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "School of Design Basel, Switzerland"
+  },
+  {
+   "k": "txt",
+   "x": 33.8,
+   "y": 6.1,
+   "w": 60,
+   "size": 1.8,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Foundation Program"
+  }
+ ]
+}

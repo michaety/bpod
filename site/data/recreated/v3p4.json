@@ -1,0 +1,36 @@
+{
+ "v": 3,
+ "p": 4,
+ "bg": "#81807b",
+ "el": [
+  {
+   "k": "art",
+   "x": 53.77,
+   "y": 49.44,
+   "w": 44.6,
+   "h": 0.43
+  },
+  {
+   "k": "art",
+   "x": 53.77,
+   "y": 49.76,
+   "w": 4.63,
+   "h": 3.29
+  },
+  {
+   "k": "txt",
+   "x": 59.52,
+   "y": 50.43,
+   "w": 39,
+   "size": 2.35,
+   "style": "label",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "VAN NOSTRAND REINHOLD COMPANY",
+    "NEW YORK   CINCINNATI   TORONTO   LONDON   MELBOURNE"
+   ],
+   "h": 2.88
+  }
+ ]
+}
