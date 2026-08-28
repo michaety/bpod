@@ -1,0 +1,47 @@
+{
+ "v": 3,
+ "p": 30,
+ "bg": "#807f7a",
+ "el": [
+  {
+   "k": "art",
+   "x": 37.96,
+   "y": 4.04,
+   "w": 60.95,
+   "h": 45.56
+  },
+  {
+   "k": "txt",
+   "x": 2.81,
+   "y": 50.16,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In connection to color as a material the investigation is expanded through exercises with monochromatic, white styrofoam, a prefabricated packing material. These combinations and compositions are unrelated to its original function. The material is manipulated through breaking, cutting, and layering.",
+    "The illustrations show, at top left, styrofoam beads glued in different densities on rectangular pieces; top right, pressed elements glued in a relieflike fashion in rhythmically free rows."
+   ],
+   "h": 8.47
+  },
+  {
+   "k": "art",
+   "x": 37.96,
+   "y": 50.13,
+   "w": 60.95,
+   "h": 46.1
+  },
+  {
+   "k": "txt",
+   "x": 2.4,
+   "y": 96.8,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "28"
+  }
+ ]
+}

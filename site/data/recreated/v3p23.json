@@ -1,0 +1,85 @@
+{
+ "v": 3,
+ "p": 23,
+ "bg": "#8b8b85",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.82,
+   "y": 3.67,
+   "w": 63.13,
+   "h": 47.27
+  },
+  {
+   "k": "art",
+   "x": 67.49,
+   "y": 3.88,
+   "w": 29.82,
+   "h": 23.18
+  },
+  {
+   "k": "art",
+   "x": 67.49,
+   "y": 28.3,
+   "w": 29.82,
+   "h": 22.64
+  },
+  {
+   "k": "txt",
+   "x": 1.87,
+   "y": 52.36,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In this work the tracing paper is cut into strips, overlapped in layers, and mounted, resulting in differentiated gray values. The two accompanying pieces show other transparency effects."
+   ],
+   "h": 4.78
+  },
+  {
+   "k": "txt",
+   "x": 2.04,
+   "y": 69.9,
+   "w": 31,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "text": "The teacher and the students are at work."
+  },
+  {
+   "k": "art",
+   "x": 1.82,
+   "y": 72.51,
+   "w": 30.91,
+   "h": 23.72
+  },
+  {
+   "k": "art",
+   "x": 34.33,
+   "y": 72.51,
+   "w": 30.62,
+   "h": 23.72
+  },
+  {
+   "k": "art",
+   "x": 66.91,
+   "y": 72.51,
+   "w": 30.91,
+   "h": 23.72
+  },
+  {
+   "k": "txt",
+   "x": 88.0,
+   "y": 96.8,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "21"
+  }
+ ]
+}

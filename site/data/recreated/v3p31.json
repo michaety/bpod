@@ -1,0 +1,60 @@
+{
+ "v": 3,
+ "p": 31,
+ "bg": "#8d8c86",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.09,
+   "y": 3.67,
+   "w": 63.27,
+   "h": 47.97
+  },
+  {
+   "k": "txt",
+   "x": 1.08,
+   "y": 69.05,
+   "w": 31,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The three photographs demonstrate the simple working process with styrofoam."
+   ],
+   "h": 2.27
+  },
+  {
+   "k": "art",
+   "x": 1.09,
+   "y": 72.67,
+   "w": 30.76,
+   "h": 23.83
+  },
+  {
+   "k": "art",
+   "x": 33.45,
+   "y": 72.67,
+   "w": 30.91,
+   "h": 23.83
+  },
+  {
+   "k": "art",
+   "x": 66.18,
+   "y": 72.67,
+   "w": 30.91,
+   "h": 23.83
+  },
+  {
+   "k": "txt",
+   "x": 88.0,
+   "y": 96.8,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "29"
+  }
+ ]
+}
