@@ -1,0 +1,36 @@
+{
+ "v": 2,
+ "p": 22,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.04,
+   "y": 3.12,
+   "w": 92.98,
+   "h": 50.37
+  },
+  {
+   "k": "txt",
+   "x": 2.43,
+   "y": 93.66,
+   "w": 30,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "The enlargement of the sketch is shown here."
+  },
+  {
+   "k": "txt",
+   "x": 2.43,
+   "y": 96.44,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "20"
+  }
+ ]
+}

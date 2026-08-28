@@ -1,0 +1,74 @@
+{
+ "v": 2,
+ "p": 30,
+ "bg": "#edece4",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.07,
+   "y": 5.03,
+   "w": 41.49,
+   "h": 21.65
+  },
+  {
+   "k": "art",
+   "x": 52.75,
+   "y": 3.09,
+   "w": 42.51,
+   "h": 23.2
+  },
+  {
+   "k": "art",
+   "x": 3.07,
+   "y": 28.61,
+   "w": 41.49,
+   "h": 22.04
+  },
+  {
+   "k": "art",
+   "x": 53.27,
+   "y": 27.84,
+   "w": 42.51,
+   "h": 22.43
+  },
+  {
+   "k": "art",
+   "x": 3.07,
+   "y": 52.2,
+   "w": 40.97,
+   "h": 22.43
+  },
+  {
+   "k": "art",
+   "x": 53.27,
+   "y": 51.81,
+   "w": 43.02,
+   "h": 22.43
+  },
+  {
+   "k": "txt",
+   "x": 53.71,
+   "y": 88.93,
+   "w": 30,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "These compositional studies were done in pencil on the theme worktable. The sketch above center was selected for further investigation. In the illustration below, it is refined for enlargement and duplication."
+   ],
+   "h": 5.89
+  },
+  {
+   "k": "txt",
+   "x": 3.33,
+   "y": 96.38,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "28"
+  }
+ ]
+}

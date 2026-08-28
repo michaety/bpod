@@ -1,0 +1,174 @@
+{
+ "v": 2,
+ "p": 8,
+ "bg": "#eeede5",
+ "el": [
+  {
+   "k": "art",
+   "x": 65.2,
+   "y": 3.3,
+   "w": 30.4,
+   "h": 22.3
+  },
+  {
+   "k": "art",
+   "x": 65.2,
+   "y": 27.9,
+   "w": 30.4,
+   "h": 22.0
+  },
+  {
+   "k": "art",
+   "x": 65.2,
+   "y": 52.2,
+   "w": 30.4,
+   "h": 22.2
+  },
+  {
+   "k": "txt",
+   "x": 1.37,
+   "y": 79.01,
+   "w": 45,
+   "size": 1.85,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Table of Contents"
+  },
+  {
+   "k": "txt",
+   "x": 65.97,
+   "y": 78.87,
+   "w": 28,
+   "size": 1.85,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Volume 1"
+  },
+  {
+   "k": "txt",
+   "x": 66.1,
+   "y": 86.14,
+   "w": 26,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Contributors:"
+  },
+  {
+   "k": "txt",
+   "x": 66.1,
+   "y": 87.46,
+   "w": 26,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Object Drawing",
+   "link": "Object Drawing"
+  },
+  {
+   "k": "txt",
+   "x": 86.27,
+   "y": 87.46,
+   "w": 10,
+   "size": 1.32,
+   "style": "body",
+   "align": "right",
+   "weight": "normal",
+   "text": "11"
+  },
+  {
+   "k": "txt",
+   "x": 66.1,
+   "y": 88.68,
+   "w": 26,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Sommer H. P. / Stettler P."
+  },
+  {
+   "k": "txt",
+   "x": 66.1,
+   "y": 90.0,
+   "w": 26,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Object and Museum Drawing",
+   "link": "Object and Museum Drawing"
+  },
+  {
+   "k": "txt",
+   "x": 86.27,
+   "y": 90.0,
+   "w": 10,
+   "size": 1.32,
+   "style": "body",
+   "align": "right",
+   "weight": "normal",
+   "text": "42"
+  },
+  {
+   "k": "txt",
+   "x": 66.1,
+   "y": 90.97,
+   "w": 26,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Sommer H. P. / Pola P."
+  },
+  {
+   "k": "txt",
+   "x": 66.1,
+   "y": 92.53,
+   "w": 26,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Nature Studies",
+   "link": "Nature Drawing"
+  },
+  {
+   "k": "txt",
+   "x": 86.27,
+   "y": 92.53,
+   "w": 10,
+   "size": 1.32,
+   "style": "body",
+   "align": "right",
+   "weight": "normal",
+   "text": "74"
+  },
+  {
+   "k": "txt",
+   "x": 66.1,
+   "y": 93.7,
+   "w": 26,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Sommer H. P. / Stettler P."
+  },
+  {
+   "k": "txt",
+   "x": 1.24,
+   "y": 96.4,
+   "w": 10,
+   "size": 1.2,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "6"
+  }
+ ]
+}

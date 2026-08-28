@@ -1,0 +1,53 @@
+{
+ "v": 2,
+ "p": 16,
+ "bg": "#ecece4",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.04,
+   "y": 3.12,
+   "w": 92.98,
+   "h": 50.76
+  },
+  {
+   "k": "txt",
+   "x": 2.81,
+   "y": 88.24,
+   "w": 29.5,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The illustrations here and on the preceding page show the work of different students on the theme table and chairs in space, executed in a large format. The three pencil drawings are carefully developed and differentiated in linear treatment, interpretation, and composition."
+   ],
+   "h": 7.19
+  },
+  {
+   "k": "txt",
+   "x": 34.29,
+   "y": 87.99,
+   "w": 29.5,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The example on the right was done by a student who had difficulties in sketching and developing a composition. It is produced with forms cut out of black paper, and, unlike the pencil drawings, the perspective is incorrect."
+   ],
+   "h": 6.16
+  },
+  {
+   "k": "txt",
+   "x": 2.87,
+   "y": 96.88,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "14"
+  }
+ ]
+}

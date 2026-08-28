@@ -1,0 +1,74 @@
+{
+ "v": 2,
+ "p": 28,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.54,
+   "y": 4.25,
+   "w": 42.0,
+   "h": 22.43
+  },
+  {
+   "k": "art",
+   "x": 2.05,
+   "y": 28.23,
+   "w": 42.0,
+   "h": 22.04
+  },
+  {
+   "k": "art",
+   "x": 2.05,
+   "y": 51.81,
+   "w": 42.0,
+   "h": 22.43
+  },
+  {
+   "k": "art",
+   "x": 52.24,
+   "y": 51.43,
+   "w": 43.02,
+   "h": 22.43
+  },
+  {
+   "k": "txt",
+   "x": 52.88,
+   "y": 75.3,
+   "w": 29,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The color sketch above was selected for the enlargement on the right."
+   ],
+   "h": 2.31
+  },
+  {
+   "k": "txt",
+   "x": 53.14,
+   "y": 91.06,
+   "w": 29.0,
+   "size": 1.3,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The three photographs on the right show the working area, students at work, and the teacher suggesting a correction."
+   ],
+   "h": 3.43
+  },
+  {
+   "k": "txt",
+   "x": 2.62,
+   "y": 96.23,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "26"
+  }
+ ]
+}

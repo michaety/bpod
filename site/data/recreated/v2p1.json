@@ -1,0 +1,167 @@
+{
+ "v": 2,
+ "p": 1,
+ "bg": "#ebddb6",
+ "el": [
+  {
+   "k": "txt",
+   "x": 4.3,
+   "y": 4.39,
+   "w": 28,
+   "size": 1.55,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Manfred Maier"
+  },
+  {
+   "k": "txt",
+   "x": 37.69,
+   "y": 4.39,
+   "w": 60,
+   "size": 1.55,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The Foundation Program at the School of Design",
+    "Basel, Switzerland"
+   ],
+   "h": 2.79
+  },
+  {
+   "k": "txt",
+   "x": 85.0,
+   "y": 9.7,
+   "w": 12.5,
+   "size": 31.5,
+   "style": "title",
+   "align": "right",
+   "weight": "bold",
+   "text": "2"
+  },
+  {
+   "k": "txt",
+   "x": 37.63,
+   "y": 22.17,
+   "w": 45,
+   "size": 4.2,
+   "style": "title",
+   "align": "left",
+   "weight": "bold",
+   "text": "Basic Principles"
+  },
+  {
+   "k": "txt",
+   "x": 37.63,
+   "y": 25.58,
+   "w": 45,
+   "size": 4.2,
+   "style": "title",
+   "align": "left",
+   "weight": "bold",
+   "text": "of Design"
+  },
+  {
+   "k": "txt",
+   "x": 5.65,
+   "y": 50.68,
+   "w": 20,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Van Nostrand/"
+  },
+  {
+   "k": "txt",
+   "x": 5.65,
+   "y": 52.53,
+   "w": 20,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Reinhold"
+  },
+  {
+   "k": "txt",
+   "x": 28.8,
+   "y": 50.83,
+   "w": 8,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Volume"
+  },
+  {
+   "k": "txt",
+   "x": 28.8,
+   "y": 52.68,
+   "w": 8,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "2"
+  },
+  {
+   "k": "txt",
+   "x": 37.6,
+   "y": 50.83,
+   "w": 58,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Memory Drawing",
+   "link": "Memory Drawing"
+  },
+  {
+   "k": "txt",
+   "x": 37.6,
+   "y": 52.68,
+   "w": 58,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Technical Drawing and Perspective",
+   "link": "Technical Drawing and Perspective"
+  },
+  {
+   "k": "txt",
+   "x": 37.6,
+   "y": 54.53,
+   "w": 58,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Lettering",
+   "link": "Lettering"
+  },
+  {
+   "k": "art",
+   "x": 5.42,
+   "y": 72.15,
+   "w": 29.56,
+   "h": 22.57
+  },
+  {
+   "k": "art",
+   "x": 37.06,
+   "y": 72.15,
+   "w": 29.44,
+   "h": 22.58
+  },
+  {
+   "k": "art",
+   "x": 68.53,
+   "y": 72.15,
+   "w": 29.3,
+   "h": 22.58
+  }
+ ]
+}

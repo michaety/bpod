@@ -1,0 +1,74 @@
+{
+ "v": 2,
+ "p": 26,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.05,
+   "y": 4.64,
+   "w": 42.0,
+   "h": 22.04
+  },
+  {
+   "k": "art",
+   "x": 52.24,
+   "y": 3.09,
+   "w": 43.02,
+   "h": 22.81
+  },
+  {
+   "k": "art",
+   "x": 2.56,
+   "y": 28.23,
+   "w": 41.49,
+   "h": 22.04
+  },
+  {
+   "k": "art",
+   "x": 52.75,
+   "y": 27.45,
+   "w": 42.51,
+   "h": 22.43
+  },
+  {
+   "k": "art",
+   "x": 3.07,
+   "y": 52.2,
+   "w": 41.49,
+   "h": 22.0
+  },
+  {
+   "k": "art",
+   "x": 52.75,
+   "y": 51.43,
+   "w": 43.02,
+   "h": 22.43
+  },
+  {
+   "k": "txt",
+   "x": 2.94,
+   "y": 85.31,
+   "w": 30,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Three gray-value studies and color sketches on the theme breakfast are shown here. The color sketches were executed in the same two colors, black, and white. The student developed a large number of possibilities by utilizing various mixing combinations. Individual objects advance or recede; the letterlike forms, numbers, and striped wallpaper are decorative elements."
+   ],
+   "h": 9.53
+  },
+  {
+   "k": "txt",
+   "x": 3.02,
+   "y": 96.26,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "24"
+  }
+ ]
+}
