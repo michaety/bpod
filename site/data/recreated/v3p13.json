@@ -1,0 +1,46 @@
+{
+ "v": 3,
+ "p": 13,
+ "bg": "#8d8c86",
+ "el": [
+  {
+   "k": "txt",
+   "x": 67.6,
+   "y": 3.75,
+   "w": 31,
+   "size": 1.4,
+   "style": "heading",
+   "align": "left",
+   "weight": "bold",
+   "text": "Material Studies",
+   "link": "Material Studies"
+  },
+  {
+   "k": "txt",
+   "x": 67.41,
+   "y": 26.5,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In today's technical civilization a feeling for the characteristics and possibilities of materials is suppressed. Tactual sensitivity and fantasy are the goals of this course: students are stimulated by manipulating and working the materials as form and expression. Unbiased experimentation, spontaneous perception of chance occurrences and their consequent development produce new, surprising possibilities that are unpredictable intellectually.",
+    "In elementary exercises students investigate the changing appearances of materials in different environments, the manipulation of the surface, the kind and incidence of light, and compositional rules. The relationships between the character, form, and color of materials present limitations in the definition of expressive possibilities. Ordinary raw materials and disposables are worked with simple tools; awareness of the media is developed through exercises in alteration, texture, and touch (with disposable materials); discovery (with wood and synthetics); connecting (with many materials); and themes (transparency and fluidity). Unusual elementary working techniques such as tearing, scratching, breaking, burning, folding, slitting, scoring, hammering, cutting, gluing, and fastening are explored and used.",
+    "Manual-technical, formal, and compositional interrelations are compared and evaluated through single exercises and themes with as many variations as possible. Thus, new stimulation and various qualities of expression are produced. The students' valuation possibilities consist in exchanging experiences, comparing working results, and working together. Technical ability, critical consciousness, and manual aptitude develop with the number and complexity of the exercises."
+   ],
+   "h": 10.92
+  },
+  {
+   "k": "txt",
+   "x": 88.0,
+   "y": 96.8,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "11"
+  }
+ ]
+}

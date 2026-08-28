@@ -1,0 +1,60 @@
+{
+ "v": 3,
+ "p": 19,
+ "bg": "#8a8a84",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.6,
+   "y": 3.23,
+   "w": 42.91,
+   "h": 45.93
+  },
+  {
+   "k": "art",
+   "x": 54.4,
+   "y": 3.23,
+   "w": 43.42,
+   "h": 46.1
+  },
+  {
+   "k": "txt",
+   "x": 33.6,
+   "y": 81.06,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Here and on the following two pages is shown work based on the contrast mat-glossy. Unlike the preceding exercises, in which tactile experiences are primary, changed optical appearances, based on the reflective properties of light, predominate. Disposable materials, wrapping paper, and used aluminum foil are extensively worked with tools such as knives, scissors, scoring sticks, and glue. Abundant and unexpected creative possibilities are produced by discovering chance effects in geometric and organic compositions."
+   ],
+   "h": 14.56
+  },
+  {
+   "k": "txt",
+   "x": 66.04,
+   "y": 81.12,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Both examples show the same complex, horizontal-vertical composition under different lighting conditions."
+   ],
+   "h": 3.47
+  },
+  {
+   "k": "txt",
+   "x": 88.0,
+   "y": 96.8,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "17"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "v": 3,
+ "p": 18,
+ "bg": "#7c7c76",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.96,
+   "y": 3.34,
+   "w": 61.53,
+   "h": 45.82
+  },
+  {
+   "k": "txt",
+   "x": 67.12,
+   "y": 3.7,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Further possibilities are found by manipulating different paper qualities. White or dull papers and cardboards are used to avoid confusion between the expression of the material itself and color.",
+    "In the two following examples the structure of soft paper, napkins, and corrugated cardboard is changed by tearing, folding, crumbling, layering, and soaking in water."
+   ],
+   "h": 5.8
+  },
+  {
+   "k": "txt",
+   "x": 67.12,
+   "y": 44.53,
+   "w": 31,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The photographs show how napkins are worked into a composition by folding, cutting, and gluing."
+   ],
+   "h": 2.22
+  },
+  {
+   "k": "art",
+   "x": 67.64,
+   "y": 48.3,
+   "w": 30.4,
+   "h": 23.4
+  },
+  {
+   "k": "art",
+   "x": 1.96,
+   "y": 49.7,
+   "w": 61.53,
+   "h": 46.53
+  },
+  {
+   "k": "art",
+   "x": 67.64,
+   "y": 72.51,
+   "w": 30.4,
+   "h": 23.72
+  },
+  {
+   "k": "txt",
+   "x": 2.4,
+   "y": 96.8,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "16"
+  }
+ ]
+}

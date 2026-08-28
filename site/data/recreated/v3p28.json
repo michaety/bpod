@@ -1,0 +1,102 @@
+{
+ "v": 3,
+ "p": 28,
+ "bg": "#7e7d77",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.04,
+   "y": 3.77,
+   "w": 30.83,
+   "h": 23.02
+  },
+  {
+   "k": "art",
+   "x": 34.69,
+   "y": 3.77,
+   "w": 30.76,
+   "h": 23.02
+  },
+  {
+   "k": "art",
+   "x": 67.49,
+   "y": 3.77,
+   "w": 30.69,
+   "h": 23.02
+  },
+  {
+   "k": "art",
+   "x": 2.04,
+   "y": 28.14,
+   "w": 30.83,
+   "h": 22.8
+  },
+  {
+   "k": "art",
+   "x": 34.69,
+   "y": 28.14,
+   "w": 30.76,
+   "h": 22.8
+  },
+  {
+   "k": "art",
+   "x": 67.49,
+   "y": 28.14,
+   "w": 30.69,
+   "h": 22.8
+  },
+  {
+   "k": "txt",
+   "x": 2.09,
+   "y": 71.89,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In this course color is investigated in terms of its material characteristics. It is investigated in monochromatic exercises as a material in pigment form. Instead of oil paint white latex paint and binder are used, as they dry and harden quickly. Prepared burlap is divided into sections and serves as the ground. In order to compare the original character of the burlap, one area is left unworked. The paint is applied in different quantities with bristle brushes and spatulas, using various techniques on the remaining surfaces. The surfaces should be essentially, optically, and tactilely differentiated. After drying sections can be changed with sandpaper."
+   ],
+   "h": 17.12
+  },
+  {
+   "k": "txt",
+   "x": 34.46,
+   "y": 71.89,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The first example, at upper left, is natural burlap. The remaining five examples show different surface treatments."
+   ],
+   "h": 3.3
+  },
+  {
+   "k": "txt",
+   "x": 66.69,
+   "y": 90.61,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The examples on the theme fluidity show differentiated effects of the paint material. Dark colors with a fluid consistency are applied to different partially wet papers."
+   ],
+   "h": 4.72
+  },
+  {
+   "k": "txt",
+   "x": 2.4,
+   "y": 96.8,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "26"
+  }
+ ]
+}

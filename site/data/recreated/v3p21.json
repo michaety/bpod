@@ -1,0 +1,74 @@
+{
+ "v": 3,
+ "p": 21,
+ "bg": "#8a8a84",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.45,
+   "y": 3.34,
+   "w": 45.1,
+   "h": 48.52
+  },
+  {
+   "k": "art",
+   "x": 53.09,
+   "y": 3.67,
+   "w": 44.73,
+   "h": 48.19
+  },
+  {
+   "k": "art",
+   "x": 1.45,
+   "y": 53.1,
+   "w": 21.46,
+   "h": 22.91
+  },
+  {
+   "k": "art",
+   "x": 24.22,
+   "y": 53.1,
+   "w": 22.11,
+   "h": 22.91
+  },
+  {
+   "k": "art",
+   "x": 52.95,
+   "y": 53.1,
+   "w": 21.45,
+   "h": 22.91
+  },
+  {
+   "k": "art",
+   "x": 76.0,
+   "y": 53.1,
+   "w": 21.82,
+   "h": 22.91
+  },
+  {
+   "k": "txt",
+   "x": 52.49,
+   "y": 90.83,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In the two examples of free, organic compositions the accompanying reductions appear different, although they are taken from the same original under different lighting conditions."
+   ],
+   "h": 4.66
+  },
+  {
+   "k": "txt",
+   "x": 88.0,
+   "y": 96.8,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "19"
+  }
+ ]
+}

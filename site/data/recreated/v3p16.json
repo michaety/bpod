@@ -1,0 +1,179 @@
+{
+ "v": 3,
+ "p": 16,
+ "bg": "#7e7d76",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.18,
+   "y": 3.67,
+   "w": 30.69,
+   "h": 23.28
+  },
+  {
+   "k": "art",
+   "x": 34.91,
+   "y": 3.67,
+   "w": 30.54,
+   "h": 23.28
+  },
+  {
+   "k": "art",
+   "x": 67.85,
+   "y": 3.67,
+   "w": 30.33,
+   "h": 23.28
+  },
+  {
+   "k": "art",
+   "x": 2.18,
+   "y": 27.92,
+   "w": 30.69,
+   "h": 23.19
+  },
+  {
+   "k": "art",
+   "x": 34.91,
+   "y": 27.92,
+   "w": 30.54,
+   "h": 23.19
+  },
+  {
+   "k": "art",
+   "x": 67.85,
+   "y": 27.92,
+   "w": 30.33,
+   "h": 23.19
+  },
+  {
+   "k": "txt",
+   "x": 2.45,
+   "y": 52.41,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "From top to bottom:",
+    "Fine, irregular holes, made with a needle on a soft support, produce amorphous elevations on the back of the paper.",
+    "Small vertical slits are formed on the surface with a knife held at a slight angle."
+   ],
+   "h": 4.66
+  },
+  {
+   "k": "txt",
+   "x": 35.04,
+   "y": 53.59,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Regular, repeated notching of the paper surface is produced with the point of a knife held at a steep angle.",
+    "The surface is torn and scratched with a knife or needle by repeated scoring at a slanted position."
+   ],
+   "h": 3.41
+  },
+  {
+   "k": "txt",
+   "x": 67.85,
+   "y": 53.6,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Small, regular incisions are opened with the flat point of the knife."
+  },
+  {
+   "k": "txt",
+   "x": 67.34,
+   "y": 58.26,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Uniform holes are made by punching a needle through the paper."
+   ],
+   "h": 2.22
+  },
+  {
+   "k": "txt",
+   "x": 2.6,
+   "y": 67.6,
+   "w": 31,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The surface of the paper is slit or scored with a knife and a straightedge."
+   ],
+   "h": 2.22
+  },
+  {
+   "k": "txt",
+   "x": 34.9,
+   "y": 67.54,
+   "w": 31,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The paper is punctured with a needle held perpendicular to the surface on a cardboard support."
+   ],
+   "h": 3.47
+  },
+  {
+   "k": "txt",
+   "x": 67.34,
+   "y": 67.54,
+   "w": 31,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Various textures are achieved by changing the position of the needle and using different supports."
+   ],
+   "h": 3.47
+  },
+  {
+   "k": "art",
+   "x": 2.4,
+   "y": 72.51,
+   "w": 30.69,
+   "h": 23.99
+  },
+  {
+   "k": "art",
+   "x": 34.91,
+   "y": 72.51,
+   "w": 30.54,
+   "h": 23.99
+  },
+  {
+   "k": "art",
+   "x": 67.64,
+   "y": 72.51,
+   "w": 30.4,
+   "h": 23.99
+  },
+  {
+   "k": "txt",
+   "x": 2.4,
+   "y": 96.8,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "14"
+  }
+ ]
+}

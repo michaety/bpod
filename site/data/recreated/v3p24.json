@@ -1,0 +1,74 @@
+{
+ "v": 3,
+ "p": 24,
+ "bg": "#7e7d78",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.96,
+   "y": 3.67,
+   "w": 62.77,
+   "h": 47.27
+  },
+  {
+   "k": "art",
+   "x": 67.27,
+   "y": 3.77,
+   "w": 31.28,
+   "h": 22.65
+  },
+  {
+   "k": "art",
+   "x": 67.85,
+   "y": 28.14,
+   "w": 30.19,
+   "h": 22.8
+  },
+  {
+   "k": "txt",
+   "x": 2.02,
+   "y": 52.52,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Two examples of three-dimensional work on the theme transparency. Above, pieces cut out of tracing paper are freely mounted in a wooden frame, and a layer of tracing paper is attached to the front side. The three photographs show the front and back views and the simple method of attaching the pieces to the back of the frame. Below, on the back of a piece of tracing paper fixed into a cardboard frame, a cylinder made from the same material is cut into segments and mounted. The individual rings, on the left, move from side to side; the other two examples show phases of movement with different diffusion effects from the front."
+   ],
+   "h": 16.89
+  },
+  {
+   "k": "art",
+   "x": 2.4,
+   "y": 72.67,
+   "w": 24.0,
+   "h": 23.56
+  },
+  {
+   "k": "art",
+   "x": 36.73,
+   "y": 72.67,
+   "w": 22.04,
+   "h": 23.56
+  },
+  {
+   "k": "art",
+   "x": 67.49,
+   "y": 72.67,
+   "w": 30.55,
+   "h": 23.56
+  },
+  {
+   "k": "txt",
+   "x": 2.4,
+   "y": 96.8,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "22"
+  }
+ ]
+}

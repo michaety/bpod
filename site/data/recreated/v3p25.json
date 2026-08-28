@@ -1,0 +1,60 @@
+{
+ "v": 3,
+ "p": 25,
+ "bg": "#8d8c86",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.82,
+   "y": 3.34,
+   "w": 44.73,
+   "h": 47.6
+  },
+  {
+   "k": "art",
+   "x": 52.73,
+   "y": 3.34,
+   "w": 44.72,
+   "h": 47.6
+  },
+  {
+   "k": "txt",
+   "x": 33.96,
+   "y": 83.58,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In contrast to the ordinary media of pencil, pen, and brush, a linear, graphic appearance is achieved with black thread on a white ground, or vice versa. Tonal-value exercises with white thread on a white background and black thread on a black background emphasize the characteristics of the textile material. Many unplanned possibilities, such as concentrations, repetitions, and mobile conceptions, are produced by spontaneous play with thread and other linear materials."
+   ],
+   "h": 12.11
+  },
+  {
+   "k": "txt",
+   "x": 66.33,
+   "y": 83.53,
+   "w": 31,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In these two examples looped and knotted threads are inserted at the edges of the cardboard and tied together on the back. The compositions, especially the negative spaces, can be changed by moving the bound threads on the back. In the study on the right concentrated accents are composed with contrasting tight and loose threads."
+   ],
+   "h": 8.42
+  },
+  {
+   "k": "txt",
+   "x": 88.0,
+   "y": 96.8,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "23"
+  }
+ ]
+}
