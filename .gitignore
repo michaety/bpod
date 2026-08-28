@@ -1,2 +1,4 @@
 # extracted book content — keep local, do not publish
 
+__pycache__/
+*.pyc
