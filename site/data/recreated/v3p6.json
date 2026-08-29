@@ -1,13 +1,13 @@
 {
- "v": 2,
+ "v": 3,
  "p": 6,
- "bg": "#eeeee6",
+ "bg": "#80807a",
  "el": [
   {
    "k": "txt",
-   "x": 1.78,
-   "y": 48.27,
-   "w": 31,
+   "x": 2.45,
+   "y": 48.55,
+   "w": 30.5,
    "size": 1.35,
    "style": "body",
    "align": "left",
@@ -31,7 +31,20 @@
     "Joseph Finocchiaro",
     "William Longhauser",
     "Janet Longhauser",
-    "Library of Congress Catalog Card Number",
+    "Library of Congress Catalog Card Number"
+   ],
+   "h": 21.67
+  },
+  {
+   "k": "txt",
+   "x": 2.6,
+   "y": 70.82,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
     "77-3493",
     "ISBN 0-442-24977-2 (v. 1)",
     "ISBN 0-442-24978-0 (v. 2)",
@@ -39,13 +52,13 @@
     "ISBN 0-442-24980-2 (v. 4)",
     "All rights reserved. No part of this work covered by the copyright hereon may be reproduced or used in any form or by any means—graphic, electronic, or mechanical, including photocopying, recording, taping, or information storage and retrieval systems—without written permission of the publisher."
    ],
-   "h": 22.04
+   "h": 7.11
   },
   {
    "k": "txt",
-   "x": 1.85,
-   "y": 87.99,
-   "w": 31,
+   "x": 2.52,
+   "y": 90.72,
+   "w": 30.5,
    "size": 1.35,
    "style": "body",
    "align": "left",
@@ -54,9 +67,9 @@
   },
   {
    "k": "txt",
-   "x": 1.85,
-   "y": 90.39,
-   "w": 31,
+   "x": 2.52,
+   "y": 93.62,
+   "w": 30.5,
    "size": 1.35,
    "style": "body",
    "align": "left",
@@ -65,9 +78,9 @@
   },
   {
    "k": "txt",
-   "x": 1.85,
-   "y": 91.61,
-   "w": 31,
+   "x": 2.52,
+   "y": 94.8,
+   "w": 30.5,
    "size": 1.35,
    "style": "body",
    "align": "left",
@@ -76,9 +89,9 @@
   },
   {
    "k": "txt",
-   "x": 1.85,
-   "y": 92.78,
-   "w": 31,
+   "x": 2.52,
+   "y": 95.98,
+   "w": 30.5,
    "size": 1.35,
    "style": "body",
    "align": "left",
@@ -87,9 +100,9 @@
   },
   {
    "k": "txt",
-   "x": 1.85,
-   "y": 94.0,
-   "w": 31,
+   "x": 2.52,
+   "y": 97.16,
+   "w": 30.5,
    "size": 1.35,
    "style": "body",
    "align": "left",
@@ -98,9 +111,9 @@
   },
   {
    "k": "txt",
-   "x": 34.06,
-   "y": 48.22,
-   "w": 31,
+   "x": 34.75,
+   "y": 48.61,
+   "w": 30.5,
    "size": 1.35,
    "style": "body",
    "align": "left",
@@ -111,30 +124,96 @@
     "A Division of Litton Educational Publishing, Inc.",
     "450 West 33rd Street",
     "New York, NY 10001, U.S.A.",
-    "Van Nostrand Reinhold Limited",
-    "1410 Birchmount Road",
-    "Scarborough, Ontario M1P 2E7, Canada",
-    "Van Nostrand Reinhold Australia Pty. Ltd.",
-    "17 Queen Street",
+    "Van Nostrand Reinhold Limited"
+   ],
+   "h": 5.8
+  },
+  {
+   "k": "txt",
+   "x": 34.9,
+   "y": 57.02,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "1410 Birchmount Road"
+  },
+  {
+   "k": "txt",
+   "x": 34.9,
+   "y": 58.23,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Scarborough, Ontario M1P 2E7, Canada"
+  },
+  {
+   "k": "txt",
+   "x": 34.9,
+   "y": 60.65,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Van Nostrand Reinhold Australia Pty. Ltd."
+  },
+  {
+   "k": "txt",
+   "x": 34.9,
+   "y": 61.86,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "17 Queen Street"
+  },
+  {
+   "k": "txt",
+   "x": 35.11,
+   "y": 64.97,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
     "Mitcham, Victoria 3132, Australia",
     "Van Nostrand Reinhold Company Ltd.",
     "Molly Millars Lane",
     "Wokingham, Berkshire, England",
     "16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1",
-    "Library of Congress Cataloging in Publication",
+    "Library of Congress Cataloging in Publication"
+   ],
+   "h": 5.69
+  },
+  {
+   "k": "txt",
+   "x": 35.11,
+   "y": 75.48,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
     "Data",
     "Maier, Manfred",
     "Basic principles of design.",
     "Translation of Elementare Entwurfs- und Gestaltungsprozesse. Die Grundkurse an der Kunstgewerbeschule Basel, Schweiz.",
-    "CONTENTS: v.1. Object drawing, object and museum drawing, nature drawing. — v.2. Memory drawing, technical drawing and perspective, lettering. — v.3. Material studies, textile design, color 2. — v.4. Color 1, graphic exercises, dimensional design.",
+    "CONTENTS: v. 1. Object drawing, object and museum drawing, nature drawing. — v. 2. Memory drawing, technical drawing and perspective, lettering. — v. 3. Material studies, textile design, color 2. — v. 4. Color 1, graphic exercises, dimensional design.",
     "1. Design—Study and teaching. I. Title",
     "NK1170.M3413   745.4'07   77-3493",
-    "ISBN 0-442-24977-2 (v.1)",
-    "ISBN 0-442-24978-0 (v.2)",
-    "ISBN 0-442-24979-9 (v.3)",
-    "ISBN 0-442-24980-2 (v.4)"
+    "ISBN 0-442-24977-2 (v. 1)",
+    "ISBN 0-442-24978-0 (v. 2)",
+    "ISBN 0-442-24979-9 (v. 3)",
+    "ISBN 0-442-24980-2 (v. 4)"
    ],
-   "h": 5.79
+   "h": 20.76
   }
  ]
 }

@@ -1,0 +1,167 @@
+{
+ "v": 3,
+ "p": 1,
+ "bg": "#8a7242",
+ "el": [
+  {
+   "k": "txt",
+   "x": 3.7,
+   "y": 4.05,
+   "w": 28,
+   "size": 1.55,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Manfred Maier"
+  },
+  {
+   "k": "txt",
+   "x": 35.23,
+   "y": 3.4,
+   "w": 60,
+   "size": 1.55,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The Foundation Program at the School of Design",
+    "Basel, Switzerland"
+   ],
+   "h": 3.66
+  },
+  {
+   "k": "txt",
+   "x": 85.0,
+   "y": 9.4,
+   "w": 12.5,
+   "size": 31.5,
+   "style": "title",
+   "align": "right",
+   "weight": "bold",
+   "text": "3"
+  },
+  {
+   "k": "txt",
+   "x": 35.0,
+   "y": 21.9,
+   "w": 45,
+   "size": 4.2,
+   "style": "title",
+   "align": "left",
+   "weight": "bold",
+   "text": "Basic Principles"
+  },
+  {
+   "k": "txt",
+   "x": 35.0,
+   "y": 25.3,
+   "w": 45,
+   "size": 4.2,
+   "style": "title",
+   "align": "left",
+   "weight": "bold",
+   "text": "of Design"
+  },
+  {
+   "k": "txt",
+   "x": 3.7,
+   "y": 50.9,
+   "w": 20,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Van Nostrand/"
+  },
+  {
+   "k": "txt",
+   "x": 3.7,
+   "y": 52.8,
+   "w": 20,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Reinhold"
+  },
+  {
+   "k": "txt",
+   "x": 26.7,
+   "y": 50.9,
+   "w": 8,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Volume"
+  },
+  {
+   "k": "txt",
+   "x": 26.7,
+   "y": 52.8,
+   "w": 8,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "text": "3"
+  },
+  {
+   "k": "txt",
+   "x": 35.7,
+   "y": 50.9,
+   "w": 58,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Material Studies",
+   "link": "Material Studies"
+  },
+  {
+   "k": "txt",
+   "x": 35.7,
+   "y": 52.8,
+   "w": 58,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Textile Design",
+   "link": "Textile Design"
+  },
+  {
+   "k": "txt",
+   "x": 35.7,
+   "y": 54.7,
+   "w": 58,
+   "size": 1.5,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Color 2",
+   "link": "Color 2"
+  },
+  {
+   "k": "art",
+   "x": 3.41,
+   "y": 73.44,
+   "w": 29.97,
+   "h": 20.79
+  },
+  {
+   "k": "art",
+   "x": 35.16,
+   "y": 73.44,
+   "w": 30.19,
+   "h": 20.79
+  },
+  {
+   "k": "art",
+   "x": 67.47,
+   "y": 73.44,
+   "w": 29.97,
+   "h": 20.79
+  }
+ ]
+}

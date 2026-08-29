@@ -1,0 +1,66 @@
+{
+ "v": 3,
+ "p": 12,
+ "bg": "#81807b",
+ "el": [
+  {
+   "k": "txt",
+   "x": 18.8,
+   "y": 4.3,
+   "w": 8,
+   "size": 1.75,
+   "style": "label",
+   "align": "left",
+   "weight": "normal",
+   "text": "Volume"
+  },
+  {
+   "k": "txt",
+   "x": 25.7,
+   "y": 4.3,
+   "w": 4,
+   "size": 1.75,
+   "style": "label",
+   "align": "left",
+   "weight": "bold",
+   "text": "3"
+  },
+  {
+   "k": "txt",
+   "x": 31.8,
+   "y": 4.3,
+   "w": 30,
+   "size": 1.75,
+   "style": "label",
+   "align": "left",
+   "weight": "normal",
+   "text": "Introduction"
+  },
+  {
+   "k": "txt",
+   "x": 32.16,
+   "y": 58.58,
+   "w": 64,
+   "size": 1.9,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The primary feeling for material, for its beauty and possibilities of expression, is largely lost with technological and industrial specialization. We daily encounter new materials and larger quantities, which demand more than abstract, intellectual, and commercial knowledge and behavior. An involvement with materials goes back to the teachers of the Bauhaus and the development of fine arts during the last 50 years. The goals of this volume are a familiarity with the interrelation of material, technique, and form and with tactile and optical qualities, a differentiation of tactile feeling, observation, manual experimentation, spontaneous invention and discovery, and an understanding of different techniques and raw materials.",
+    "Single results are achieved in many elementary exercises with minimal material and technical investment. The individual exercises are not arranged systematically: corresponding to the subjective, spontaneous working method, the evaluation of criteria is redefined in each exercise by comparing results. Experience with the materials and with their characteristics is derived from creative involvement with optical and tactile sensitivity and with the critical consciousness. Personal, intuitive differentiations corresponding to individual abilities result through experimentation and stimulate new goals for faculty as well as students. The goals of the teaching and learning process are clarified through cooperative involvement with the more structured courses described in volume 4."
+   ],
+   "h": 38.78
+  },
+  {
+   "k": "txt",
+   "x": 2.3,
+   "y": 96.5,
+   "w": 10,
+   "size": 1.2,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "10"
+  }
+ ]
+}

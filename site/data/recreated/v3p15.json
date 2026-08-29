@@ -1,0 +1,182 @@
+{
+ "v": 3,
+ "p": 15,
+ "bg": "#8b8a84",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.0,
+   "y": 3.4,
+   "w": 30.6,
+   "h": 23.3
+  },
+  {
+   "k": "art",
+   "x": 34.4,
+   "y": 3.4,
+   "w": 30.0,
+   "h": 23.3
+  },
+  {
+   "k": "art",
+   "x": 66.7,
+   "y": 3.4,
+   "w": 30.7,
+   "h": 23.3
+  },
+  {
+   "k": "art",
+   "x": 2.0,
+   "y": 27.6,
+   "w": 30.6,
+   "h": 23.0
+  },
+  {
+   "k": "art",
+   "x": 34.4,
+   "y": 27.6,
+   "w": 30.0,
+   "h": 23.0
+  },
+  {
+   "k": "art",
+   "x": 66.7,
+   "y": 27.6,
+   "w": 30.7,
+   "h": 23.0
+  },
+  {
+   "k": "txt",
+   "x": 2.02,
+   "y": 52.31,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "From top to bottom:",
+    "The head of a nail is slanted and hammered with different intensities against the paper."
+   ],
+   "h": 3.41
+  },
+  {
+   "k": "txt",
+   "x": 2.16,
+   "y": 58.15,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "A spatula or wood chisel is used rhythmically to create hammered depressions at regular intervals."
+   ],
+   "h": 3.24
+  },
+  {
+   "k": "txt",
+   "x": 34.39,
+   "y": 53.43,
+   "w": 30.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The imprints from a nail head tapped against the paper on soft cardboard produces a raised surface on the opposite side.",
+    "Finely scored surfaces are achieved with the point of the nail, needles, the back of the knife blade, or similar tools."
+   ],
+   "h": 3.47
+  },
+  {
+   "k": "txt",
+   "x": 66.83,
+   "y": 53.49,
+   "w": 30.7,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The surface of the paper is scratched or lightly cut with a dull knife held at a slight angle from the side.",
+    "Linear reliefs are produced by scoring the back side of the paper on a soft support."
+   ],
+   "h": 3.24
+  },
+  {
+   "k": "txt",
+   "x": 2.16,
+   "y": 67.6,
+   "w": 30.5,
+   "size": 1.3,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The surface of the paper is slit or cut with a knife held at a slight angle."
+   ],
+   "h": 2.27
+  },
+  {
+   "k": "txt",
+   "x": 34.39,
+   "y": 67.6,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Various textures are discovered by scratching the paper with knives held in different positions."
+   ],
+   "h": 2.22
+  },
+  {
+   "k": "txt",
+   "x": 66.83,
+   "y": 67.6,
+   "w": 30.7,
+   "size": 1.3,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Small triangular shapes with a relieflike grid are formed by cutting and folding back the resulting elements with a knife."
+   ],
+   "h": 3.24
+  },
+  {
+   "k": "art",
+   "x": 2.0,
+   "y": 70.3,
+   "w": 30.6,
+   "h": 24.3
+  },
+  {
+   "k": "art",
+   "x": 34.4,
+   "y": 70.3,
+   "w": 30.0,
+   "h": 24.3
+  },
+  {
+   "k": "art",
+   "x": 66.7,
+   "y": 70.3,
+   "w": 30.7,
+   "h": 24.3
+  },
+  {
+   "k": "txt",
+   "x": 87.5,
+   "y": 96.6,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "13"
+  }
+ ]
+}

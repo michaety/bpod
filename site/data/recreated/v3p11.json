@@ -1,0 +1,76 @@
+{
+ "v": 3,
+ "p": 11,
+ "bg": "#8d8c85",
+ "el": [
+  {
+   "k": "txt",
+   "x": 25.6,
+   "y": 4.4,
+   "w": 9,
+   "size": 1.75,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Volume"
+  },
+  {
+   "k": "txt",
+   "x": 25.6,
+   "y": 6.3,
+   "w": 9,
+   "size": 1.75,
+   "style": "heading",
+   "align": "left",
+   "weight": "bold",
+   "text": "3"
+  },
+  {
+   "k": "txt",
+   "x": 34.7,
+   "y": 4.4,
+   "w": 58,
+   "size": 1.75,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Material Studies",
+   "link": "Material Studies"
+  },
+  {
+   "k": "txt",
+   "x": 34.7,
+   "y": 6.3,
+   "w": 58,
+   "size": 1.75,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Textile Design",
+   "link": "Textile Design"
+  },
+  {
+   "k": "txt",
+   "x": 34.7,
+   "y": 8.2,
+   "w": 58,
+   "size": 1.75,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Color 2",
+   "link": "Color 2"
+  },
+  {
+   "k": "txt",
+   "x": 87.6,
+   "y": 96.8,
+   "w": 10,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "9"
+  }
+ ]
+}
