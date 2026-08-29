@@ -1,0 +1,67 @@
+{
+ "v": 3,
+ "p": 22,
+ "bg": "#807f79",
+ "el": [
+  {
+   "k": "art",
+   "x": 34.7,
+   "y": 3.5,
+   "w": 62.7,
+   "h": 46.5
+  },
+  {
+   "k": "txt",
+   "x": 2.52,
+   "y": 52.74,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In the following exercise on the theme transparency the student must find a suitable material and corresponding working process. More than in the preceding exercises light is incorporated in different transparent effects. Many different materials are suited to this theme. In these exercises transparent paper is used in flat layers or in movable three-dimensional reliefs. Formal elements and differentiated gray values result from the various layers of material. The contrast between diffuse and clear forms must often be playfully discovered and consciously formulated."
+   ],
+   "h": 14.61
+  },
+  {
+   "k": "art",
+   "x": 34.7,
+   "y": 52.5,
+   "w": 30.7,
+   "h": 22.1
+  },
+  {
+   "k": "art",
+   "x": 66.9,
+   "y": 52.5,
+   "w": 30.5,
+   "h": 22.1
+  },
+  {
+   "k": "txt",
+   "x": 2.6,
+   "y": 70.82,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The three examples show the same work, in which the surface of the tracing paper was scratched with a needle, against light, dark, and transparent backgrounds."
+   ],
+   "h": 4.66
+  },
+  {
+   "k": "txt",
+   "x": 2.9,
+   "y": 96.6,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "20"
+  }
+ ]
+}

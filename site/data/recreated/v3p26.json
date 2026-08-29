@@ -1,0 +1,78 @@
+{
+ "v": 3,
+ "p": 26,
+ "bg": "#807f7a",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.4,
+   "y": 3.4,
+   "w": 46.1,
+   "h": 47.6
+  },
+  {
+   "k": "art",
+   "x": 53.0,
+   "y": 4.7,
+   "w": 22.3,
+   "h": 21.1
+  },
+  {
+   "k": "art",
+   "x": 76.0,
+   "y": 4.7,
+   "w": 21.6,
+   "h": 21.1
+  },
+  {
+   "k": "art",
+   "x": 53.0,
+   "y": 27.5,
+   "w": 22.3,
+   "h": 23.4
+  },
+  {
+   "k": "art",
+   "x": 76.0,
+   "y": 27.5,
+   "w": 21.6,
+   "h": 23.4
+  },
+  {
+   "k": "art",
+   "x": 53.0,
+   "y": 52.6,
+   "w": 22.3,
+   "h": 22.7
+  },
+  {
+   "k": "art",
+   "x": 76.0,
+   "y": 52.6,
+   "w": 21.6,
+   "h": 22.7
+  },
+  {
+   "k": "txt",
+   "x": 2.2,
+   "y": 85.5,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "This composition shows radiating, partially overlapping threads that project from the upper left to the lower right. The threads are pulled through holes in the cardboard and knotted at different lengths, as in the two small examples at the top. The other four examples show how the basic composition can be changed by moving the threads on the front surface."
+  },
+  {
+   "k": "txt",
+   "x": 2.3,
+   "y": 96.6,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "24"
+  }
+ ]
+}

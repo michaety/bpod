@@ -1,0 +1,67 @@
+{
+ "v": 3,
+ "p": 32,
+ "bg": "#7f7e79",
+ "el": [
+  {
+   "k": "art",
+   "x": 35.5,
+   "y": 3.4,
+   "w": 61.9,
+   "h": 47.1
+  },
+  {
+   "k": "art",
+   "x": 35.5,
+   "y": 52.5,
+   "w": 29.8,
+   "h": 22.1
+  },
+  {
+   "k": "art",
+   "x": 66.9,
+   "y": 52.5,
+   "w": 30.5,
+   "h": 22.1
+  },
+  {
+   "k": "txt",
+   "x": 2.96,
+   "y": 87.29,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Creative possibilities, unburdened by tradition, are produced from a spontaneous confrontation with PVC plastic, a modern industrial product. This material is reflective, smooth, tough, flexible, and translucent. It permits numerous treatments such as folding, bending, layering, tearing, cutting, heating, burning, and stretching."
+   ],
+   "h": 8.42
+  },
+  {
+   "k": "txt",
+   "x": 35.33,
+   "y": 87.34,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Three elementary examples are produced by heating and crumpling, tearing and folding, and burning the material. The four examples on the right show the methods used on a sheet of folded black plastic. Different effects are produced through various light treatments."
+   ],
+   "h": 7.22
+  },
+  {
+   "k": "txt",
+   "x": 2.8,
+   "y": 96.6,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "30"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "v": 3,
+ "p": 27,
+ "bg": "#8d8d86",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.4,
+   "y": 4.6,
+   "w": 30.4,
+   "h": 21.6
+  },
+  {
+   "k": "art",
+   "x": 1.4,
+   "y": 27.6,
+   "w": 30.4,
+   "h": 22.9
+  },
+  {
+   "k": "art",
+   "x": 40.4,
+   "y": 28.5,
+   "w": 55.5,
+   "h": 43.1
+  },
+  {
+   "k": "art",
+   "x": 1.4,
+   "y": 51.7,
+   "w": 30.4,
+   "h": 23.1
+  },
+  {
+   "k": "txt",
+   "x": 1.6,
+   "y": 84.9,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Compositions with vertically arranged threads can be altered by shifting the threads sideways."
+  },
+  {
+   "k": "txt",
+   "x": 40.5,
+   "y": 84.9,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Soldered rods form a compact, linear mass."
+  },
+  {
+   "k": "txt",
+   "x": 86.5,
+   "y": 96.6,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "25"
+  }
+ ]
+}

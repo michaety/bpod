@@ -1,0 +1,81 @@
+{
+ "v": 3,
+ "p": 29,
+ "bg": "#8c8b85",
+ "el": [
+  {
+   "k": "art",
+   "x": 0.7,
+   "y": 3.4,
+   "w": 43.9,
+   "h": 47.1
+  },
+  {
+   "k": "art",
+   "x": 51.6,
+   "y": 3.4,
+   "w": 44.0,
+   "h": 47.1
+  },
+  {
+   "k": "txt",
+   "x": 0.94,
+   "y": 52.47,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "This composition shows horizontal-vertical divisions from the diagonal and the progression of color densities to the lower-right corner. The last and smallest rectangular surface was scraped and sanded smooth."
+   ],
+   "h": 5.74
+  },
+  {
+   "k": "txt",
+   "x": 51.84,
+   "y": 52.47,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In contrast to the above organized, geometric exercise, a free, organic composition with expressive forms results from spontaneous but controlled actions."
+   ],
+   "h": 4.49
+  },
+  {
+   "k": "art",
+   "x": 0.7,
+   "y": 71.6,
+   "w": 30.6,
+   "h": 22.9
+  },
+  {
+   "k": "art",
+   "x": 33.0,
+   "y": 71.6,
+   "w": 30.4,
+   "h": 22.9
+  },
+  {
+   "k": "art",
+   "x": 65.4,
+   "y": 71.6,
+   "w": 30.2,
+   "h": 22.9
+  },
+  {
+   "k": "txt",
+   "x": 85.5,
+   "y": 96.6,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "27"
+  }
+ ]
+}

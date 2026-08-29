@@ -1,0 +1,81 @@
+{
+ "v": 3,
+ "p": 20,
+ "bg": "#7e7d77",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.7,
+   "y": 3.4,
+   "w": 62.6,
+   "h": 46.0
+  },
+  {
+   "k": "art",
+   "x": 67.3,
+   "y": 3.4,
+   "w": 30.1,
+   "h": 23.1
+  },
+  {
+   "k": "txt",
+   "x": 67.56,
+   "y": 46.3,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The dark-light effect of this reduced composition is reversed through different light reflections. The finely textured sections appear matter than the less worked material."
+   ],
+   "h": 4.49
+  },
+  {
+   "k": "txt",
+   "x": 2.74,
+   "y": 67.44,
+   "w": 30.5,
+   "size": 1.3,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The three photographs give an insight into the simple working process by which tinfoil is manually worked and formed."
+   ],
+   "h": 3.47
+  },
+  {
+   "k": "art",
+   "x": 2.7,
+   "y": 70.4,
+   "w": 30.7,
+   "h": 24.2
+  },
+  {
+   "k": "art",
+   "x": 35.0,
+   "y": 70.4,
+   "w": 30.3,
+   "h": 24.2
+  },
+  {
+   "k": "art",
+   "x": 67.3,
+   "y": 70.4,
+   "w": 30.1,
+   "h": 24.2
+  },
+  {
+   "k": "txt",
+   "x": 2.8,
+   "y": 96.6,
+   "w": 10,
+   "size": 1.25,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "18"
+  }
+ ]
+}
