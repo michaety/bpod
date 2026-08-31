@@ -1,0 +1,87 @@
+{
+ "v": 4,
+ "p": 76,
+ "bg": "#edece4",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.07,
+   "y": 3.3,
+   "w": 25.0,
+   "size": 1.32,
+   "style": "heading",
+   "align": "left",
+   "weight": "bold",
+   "text": "Dimensional Design",
+   "link": "Dimensional Design"
+  },
+  {
+   "k": "txt",
+   "x": 2.04,
+   "y": 34.99,
+   "w": 30.6,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Consciousness of three-dimensionality is weakened by daily confrontation with the environment. The goals of this course are to perceive, discover and experience dimensional objects, forms, structures, and abstractions.",
+    "The working process used to execute a dimensional object is complex and requires manual skill. The abundance of materials, means, and working procedures demands a clear direction for creative manipulation. Through objective conditions dimensional, creative possibilities and criteria are discovered, analyzed, and differentiated. Given themes and materials are tested by extensive experimentation with forms and technical procedures. Creative ideas and statement possibilities are defined and clarified by comparing the results. Depictions of objects are developed through many trials. The interrelationship between the correct investment of skillful technique, and creative ordering of volumes, forms, and rhythms must be worked into an interesting unity. Arbitrary decisions are avoided."
+   ],
+   "h": 4.75
+  },
+  {
+   "k": "txt",
+   "x": 2.04,
+   "y": 40.9,
+   "w": 30.6,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The transformation—the effect of the worked form into different materials and techniques (i.e., recasting the same form)—requires new creative aspects and experiences."
+   ],
+   "h": 20.56
+  },
+  {
+   "k": "txt",
+   "x": 2.04,
+   "y": 62.06,
+   "w": 30.6,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Applying the appropriate criteria to these processes enables the students to draw conlusions concerning the entire working process and renews and refines their involvement. They are integrated into new goals."
+   ],
+   "h": 3.44
+  },
+  {
+   "k": "txt",
+   "x": 2.04,
+   "y": 66.78,
+   "w": 30.6,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Besides ordinary materials (clay, plaster, and wood) modern materials such as silicon, polyester, and plexiglass are utilized in the exercises."
+   ],
+   "h": 4.75
+  },
+  {
+   "k": "txt",
+   "x": 2.07,
+   "y": 96.6,
+   "w": 5.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "74"
+  }
+ ]
+}

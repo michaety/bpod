@@ -1,0 +1,106 @@
+{
+ "v": 4,
+ "p": 22,
+ "bg": "#ebebe2",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.44,
+   "y": 3.65,
+   "w": 29.42,
+   "h": 22.55
+  },
+  {
+   "k": "art",
+   "x": 32.5,
+   "y": 3.65,
+   "w": 29.55,
+   "h": 22.55
+  },
+  {
+   "k": "art",
+   "x": 63.56,
+   "y": 3.65,
+   "w": 29.94,
+   "h": 22.55
+  },
+  {
+   "k": "art",
+   "x": 1.44,
+   "y": 27.5,
+   "w": 29.42,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 32.5,
+   "y": 27.5,
+   "w": 29.55,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 63.56,
+   "y": 27.5,
+   "w": 29.94,
+   "h": 22.75
+  },
+  {
+   "k": "txt",
+   "x": 1.66,
+   "y": 57.05,
+   "w": 30.2,
+   "size": 1.42,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "From the previous exercises an interrelated color pair is selected. The three colors are remixed in large quantities and stored in jars. The original harmony changes with rearrangements of the sequence and variations of proportions. In some cases the color harmony is emphasized or refined; in others it is unfavorably affected. It is obvious that the positions and proportions of the colors are influenced by their reciprocal relationships."
+   ],
+   "h": 12.12
+  },
+  {
+   "k": "txt",
+   "x": 32.95,
+   "y": 56.96,
+   "w": 29.22,
+   "size": 1.42,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In the two harmonies in the above examples, the proportions and not the sequence of the colors are varied."
+   ],
+   "h": 3.3
+  },
+  {
+   "k": "art",
+   "x": 64.74,
+   "y": 71.7,
+   "w": 28.83,
+   "h": 17.75
+  },
+  {
+   "k": "txt",
+   "x": 33.03,
+   "y": 85.55,
+   "w": 29.22,
+   "size": 1.42,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "text": "The photograph shows the necessary materials for the color exercises: the assorted tempera colors, two or three brushes, a container for water, paper, a flat dish for mixing, and a board for stretching the paper."
+  },
+  {
+   "k": "txt",
+   "x": 1.84,
+   "y": 96.6,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "20"
+  }
+ ]
+}

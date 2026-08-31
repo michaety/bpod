@@ -1,0 +1,106 @@
+{
+ "v": 3,
+ "p": 82,
+ "bg": "#7f7e79",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.46,
+   "y": 3.59,
+   "w": 30.28,
+   "h": 22.59
+  },
+  {
+   "k": "art",
+   "x": 35.9,
+   "y": 3.59,
+   "w": 30.14,
+   "h": 22.59
+  },
+  {
+   "k": "art",
+   "x": 68.35,
+   "y": 3.59,
+   "w": 30.21,
+   "h": 22.59
+  },
+  {
+   "k": "art",
+   "x": 3.53,
+   "y": 27.84,
+   "w": 30.14,
+   "h": 22.53
+  },
+  {
+   "k": "art",
+   "x": 35.9,
+   "y": 27.84,
+   "w": 30.14,
+   "h": 22.53
+  },
+  {
+   "k": "art",
+   "x": 68.35,
+   "y": 27.84,
+   "w": 30.21,
+   "h": 22.53
+  },
+  {
+   "k": "txt",
+   "x": 3.6,
+   "y": 52.04,
+   "w": 60.99,
+   "size": 1.33,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In the following exercises creative possibilities with tempera are investigated. The nature of the ground, color, brushes, and method of application are variable factors that can be playfully combined in numerous ways. The painting process is a sensual, tactile experience; if all the components are spontaneously harmonized, a clear statement results. Free, fluid brushwork is as essential as concentration, clear thinking, and technical control."
+   ],
+   "h": 11.89
+  },
+  {
+   "k": "txt",
+   "x": 36.05,
+   "y": 51.99,
+   "w": 30.14,
+   "size": 1.33,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "The above studies were produced with different brushstrokes, using a flat bristle brush and the respective paint consistency."
+  },
+  {
+   "k": "art",
+   "x": 68.42,
+   "y": 71.83,
+   "w": 30.14,
+   "h": 22.42
+  },
+  {
+   "k": "txt",
+   "x": 36.05,
+   "y": 92.44,
+   "w": 30.5,
+   "size": 1.33,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The following photographs show the teacher and students at work in the classroom."
+   ],
+   "h": 2.05
+  },
+  {
+   "k": "txt",
+   "x": 3.75,
+   "y": 96.41,
+   "w": 6.0,
+   "size": 1.33,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "80"
+  }
+ ]
+}

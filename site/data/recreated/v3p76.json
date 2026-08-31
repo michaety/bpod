@@ -1,0 +1,59 @@
+{
+ "v": 3,
+ "p": 76,
+ "bg": "#807f79",
+ "el": [
+  {
+   "k": "txt",
+   "x": 3.61,
+   "y": 3.59,
+   "w": 20.0,
+   "size": 1.37,
+   "style": "heading",
+   "align": "left",
+   "weight": "bold",
+   "text": "Color 2",
+   "link": "Color 2"
+  },
+  {
+   "k": "txt",
+   "x": 3.68,
+   "y": 33.8,
+   "w": 30.5,
+   "size": 1.42,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Color is a subjective, artistic means of expression, and its creative manipulation with simple tools is the basis of this course. The aptitude for color and its expression is stimulated and developed by technical knowledge of color as material: opaque paint (poster, gouache, tempera), aquarelle, and printed or colored paper (collage) applied directly to a prepared surface. In many nonobjective exercise possibilities of statement and formulation are discovered through unprejudiced, playful experimentation.",
+    "The course is structured with these concepts: color consistency (watery, dry, glossy, opaque, impasto), means of expression (brushes, treatments, painting surfaces), formal qualities (shape, line, point, texture), color qualities (bright, dull, warm, cool, tone), composition (many-few, large-small, long-short, light-dark), and combinations of the preceding sections."
+   ],
+   "h": 12.17
+  },
+  {
+   "k": "txt",
+   "x": 3.75,
+   "y": 46.67,
+   "w": 30.5,
+   "size": 1.42,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In order to control the many variables, new limitations are set for each exercise by both teachers and students on the kind and number of colors, forms, techniques, compositions, themes, and statements that can be applied. Advanced students can set their own limitations. Evaluation of conscious, nonobjective, expressive, and intuitive solutions is based on comparing the many variations produced by the students. Independence and sensitivity to self-criticism are developed with intense, increasing involvement in the course."
+   ],
+   "h": 8.47
+  },
+  {
+   "k": "txt",
+   "x": 4.04,
+   "y": 96.4,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "74"
+  }
+ ]
+}

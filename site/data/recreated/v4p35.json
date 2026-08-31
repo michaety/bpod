@@ -1,0 +1,123 @@
+{
+ "v": 4,
+ "p": 35,
+ "bg": "#e8e8e0",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.1,
+   "y": 1.48,
+   "w": 30.7,
+   "h": 23.24
+  },
+  {
+   "k": "art",
+   "x": 35.97,
+   "y": 2.08,
+   "w": 30.24,
+   "h": 23.1
+  },
+  {
+   "k": "art",
+   "x": 68.25,
+   "y": 2.62,
+   "w": 29.91,
+   "h": 22.85
+  },
+  {
+   "k": "art",
+   "x": 2.96,
+   "y": 26.11,
+   "w": 30.76,
+   "h": 23.1
+  },
+  {
+   "k": "art",
+   "x": 35.77,
+   "y": 26.51,
+   "w": 30.17,
+   "h": 22.85
+  },
+  {
+   "k": "art",
+   "x": 68.05,
+   "y": 26.9,
+   "w": 29.84,
+   "h": 22.65
+  },
+  {
+   "k": "txt",
+   "x": 2.83,
+   "y": 67.51,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Good lighting conditions are necessary for comparing and organizing the color harmonies."
+   ],
+   "h": 2.31
+  },
+  {
+   "k": "txt",
+   "x": 35.7,
+   "y": 67.51,
+   "w": 30.2,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The pieces are placed on a neutral gray background for evaluation."
+   ],
+   "h": 2.31
+  },
+  {
+   "k": "txt",
+   "x": 68.25,
+   "y": 67.46,
+   "w": 29.9,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The resulting organization is glued on many large sheets of cardboard."
+   ],
+   "h": 2.25
+  },
+  {
+   "k": "art",
+   "x": 2.64,
+   "y": 71.22,
+   "w": 30.83,
+   "h": 22.95
+  },
+  {
+   "k": "art",
+   "x": 35.7,
+   "y": 71.12,
+   "w": 30.17,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 68.11,
+   "y": 71.12,
+   "w": 29.71,
+   "h": 22.5
+  },
+  {
+   "k": "txt",
+   "x": 96.64,
+   "y": 95.75,
+   "w": 3.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "33"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "v": 3,
+ "p": 100,
+ "bg": "#7c7b75",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.6,
+   "y": 3.92,
+   "w": 60.27,
+   "h": 44.53
+  },
+  {
+   "k": "txt",
+   "x": 67.41,
+   "y": 38.41,
+   "w": 30.21,
+   "size": 1.33,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The two adjacent examples show compositions involving layering: above, transparent tissue paper; below, different qualities of paper.",
+    "The composition on the right includes different media: paper of different qualities, colors, and transparencies, fragments of newspaper, and handwriting. Parts of the composition are reworked with pencil and brushstrokes."
+   ],
+   "h": 3.47
+  },
+  {
+   "k": "art",
+   "x": 2.6,
+   "y": 50.32,
+   "w": 60.27,
+   "h": 44.37
+  },
+  {
+   "k": "txt",
+   "x": 67.2,
+   "y": 81.06,
+   "w": 30.43,
+   "size": 1.33,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In the preceding exercises the painterly possibilities of collage are spontaneously translated into tempera and condensed into rhythmic compositions. The collages should not be rigidly copied, but their essential forms and colors reinterpreted. New size relationships create additional complications to the translation process.",
+    "The two following double-page spreads show the results of such translations. In the example on the last page many individual studies are worked into a single composition."
+   ],
+   "h": 14.5
+  },
+  {
+   "k": "txt",
+   "x": 2.6,
+   "y": 96.62,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "98"
+  }
+ ]
+}

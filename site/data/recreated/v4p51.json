@@ -1,0 +1,62 @@
+{
+ "v": 4,
+ "p": 51,
+ "bg": "#edede5",
+ "el": [
+  {
+   "k": "txt",
+   "x": 1.32,
+   "y": 1.83,
+   "w": 31.95,
+   "size": 1.25,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The defined criteria relate primarily to parallel horizontal or vertical relationships. Interrelating and overlapping combinations—for example, light-dark, one-several, few-many, or simple-complex, static-dynamic—must be coordinated. In many time-consuming trials the clearest organization of the relationships is created by comparing and moving the laid-out pieces. The first attempts are usually very undifferentiated, a frustrating situation for all participants similar to that of scheme 3. Possible connections and fine distinctions are eventually consciously perceived, and deficiencies in quality discovered. Each trial organization suggests further differentiations and is retained in sketch form for comparison. The dimensions of the organization are determined through the smallest interval, the difference between two pieces (at least in theory), and are open in every direction. Each individual piece intersects horizontally and vertically with the other pieces. The resulting open spaces between the intervals are also involved in this relationship and can be completed. Unclear or insufficient definition in the first phase of the exercise (derived from the limited number of original solution possibilities) results in variations that cannot be dimensionally related to all the components. This requires exploration on additional dimensionally relating planes (as the toned pieces in scheme 4).",
+    "The hypothesis is that all the pieces of the organizations can be assembled into an open, related, three-dimensional structure. Moreover, all the pieces have the same starting point and are subject to the same criteria."
+   ],
+   "h": 44.19
+  },
+  {
+   "k": "art",
+   "x": 35.5,
+   "y": 2.52,
+   "w": 61.7,
+   "h": 47.3
+  },
+  {
+   "k": "txt",
+   "x": 2.31,
+   "y": 65.08,
+   "w": 31.1,
+   "size": 1.25,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "One horizontal or vertical row is selected from the organization, and completed in the total relationship. In the preceding stages purely formal, aesthetic, and rhythmical aspects are secondary: thus at this point the rows are relatively coarse and imperfect.",
+    "In the fourth phase of the exercise the intervals and relationships between the pieces are differentiated from one another, as are the details within the pieces and the pieces themselves, from a logical and qualitative point of view. Three pieces comprise the smallest unit for which interval size and detail relationships can be determined (scheme 5): for example, piece 1 is to piece 2 as piece 2 is to piece 3 and to the totality. The resulting number of pieces and the actual criterion are retained. Imperfections may not be reduced adding pieces (quantity): quality must be achieved by relating the existing pieces to each other and to the whole. Allowed changes are made one at a time for a complete row and compared with the original row. In this context many rows with different characteristics can be produced."
+   ],
+   "h": 30.35
+  },
+  {
+   "k": "art",
+   "x": 35.75,
+   "y": 65.4,
+   "w": 26.4,
+   "h": 9.5
+  },
+  {
+   "k": "txt",
+   "x": 91.43,
+   "y": 95.75,
+   "w": 6.0,
+   "size": 1.2,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "49"
+  }
+ ]
+}

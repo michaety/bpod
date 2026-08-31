@@ -1,0 +1,109 @@
+{
+ "v": 3,
+ "p": 84,
+ "bg": "#7e7d76",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.61,
+   "y": 3.7,
+   "w": 30.14,
+   "h": 22.59
+  },
+  {
+   "k": "art",
+   "x": 35.98,
+   "y": 3.7,
+   "w": 30.21,
+   "h": 22.59
+  },
+  {
+   "k": "art",
+   "x": 68.35,
+   "y": 3.7,
+   "w": 30.14,
+   "h": 22.59
+  },
+  {
+   "k": "art",
+   "x": 3.61,
+   "y": 27.95,
+   "w": 30.14,
+   "h": 22.59
+  },
+  {
+   "k": "art",
+   "x": 35.98,
+   "y": 27.95,
+   "w": 30.21,
+   "h": 22.59
+  },
+  {
+   "k": "art",
+   "x": 68.35,
+   "y": 27.95,
+   "w": 30.14,
+   "h": 22.59
+  },
+  {
+   "k": "txt",
+   "x": 3.6,
+   "y": 52.04,
+   "w": 30.43,
+   "size": 1.37,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The above examples were done with different brushes and paint consistencies on differently structured ground surfaces. Overlapping textures and variations in color contrast were employed."
+   ],
+   "h": 4.66
+  },
+  {
+   "k": "txt",
+   "x": 3.68,
+   "y": 67.22,
+   "w": 30.35,
+   "size": 1.37,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The photographs below show how spontaneous brushwork, material, and brush structure directly affect texture."
+   ],
+   "h": 3.24
+  },
+  {
+   "k": "art",
+   "x": 3.61,
+   "y": 72.05,
+   "w": 30.14,
+   "h": 22.42
+  },
+  {
+   "k": "art",
+   "x": 35.98,
+   "y": 72.05,
+   "w": 30.21,
+   "h": 22.42
+  },
+  {
+   "k": "art",
+   "x": 68.35,
+   "y": 72.05,
+   "w": 30.14,
+   "h": 22.42
+  },
+  {
+   "k": "txt",
+   "x": 3.61,
+   "y": 96.41,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "82"
+  }
+ ]
+}

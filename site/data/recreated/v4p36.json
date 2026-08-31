@@ -1,0 +1,117 @@
+{
+ "v": 4,
+ "p": 36,
+ "bg": "#eceae0",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.79,
+   "y": 3.31,
+   "w": 29.69,
+   "h": 22.86
+  },
+  {
+   "k": "art",
+   "x": 33.08,
+   "y": 2.72,
+   "w": 29.95,
+   "h": 23.01
+  },
+  {
+   "k": "art",
+   "x": 64.75,
+   "y": 2.04,
+   "w": 30.33,
+   "h": 23.25
+  },
+  {
+   "k": "art",
+   "x": 2.17,
+   "y": 27.24,
+   "w": 29.69,
+   "h": 22.81
+  },
+  {
+   "k": "art",
+   "x": 33.52,
+   "y": 26.8,
+   "w": 29.89,
+   "h": 22.96
+  },
+  {
+   "k": "art",
+   "x": 2.55,
+   "y": 51.31,
+   "w": 29.63,
+   "h": 22.62
+  },
+  {
+   "k": "art",
+   "x": 33.84,
+   "y": 50.97,
+   "w": 29.95,
+   "h": 22.76
+  },
+  {
+   "k": "art",
+   "x": 65.39,
+   "y": 50.58,
+   "w": 30.65,
+   "h": 23.01
+  },
+  {
+   "k": "txt",
+   "x": 3.0,
+   "y": 81.47,
+   "w": 29.37,
+   "size": 1.42,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The sequences and proportions of the five color progressions change similarly to those on the page before the preceding double spread. Innumerable possibilities result despite the limitations of color and form. Systematic representation of these variations is not possible within the available time. With advice by the teacher concerning the necessity of planning each student assembles a limited program for the following investigation. It is more comprehensive than the examples shown here. Changes of sequence and"
+   ],
+   "h": 13.4
+  },
+  {
+   "k": "txt",
+   "x": 34.36,
+   "y": 81.42,
+   "w": 28.29,
+   "size": 1.42,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "proportion should be intentional, and the examples should not be chosen at random. Grid divisions and other formal structures (i.e., the above progression) are valuable aids in formulating clear proportions.",
+    "Only rarely is a student's sense of proportion developed sufficiently to find equivalent solutions without such help."
+   ],
+   "h": 9.69
+  },
+  {
+   "k": "txt",
+   "x": 66.28,
+   "y": 89.69,
+   "w": 29.82,
+   "size": 1.42,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In each of the three horizontal rows on these two pages the sequence of colors remains the same, while the proportions change. The examples on this page are based on a grid."
+   ],
+   "h": 4.74
+  },
+  {
+   "k": "txt",
+   "x": 3.07,
+   "y": 96.01,
+   "w": 6.0,
+   "size": 1.32,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "34"
+  }
+ ]
+}

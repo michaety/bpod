@@ -1,0 +1,88 @@
+{
+ "v": 3,
+ "p": 72,
+ "bg": "#7f7e78",
+ "el": [
+  {
+   "k": "art",
+   "x": 4.11,
+   "y": 3.81,
+   "w": 30.21,
+   "h": 22.48
+  },
+  {
+   "k": "art",
+   "x": 4.11,
+   "y": 28.06,
+   "w": 30.21,
+   "h": 22.48
+  },
+  {
+   "k": "art",
+   "x": 4.11,
+   "y": 52.15,
+   "w": 30.21,
+   "h": 22.42
+  },
+  {
+   "k": "art",
+   "x": 36.48,
+   "y": 3.81,
+   "w": 62.58,
+   "h": 70.76
+  },
+  {
+   "k": "txt",
+   "x": 4.33,
+   "y": 76.23,
+   "w": 30.0,
+   "size": 1.45,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The three photographs show students selecting material and working."
+   ],
+   "h": 2.27
+  },
+  {
+   "k": "txt",
+   "x": 36.63,
+   "y": 76.34,
+   "w": 33.0,
+   "size": 1.45,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The example above shows a diamond twill woven in dark-light variations of a single color material without knowledge of weave drafting."
+   ],
+   "h": 3.41
+  },
+  {
+   "k": "txt",
+   "x": 69.0,
+   "y": 92.54,
+   "w": 28.0,
+   "size": 1.45,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The following photographs show different soumak (weft-wrapping) techniques."
+   ],
+   "h": 2.22
+  },
+  {
+   "k": "txt",
+   "x": 4.25,
+   "y": 96.51,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "70"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "v": 4,
+ "p": 26,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.17,
+   "y": 3.36,
+   "w": 29.6,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In the following exercises five squares are divided into three equal sections and organized in a continuous series. One color in the selected harmony remains constant, while the other two change progressively from the first to the last square: color changes can occur simultaneously in one or more contrast directions. Equal or unequal intervals can be used to systematically change the corresponding color fields, but the intervals from square to square should appear equal. In the series on the following four pages colors and proportions change simultaneously. This quantitative change occurs continuously in intuitively equal intervals parallel to the progression of the colors.",
+    "The need to coordinate the relationships between color and color, color and proportion, part and part, and part and whole confronts the students with a series of decisions. They are never encountered in isolation but only through relationships. In such complex assignments different creative abilities are developed and exercised at the same time: imagination for color, thinking and planning large relationships, and a feeling for fine distinctions of color and proportion. These abilities are prerequisites for a conscious involvement with color as a creative medium."
+   ],
+   "h": 33.98
+  },
+  {
+   "k": "art",
+   "x": 33.55,
+   "y": 3.05,
+   "w": 29.2,
+   "h": 22.5
+  },
+  {
+   "k": "art",
+   "x": 64.87,
+   "y": 3.05,
+   "w": 30.27,
+   "h": 22.55
+  },
+  {
+   "k": "art",
+   "x": 33.55,
+   "y": 26.75,
+   "w": 29.2,
+   "h": 23.1
+  },
+  {
+   "k": "art",
+   "x": 64.87,
+   "y": 26.75,
+   "w": 30.27,
+   "h": 23.1
+  },
+  {
+   "k": "txt",
+   "x": 1.98,
+   "y": 67.41,
+   "w": 29.6,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The photographs show part of the working area in which colors are being mixed and applied."
+   ],
+   "h": 2.37
+  },
+  {
+   "k": "txt",
+   "x": 33.21,
+   "y": 67.66,
+   "w": 29.6,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Wet tempera colors cannot be compared to one another."
+   ],
+   "h": 2.01
+  },
+  {
+   "k": "txt",
+   "x": 64.88,
+   "y": 67.85,
+   "w": 29.8,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Color samples are tested on the edge of a separate sheet of paper."
+   ],
+   "h": 2.27
+  },
+  {
+   "k": "art",
+   "x": 32.96,
+   "y": 71.85,
+   "w": 29.74,
+   "h": 25.0
+  },
+  {
+   "k": "art",
+   "x": 64.87,
+   "y": 71.85,
+   "w": 28.89,
+   "h": 25.0
+  },
+  {
+   "k": "txt",
+   "x": 1.97,
+   "y": 97.6,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "24"
+  }
+ ]
+}

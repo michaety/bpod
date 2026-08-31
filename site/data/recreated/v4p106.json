@@ -1,0 +1,60 @@
+{
+ "v": 4,
+ "p": 106,
+ "bg": "#ebe9e1",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.39,
+   "y": 3.34,
+   "w": 45.63,
+   "h": 34.22
+  },
+  {
+   "k": "art",
+   "x": 51.11,
+   "y": 3.29,
+   "w": 46.87,
+   "h": 34.66
+  },
+  {
+   "k": "art",
+   "x": 2.68,
+   "y": 39.11,
+   "w": 45.56,
+   "h": 34.27
+  },
+  {
+   "k": "art",
+   "x": 50.39,
+   "y": 39.59,
+   "w": 46.67,
+   "h": 34.41
+  },
+  {
+   "k": "txt",
+   "x": 1.63,
+   "y": 81.17,
+   "w": 29.24,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In the four photographs the results of different exercises clarify the relationship between elementary dimensional appearances and creative organization of volumes: above left, plaster cast of a deformed rubber mat; below left, a rhythmic plaster cylinder formed by sawing and shifting the pieces; above right, cement casting of a clay model with a horizontal-vertical composition; below right, dimensionally intersecting elements of hammered iron."
+   ],
+   "h": 12.01
+  },
+  {
+   "k": "txt",
+   "x": 1.63,
+   "y": 94.63,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "104"
+  }
+ ]
+}

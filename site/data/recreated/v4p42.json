@@ -1,0 +1,60 @@
+{
+ "v": 4,
+ "p": 42,
+ "bg": "#ebe9e1",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.53,
+   "y": 3.24,
+   "w": 45.4,
+   "h": 35.01
+  },
+  {
+   "k": "art",
+   "x": 48.6,
+   "y": 2.29,
+   "w": 46.3,
+   "h": 35.48
+  },
+  {
+   "k": "art",
+   "x": 2.3,
+   "y": 39.4,
+   "w": 45.34,
+   "h": 34.78
+  },
+  {
+   "k": "art",
+   "x": 49.23,
+   "y": 39.35,
+   "w": 46.42,
+   "h": 34.53
+  },
+  {
+   "k": "txt",
+   "x": 2.75,
+   "y": 76.99,
+   "w": 30.0,
+   "size": 1.34,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The preceding exercises are based on a vertical division of the surface. The above examples show horizontal divisions. An abundance of new formal possibilities result from adding another simple element—contrast between horizontal and vertical forms, contrast between above and below, and surface bordering on more than two sides—so the color relationships are more complex. The mutual relationship between color and amount resembles that between color and form. In the two examples below the four triangles formed by the diagonals are divided into two different-size fields parallel to the format. Both examples are taken from complex color-form sequences."
+   ],
+   "h": 18.25
+  },
+  {
+   "k": "txt",
+   "x": 3.13,
+   "y": 95.91,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "40"
+  }
+ ]
+}

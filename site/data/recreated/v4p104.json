@@ -1,0 +1,137 @@
+{
+ "v": 4,
+ "p": 104,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "art",
+   "x": 25.98,
+   "y": 3.73,
+   "w": 22.78,
+   "h": 17.23
+  },
+  {
+   "k": "art",
+   "x": 49.48,
+   "y": 3.48,
+   "w": 23.04,
+   "h": 17.47
+  },
+  {
+   "k": "art",
+   "x": 73.3,
+   "y": 3.24,
+   "w": 23.76,
+   "h": 17.67
+  },
+  {
+   "k": "txt",
+   "x": 2.28,
+   "y": 21.93,
+   "w": 28.6,
+   "size": 1.38,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "These rhythmic examples of different form elements document many creative possibilities of interpretation, abstraction, and expression. The three photographs below show the same piece translated into artificial stone, cement, and metal."
+   ],
+   "h": 6.88
+  },
+  {
+   "k": "art",
+   "x": 49.28,
+   "y": 21.78,
+   "w": 23.11,
+   "h": 17.43
+  },
+  {
+   "k": "art",
+   "x": 73.17,
+   "y": 21.73,
+   "w": 23.69,
+   "h": 17.47
+  },
+  {
+   "k": "art",
+   "x": 25.59,
+   "y": 39.93,
+   "w": 22.91,
+   "h": 17.33
+  },
+  {
+   "k": "art",
+   "x": 49.28,
+   "y": 39.98,
+   "w": 22.98,
+   "h": 17.43
+  },
+  {
+   "k": "art",
+   "x": 73.04,
+   "y": 40.03,
+   "w": 23.69,
+   "h": 17.47
+  },
+  {
+   "k": "art",
+   "x": 1.7,
+   "y": 57.94,
+   "w": 23.04,
+   "h": 17.38
+  },
+  {
+   "k": "art",
+   "x": 25.39,
+   "y": 58.13,
+   "w": 22.91,
+   "h": 17.33
+  },
+  {
+   "k": "art",
+   "x": 49.22,
+   "y": 58.23,
+   "w": 22.98,
+   "h": 17.23
+  },
+  {
+   "k": "art",
+   "x": 73.04,
+   "y": 58.42,
+   "w": 23.63,
+   "h": 17.38
+  },
+  {
+   "k": "art",
+   "x": 1.76,
+   "y": 76.14,
+   "w": 22.65,
+   "h": 17.23
+  },
+  {
+   "k": "art",
+   "x": 25.39,
+   "y": 76.43,
+   "w": 22.72,
+   "h": 17.38
+  },
+  {
+   "k": "art",
+   "x": 49.02,
+   "y": 76.53,
+   "w": 23.04,
+   "h": 17.57
+  },
+  {
+   "k": "txt",
+   "x": 1.55,
+   "y": 95.4,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "102"
+  }
+ ]
+}

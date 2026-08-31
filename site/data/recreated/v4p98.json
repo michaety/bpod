@@ -1,0 +1,109 @@
+{
+ "v": 4,
+ "p": 98,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "txt",
+   "x": 1.96,
+   "y": 3.41,
+   "w": 29.4,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "From left to right, the three top rows show the organization of foam-rubber blocks and the different binding techniques with string and bolts. Covering the foam-rubber surface to stabilize the form, cleaning the edges, and strengthening it with a polyester covering are shown in the two rows below."
+   ],
+   "h": 8.55
+  },
+  {
+   "k": "art",
+   "x": 49.58,
+   "y": 2.87,
+   "w": 22.86,
+   "h": 17.85
+  },
+  {
+   "k": "art",
+   "x": 73.35,
+   "y": 2.57,
+   "w": 23.58,
+   "h": 17.8
+  },
+  {
+   "k": "art",
+   "x": 26.26,
+   "y": 40.41,
+   "w": 22.66,
+   "h": 17.51
+  },
+  {
+   "k": "art",
+   "x": 49.84,
+   "y": 40.21,
+   "w": 22.93,
+   "h": 17.66
+  },
+  {
+   "k": "art",
+   "x": 73.74,
+   "y": 39.96,
+   "w": 23.51,
+   "h": 17.75
+  },
+  {
+   "k": "art",
+   "x": 2.68,
+   "y": 58.95,
+   "w": 22.73,
+   "h": 17.51
+  },
+  {
+   "k": "art",
+   "x": 26.39,
+   "y": 58.85,
+   "w": 22.73,
+   "h": 17.66
+  },
+  {
+   "k": "art",
+   "x": 50.03,
+   "y": 58.9,
+   "w": 22.99,
+   "h": 17.61
+  },
+  {
+   "k": "art",
+   "x": 73.94,
+   "y": 59.69,
+   "w": 23.45,
+   "h": 16.82
+  },
+  {
+   "k": "art",
+   "x": 50.29,
+   "y": 77.55,
+   "w": 23.12,
+   "h": 17.8
+  },
+  {
+   "k": "art",
+   "x": 74.2,
+   "y": 77.55,
+   "w": 23.77,
+   "h": 17.95
+  },
+  {
+   "k": "txt",
+   "x": 2.74,
+   "y": 97.48,
+   "w": 5.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "96"
+  }
+ ]
+}

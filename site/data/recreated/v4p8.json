@@ -1,0 +1,184 @@
+{
+ "v": 4,
+ "p": 8,
+ "bg": "#ebe9dd",
+ "el": [
+  {
+   "k": "art",
+   "x": 65.56,
+   "y": 2.19,
+   "w": 30.22,
+   "h": 22.81
+  },
+  {
+   "k": "art",
+   "x": 65.95,
+   "y": 26.67,
+   "w": 30.29,
+   "h": 22.79
+  },
+  {
+   "k": "art",
+   "x": 66.41,
+   "y": 51.18,
+   "w": 30.29,
+   "h": 22.79
+  },
+  {
+   "k": "txt",
+   "x": 2.92,
+   "y": 78.69,
+   "w": 61.54,
+   "size": 2.0,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Table of Contents"
+  },
+  {
+   "k": "txt",
+   "x": 66.73,
+   "y": 78.59,
+   "w": 8.0,
+   "size": 2.0,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Volume"
+  },
+  {
+   "k": "txt",
+   "x": 74.19,
+   "y": 78.59,
+   "w": 3.5,
+   "size": 2.0,
+   "style": "heading",
+   "align": "left",
+   "weight": "bold",
+   "text": "1"
+  },
+  {
+   "k": "txt",
+   "x": 66.86,
+   "y": 85.78,
+   "w": 30.03,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Contributors:"
+  },
+  {
+   "k": "txt",
+   "x": 66.8,
+   "y": 87.11,
+   "w": 22.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Object Drawing",
+   "link": "Object Drawing"
+  },
+  {
+   "k": "txt",
+   "x": 66.8,
+   "y": 87.11,
+   "w": 30.09,
+   "size": 1.35,
+   "style": "body",
+   "align": "right",
+   "weight": "normal",
+   "text": "11"
+  },
+  {
+   "k": "txt",
+   "x": 66.86,
+   "y": 88.29,
+   "w": 30.03,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Sommer H. P. / Stettler P."
+  },
+  {
+   "k": "txt",
+   "x": 66.86,
+   "y": 89.67,
+   "w": 22.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Object and Museum Drawing",
+   "link": "Object and Museum Drawing"
+  },
+  {
+   "k": "txt",
+   "x": 66.86,
+   "y": 89.67,
+   "w": 30.09,
+   "size": 1.35,
+   "style": "body",
+   "align": "right",
+   "weight": "normal",
+   "text": "42"
+  },
+  {
+   "k": "txt",
+   "x": 66.86,
+   "y": 90.85,
+   "w": 30.03,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Sommer H. P. / Pola P."
+  },
+  {
+   "k": "txt",
+   "x": 66.93,
+   "y": 92.18,
+   "w": 22.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Nature Studies"
+  },
+  {
+   "k": "txt",
+   "x": 66.93,
+   "y": 92.18,
+   "w": 30.03,
+   "size": 1.35,
+   "style": "body",
+   "align": "right",
+   "weight": "normal",
+   "text": "74"
+  },
+  {
+   "k": "txt",
+   "x": 66.93,
+   "y": 93.41,
+   "w": 30.03,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Sommer H. P. / Stettler P."
+  },
+  {
+   "k": "txt",
+   "x": 2.98,
+   "y": 96.65,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "6"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "v": 4,
+ "p": 78,
+ "bg": "#ecece4",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.44,
+   "y": 3.2,
+   "w": 30.24,
+   "size": 1.32,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In the three rows above, from left to right, the photographs show the construction of a clearly organized surface structure. Enclosing the result in clay, casting in plaster, separating the counterform, and comparing the different materials are visible in the two bottom rows."
+   ],
+   "h": 7.36
+  },
+  {
+   "k": "art",
+   "x": 50.46,
+   "y": 2.71,
+   "w": 23.12,
+   "h": 17.52
+  },
+  {
+   "k": "art",
+   "x": 74.57,
+   "y": 2.26,
+   "w": 23.78,
+   "h": 17.77
+  },
+  {
+   "k": "art",
+   "x": 74.64,
+   "y": 20.96,
+   "w": 23.78,
+   "h": 17.72
+  },
+  {
+   "k": "art",
+   "x": 50.66,
+   "y": 39.81,
+   "w": 23.12,
+   "h": 17.42
+  },
+  {
+   "k": "art",
+   "x": 74.97,
+   "y": 39.67,
+   "w": 23.52,
+   "h": 17.67
+  },
+  {
+   "k": "art",
+   "x": 3.03,
+   "y": 58.66,
+   "w": 22.99,
+   "h": 17.42
+  },
+  {
+   "k": "art",
+   "x": 26.88,
+   "y": 58.61,
+   "w": 22.99,
+   "h": 17.37
+  },
+  {
+   "k": "art",
+   "x": 50.79,
+   "y": 58.37,
+   "w": 23.25,
+   "h": 17.57
+  },
+  {
+   "k": "art",
+   "x": 74.97,
+   "y": 58.32,
+   "w": 23.78,
+   "h": 17.67
+  },
+  {
+   "k": "txt",
+   "x": 3.1,
+   "y": 96.85,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "76"
+  }
+ ]
+}

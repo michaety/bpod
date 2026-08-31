@@ -1,0 +1,53 @@
+{
+ "v": 3,
+ "p": 93,
+ "bg": "#86867f",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.52,
+   "y": 2.79,
+   "w": 46.65,
+   "h": 24.01
+  },
+  {
+   "k": "art",
+   "x": 51.55,
+   "y": 2.79,
+   "w": 45.71,
+   "h": 27.87
+  },
+  {
+   "k": "txt",
+   "x": 2.6,
+   "y": 30.58,
+   "w": 29.2,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The three examples show the attempt to translate an aquarelle to tempera."
+   ],
+   "h": 2.16
+  },
+  {
+   "k": "art",
+   "x": 2.52,
+   "y": 37.71,
+   "w": 95.03,
+   "h": 55.85
+  },
+  {
+   "k": "txt",
+   "x": 91.5,
+   "y": 95.6,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "91"
+  }
+ ]
+}

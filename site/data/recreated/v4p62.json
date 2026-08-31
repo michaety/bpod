@@ -1,0 +1,88 @@
+{
+ "v": 4,
+ "p": 62,
+ "bg": "#edece4",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.21,
+   "y": 3.63,
+   "w": 29.91,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "These examples show the possible solutions produced by a third student for the first phase of the exercise. The cut triangles in the sixth example in the above row and in the first in the second row are produced by folding. The creative concept of the fourth and fifth examples in the above row is varied a few times. The theme for variation, represented below right, is unequivocal. The removal of many horizontally cut parts produces the formal element."
+   ],
+   "h": 12.32
+  },
+  {
+   "k": "art",
+   "x": 49.48,
+   "y": 2.65,
+   "w": 23.02,
+   "h": 18.0
+  },
+  {
+   "k": "art",
+   "x": 73.34,
+   "y": 2.65,
+   "w": 23.67,
+   "h": 18.0
+  },
+  {
+   "k": "art",
+   "x": 49.48,
+   "y": 21.38,
+   "w": 23.02,
+   "h": 17.66
+  },
+  {
+   "k": "art",
+   "x": 73.34,
+   "y": 21.38,
+   "w": 23.67,
+   "h": 17.66
+  },
+  {
+   "k": "art",
+   "x": 49.48,
+   "y": 40.07,
+   "w": 23.02,
+   "h": 17.36
+  },
+  {
+   "k": "art",
+   "x": 73.34,
+   "y": 40.07,
+   "w": 23.67,
+   "h": 17.36
+  },
+  {
+   "k": "art",
+   "x": 49.48,
+   "y": 58.66,
+   "w": 23.02,
+   "h": 17.46
+  },
+  {
+   "k": "art",
+   "x": 73.34,
+   "y": 58.66,
+   "w": 23.67,
+   "h": 17.46
+  },
+  {
+   "k": "txt",
+   "x": 2.54,
+   "y": 96.81,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "60"
+  }
+ ]
+}

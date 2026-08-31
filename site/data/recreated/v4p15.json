@@ -1,0 +1,88 @@
+{
+ "v": 4,
+ "p": 15,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "art",
+   "x": 4.84,
+   "y": 2.44,
+   "w": 30.69,
+   "h": 23.08
+  },
+  {
+   "k": "art",
+   "x": 4.52,
+   "y": 26.79,
+   "w": 30.69,
+   "h": 22.94
+  },
+  {
+   "k": "art",
+   "x": 4.12,
+   "y": 51.15,
+   "w": 30.63,
+   "h": 22.69
+  },
+  {
+   "k": "art",
+   "x": 69.57,
+   "y": 4.0,
+   "w": 29.84,
+   "h": 22.45
+  },
+  {
+   "k": "art",
+   "x": 69.24,
+   "y": 27.97,
+   "w": 29.71,
+   "h": 22.3
+  },
+  {
+   "k": "art",
+   "x": 68.91,
+   "y": 51.78,
+   "w": 29.84,
+   "h": 22.45
+  },
+  {
+   "k": "txt",
+   "x": 3.4,
+   "y": 87.26,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The three color pairs show differences in brightness. The same reddish-gray color is duller in the center example; below, in relation to another color, it is brighter. Hue and value are the same."
+   ],
+   "h": 4.81
+  },
+  {
+   "k": "txt",
+   "x": 68.46,
+   "y": 87.31,
+   "w": 28.8,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The three color pairs show differences in value. The darker top example becomes lighter in the center in relation to the neighboring color. The pink and brown in the bottom example are derived from the same red."
+   ],
+   "h": 5.74
+  },
+  {
+   "k": "txt",
+   "x": 93.0,
+   "y": 96.0,
+   "w": 5.0,
+   "size": 1.2,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "13"
+  }
+ ]
+}

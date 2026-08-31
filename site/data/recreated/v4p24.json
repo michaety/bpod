@@ -1,0 +1,74 @@
+{
+ "v": 4,
+ "p": 24,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.21,
+   "y": 3.75,
+   "w": 29.06,
+   "h": 22.32
+  },
+  {
+   "k": "art",
+   "x": 32.37,
+   "y": 3.31,
+   "w": 29.69,
+   "h": 22.37
+  },
+  {
+   "k": "art",
+   "x": 63.92,
+   "y": 2.67,
+   "w": 29.95,
+   "h": 22.57
+  },
+  {
+   "k": "art",
+   "x": 1.66,
+   "y": 27.72,
+   "w": 28.99,
+   "h": 22.32
+  },
+  {
+   "k": "art",
+   "x": 32.76,
+   "y": 27.33,
+   "w": 29.5,
+   "h": 22.42
+  },
+  {
+   "k": "art",
+   "x": 64.3,
+   "y": 26.94,
+   "w": 29.95,
+   "h": 22.52
+  },
+  {
+   "k": "txt",
+   "x": 65.07,
+   "y": 80.25,
+   "w": 30.33,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Two equal, narrow stripes of colors with the same value form the constant element in this exercise. The given pair is strongly influenced in different ways by the two variable adjacent colors: not only the appearance of the individual colors but also the relationship between them changes. The effect of one color on another (simultaneous contrast) can occur in all three dimensions. A bordering color can influence it in color direction (yellower, blue, redder), value (lighter, darker), and brightness (brighter or less bright)."
+   ],
+   "h": 14.8
+  },
+  {
+   "k": "txt",
+   "x": 2.49,
+   "y": 96.01,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "22"
+  }
+ ]
+}

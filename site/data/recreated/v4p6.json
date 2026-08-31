@@ -1,0 +1,295 @@
+{
+ "v": 4,
+ "p": 6,
+ "bg": "#eceade",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.3,
+   "y": 47.51,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "This book was originally published in Switzerland under the title",
+    "Elementare Entwurfs- und Gestaltungsprozesse. Die Grundkurse an der Kunstgewerbeschule Basel, Schweiz.",
+    "by Verlag Paul Haupt Berne",
+    "Copyright © 1977 by Paul Haupt Berne",
+    "Conception and Design:",
+    "Manfred Maier",
+    "Photography:",
+    "Max Mathys",
+    "(Dimensional Design/Ruth Geshekter)",
+    "Cover Design:",
+    "Wolfgang Weingart",
+    "English version:",
+    "Joseph Finocchiaro",
+    "William Longhauser",
+    "Janet Longhauser",
+    "Library of Congress Catalog Card Number"
+   ],
+   "h": 21.64
+  },
+  {
+   "k": "txt",
+   "x": 2.5,
+   "y": 69.75,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "77-3493",
+    "ISBN 0-442-24977-2 (v. 1)",
+    "ISBN 0-442-24978-0 (v. 2)",
+    "ISBN 0-442-24979-9 (v. 3)",
+    "ISBN 0-442-24980-2 (v. 4)",
+    "All rights reserved. No part of this work covered by the copyright hereon may be reproduced or used in any form or by any means—graphic, electronic, or mechanical, including photocopying, recording, taping, or information storage and retrieval systems—without written permission of the publisher."
+   ],
+   "h": 7.15
+  },
+  {
+   "k": "txt",
+   "x": 2.36,
+   "y": 87.5,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Printed in Switzerland"
+  },
+  {
+   "k": "txt",
+   "x": 2.36,
+   "y": 89.65,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Composition: Schüler AG, Biel"
+  },
+  {
+   "k": "txt",
+   "x": 2.36,
+   "y": 90.85,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Films: Aberegg-Steiner AG, Bern"
+  },
+  {
+   "k": "txt",
+   "x": 2.36,
+   "y": 92.05,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Offset-Printing: Roto-Sadag SA, Geneva"
+  },
+  {
+   "k": "txt",
+   "x": 2.36,
+   "y": 93.25,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Bookbinding: Roger Veihl, Geneva"
+  },
+  {
+   "k": "txt",
+   "x": 33.35,
+   "y": 47.51,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Published in 1977 by",
+    "Van Nostrand Reinhold Company",
+    "A Division of Litton Educational Publishing, Inc.",
+    "450 West 33rd Street",
+    "New York, NY 10001, U.S.A.",
+    "Van Nostrand Reinhold Limited"
+   ],
+   "h": 5.75
+  },
+  {
+   "k": "txt",
+   "x": 33.5,
+   "y": 55.8,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "1410 Birchmount Road"
+  },
+  {
+   "k": "txt",
+   "x": 33.5,
+   "y": 57.0,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Scarborough, Ontario M1P 2E7, Canada"
+  },
+  {
+   "k": "txt",
+   "x": 33.5,
+   "y": 59.4,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Van Nostrand Reinhold Australia Pty. Ltd."
+  },
+  {
+   "k": "txt",
+   "x": 33.5,
+   "y": 60.6,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "17 Queen Street"
+  },
+  {
+   "k": "txt",
+   "x": 33.5,
+   "y": 61.8,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Mitcham, Victoria 3132, Australia"
+  },
+  {
+   "k": "txt",
+   "x": 33.5,
+   "y": 64.2,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Van Nostrand Reinhold Company Ltd."
+  },
+  {
+   "k": "txt",
+   "x": 33.5,
+   "y": 65.4,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Molly Millars Lane"
+  },
+  {
+   "k": "txt",
+   "x": 33.5,
+   "y": 66.6,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Wokingham, Berkshire, England"
+  },
+  {
+   "k": "txt",
+   "x": 33.8,
+   "y": 70.92,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1",
+    "Library of Congress Cataloging in Publication Data"
+   ],
+   "h": 2.07
+  },
+  {
+   "k": "txt",
+   "x": 33.8,
+   "y": 74.49,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Maier, Manfred",
+    "Basic principles of design.",
+    "Translation of Elementare Entwurfs- und Gestaltungsprozesse. Die Grundkurse an der Kunstgewerbeschule Basel, Schweiz.",
+    "CONTENTS: v. 1. Object drawing, object and museum drawing, nature drawing. — v. 2. Memory drawing, technical drawing and perspective, lettering. — v. 3. Material studies, textile design, color 2. — v. 4. Color 1, graphic exercises, dimensional design.",
+    "1. Design—Study and teaching. I. Title",
+    "NK1170.M3413   745.4'07   77-3493"
+   ],
+   "h": 14.77
+  },
+  {
+   "k": "txt",
+   "x": 33.5,
+   "y": 91.85,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "ISBN 0-442-24977-2 (v. 1)"
+  },
+  {
+   "k": "txt",
+   "x": 33.5,
+   "y": 93.05,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "ISBN 0-442-24978-0 (v. 2)"
+  },
+  {
+   "k": "txt",
+   "x": 33.5,
+   "y": 94.25,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "ISBN 0-442-24979-9 (v. 3)"
+  },
+  {
+   "k": "txt",
+   "x": 33.5,
+   "y": 95.45,
+   "w": 30.0,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "ISBN 0-442-24980-2 (v. 4)"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "v": 3,
+ "p": 67,
+ "bg": "#898882",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.09,
+   "y": 3.38,
+   "w": 30.14,
+   "h": 22.53
+  },
+  {
+   "k": "art",
+   "x": 34.46,
+   "y": 3.38,
+   "w": 30.14,
+   "h": 22.53
+  },
+  {
+   "k": "art",
+   "x": 66.91,
+   "y": 3.38,
+   "w": 30.21,
+   "h": 22.53
+  },
+  {
+   "k": "art",
+   "x": 2.09,
+   "y": 27.63,
+   "w": 30.14,
+   "h": 22.48
+  },
+  {
+   "k": "art",
+   "x": 34.46,
+   "y": 27.63,
+   "w": 30.14,
+   "h": 22.48
+  },
+  {
+   "k": "art",
+   "x": 66.91,
+   "y": 27.63,
+   "w": 30.21,
+   "h": 22.48
+  },
+  {
+   "k": "txt",
+   "x": 34.46,
+   "y": 86.48,
+   "w": 30.43,
+   "size": 1.34,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Textile structures can be developed by using linking and looping techniques on stretchable mesh fabrics. Many creative possibilities can be found by combining and interrelating techniques, materials, and colors, and by adding passive elements, such as paper strips, drinking straws, and threads."
+   ],
+   "h": 8.36
+  },
+  {
+   "k": "txt",
+   "x": 66.91,
+   "y": 86.53,
+   "w": 30.28,
+   "size": 1.34,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The single studies exhibit linking and looping techniques: above, the simple linking of equally spaced elements; on the right, unequally spaced elements; below, discovered variations on linking and looping."
+   ],
+   "h": 5.91
+  },
+  {
+   "k": "txt",
+   "x": 95.6,
+   "y": 96.5,
+   "w": 4.0,
+   "size": 1.32,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "65"
+  }
+ ]
+}

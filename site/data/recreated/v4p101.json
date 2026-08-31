@@ -1,0 +1,116 @@
+{
+ "v": 4,
+ "p": 101,
+ "bg": "#e8e8e0",
+ "el": [
+  {
+   "k": "txt",
+   "x": 5.31,
+   "y": 2.65,
+   "w": 30.85,
+   "size": 1.38,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "As creative motivation, the behavior of water masses under the effects of forces such as wind pressure, impact, and displacement is analyzed in the following observation and perception studies. The discovered volumetric appearance is abstracted into clay through modeling. The formal elements are developed in many trials and arranged into a composition that expresses the rhythmic, energetic play of water. The actual forms should not lose their character in the composition. The elasticity of clay and the use of the application technique allow interesting differentiated modulations of volumes and surfaces. The definite structure produced can be fired or translated into other materials such as cement, artificial stone, or by casting metal. The construction of the negative, the casting process, the releasing of the form, and the suitable techniques and materials reveal new creative possibilities and experiences. Producing the plaster negative for cement or artificial stone is simple, but constructing a heatproof negative for casting with metal requires considerable skill."
+   ],
+   "h": 28.69
+  },
+  {
+   "k": "art",
+   "x": 53.11,
+   "y": 3.73,
+   "w": 22.69,
+   "h": 17.34
+  },
+  {
+   "k": "art",
+   "x": 76.72,
+   "y": 3.73,
+   "w": 22.69,
+   "h": 17.34
+  },
+  {
+   "k": "art",
+   "x": 53.11,
+   "y": 21.95,
+   "w": 22.69,
+   "h": 17.24
+  },
+  {
+   "k": "art",
+   "x": 76.72,
+   "y": 21.95,
+   "w": 22.69,
+   "h": 17.24
+  },
+  {
+   "k": "art",
+   "x": 53.11,
+   "y": 40.13,
+   "w": 22.69,
+   "h": 17.19
+  },
+  {
+   "k": "art",
+   "x": 76.72,
+   "y": 40.13,
+   "w": 22.69,
+   "h": 17.19
+  },
+  {
+   "k": "art",
+   "x": 53.11,
+   "y": 58.3,
+   "w": 22.69,
+   "h": 17.19
+  },
+  {
+   "k": "art",
+   "x": 76.72,
+   "y": 58.3,
+   "w": 22.69,
+   "h": 17.19
+  },
+  {
+   "k": "art",
+   "x": 53.11,
+   "y": 76.42,
+   "w": 22.69,
+   "h": 17.34
+  },
+  {
+   "k": "art",
+   "x": 76.72,
+   "y": 76.42,
+   "w": 22.69,
+   "h": 17.34
+  },
+  {
+   "k": "txt",
+   "x": 4.85,
+   "y": 90.96,
+   "w": 29.38,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The following photographs show examples of different volumetric appearances achieved from water studies."
+   ],
+   "h": 3.33
+  },
+  {
+   "k": "txt",
+   "x": 92.0,
+   "y": 96.02,
+   "w": 7.2,
+   "size": 1.25,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "99"
+  }
+ ]
+}

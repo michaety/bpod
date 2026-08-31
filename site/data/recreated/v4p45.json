@@ -1,0 +1,111 @@
+{
+ "v": 4,
+ "p": 45,
+ "bg": "#edece4",
+ "el": [
+  {
+   "k": "txt",
+   "x": 1.98,
+   "y": 2.03,
+   "w": 31.09,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Due to the length of time required to develop the design process on different levels, it is necessary to limit technical skills. Students work with black-paper, knives, scissors, and glue on white paper. The paper can be cut, folded, torn, or turned over. The graphic appearance of the surfaces and forms constitutes the foundation. Designing with paper has the advantage that formal elements can be exchanged or shifted, allowing a flexible, comparative working method. The development of skills and exactness results from the working process and the abundance of pieces. Sensitivity to differentiated formal qualities develops simultaneously. Four phases of an exercise are completed by the students in approximately the same amount of time, allowing group discussion, comparison, and exchange of experiences. Insight of the individual into the visual and conceptual aspects of design is expanded.",
+    "The examples on the following pages show different sequences, starting from the same conditions. They are the exercises of three students and only show a section of the possibilities. Similar work results are represented to document the different personal approaches. Four equally wide black paper strips and a square format corresponding to their combined width form the starting point of this exercise, in which the four stripes are always contained in the square. If they are lined up vertically, a black quadratic shape is produced, and they are no longer readable as a graphic form.",
+    "Elementary creative manipulations should be found in the first exercise phase, in which the four strips are again recognizable. The actual manipulation must be clear and must determine the graphic form. Composition and formal aesthetic qualities must be subordinated to the function and unequivocal recognition of the strips: they should not be used to compose decorative ornaments, basic shapes such as triangles and circles, the structure of a graphic symbol, or pictorial images."
+   ],
+   "h": 55.57
+  },
+  {
+   "k": "art",
+   "x": 50.2,
+   "y": 2.47,
+   "w": 22.99,
+   "h": 17.66
+  },
+  {
+   "k": "art",
+   "x": 50.4,
+   "y": 21.02,
+   "w": 34.59,
+   "h": 17.46
+  },
+  {
+   "k": "art",
+   "x": 50.46,
+   "y": 39.42,
+   "w": 23.06,
+   "h": 17.41
+  },
+  {
+   "k": "txt",
+   "x": 50.59,
+   "y": 58.46,
+   "w": 27.6,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The three illustrations above show the initial solution, the format, and the four equal strips, which are arranged vertically to form a black quadratic shape."
+   ],
+   "h": 4.72
+  },
+  {
+   "k": "txt",
+   "x": 50.66,
+   "y": 68.15,
+   "w": 29.7,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Here and on the following page, below, the examples show attempted solutions that are unsuitable to the defined limitations and functions. Symbollike forms, angles, triangles, curved lines on a black background, pictorial formations, and figures are produced by the four strips."
+   ],
+   "h": 7.44
+  },
+  {
+   "k": "art",
+   "x": 2.44,
+   "y": 77.05,
+   "w": 23.52,
+   "h": 17.85
+  },
+  {
+   "k": "art",
+   "x": 26.75,
+   "y": 76.85,
+   "w": 23.25,
+   "h": 17.61
+  },
+  {
+   "k": "art",
+   "x": 50.72,
+   "y": 76.46,
+   "w": 22.92,
+   "h": 17.66
+  },
+  {
+   "k": "art",
+   "x": 74.57,
+   "y": 76.31,
+   "w": 22.92,
+   "h": 17.36
+  },
+  {
+   "k": "txt",
+   "x": 96.25,
+   "y": 95.7,
+   "w": 3.5,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "43"
+  }
+ ]
+}

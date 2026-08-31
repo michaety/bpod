@@ -1,0 +1,74 @@
+{
+ "v": 3,
+ "p": 94,
+ "bg": "#7e7d78",
+ "el": [
+  {
+   "k": "txt",
+   "x": 3.68,
+   "y": 3.17,
+   "w": 30.57,
+   "size": 1.45,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Collage differs from the preceding painting techniques in that predetermined form and color are applied simultaneously. The following exercises consist of controlled play with color and form from paper scraps. The paper can be rough, glossy, mat, transparent, colored, printed, painted, or patterned. Size and shapre are changed by cutting and tearing. Because of the diversity of the material surface the tactile quality is incorporated into the optical-contrast qualities of color and form. Creative possibilities are tested in individual exercises with different limitations and expanded by adding painting techniques (tempera, aquarelle, color pencils) to the collage."
+   ],
+   "h": 18.37
+  },
+  {
+   "k": "art",
+   "x": 36.26,
+   "y": 3.22,
+   "w": 62.51,
+   "h": 32.56
+  },
+  {
+   "k": "art",
+   "x": 36.26,
+   "y": 37.77,
+   "w": 62.51,
+   "h": 32.51
+  },
+  {
+   "k": "txt",
+   "x": 3.75,
+   "y": 64.75,
+   "w": 30.5,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The surfaces of the two compositions contrast hard linear, cut angles with uneven, torn borders. The number of usable surfaces is limited. In the top example additional contrast is achieved with a transparent material."
+   ],
+   "h": 5.91
+  },
+  {
+   "k": "txt",
+   "x": 68.49,
+   "y": 86.27,
+   "w": 29.99,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The photographs on the following pages show different phases of the working process. The size and format of the composition are established, and the appropriate mount is cut from a piece of white cardboard. Within this frame the different formal elements are shifted, turned, overlapped, and exchanged."
+   ],
+   "h": 8.36
+  },
+  {
+   "k": "txt",
+   "x": 3.75,
+   "y": 95.92,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "92"
+  }
+ ]
+}

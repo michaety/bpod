@@ -1,0 +1,67 @@
+{
+ "v": 4,
+ "p": 12,
+ "bg": "#edede5",
+ "el": [
+  {
+   "k": "txt",
+   "x": 17.26,
+   "y": 3.35,
+   "w": 7.5,
+   "size": 1.75,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Volume"
+  },
+  {
+   "k": "txt",
+   "x": 24.7,
+   "y": 3.35,
+   "w": 2.2,
+   "size": 1.75,
+   "style": "heading",
+   "align": "left",
+   "weight": "bold",
+   "text": "4"
+  },
+  {
+   "k": "txt",
+   "x": 30.7,
+   "y": 3.35,
+   "w": 12.0,
+   "size": 1.75,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Introduction"
+  },
+  {
+   "k": "txt",
+   "x": 31.19,
+   "y": 50.54,
+   "w": 65.3,
+   "size": 1.75,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Techniques and media have developed in a superficial, one-sided fashion because of the free-enterprise system. Creative abilities and possibilities are bound to production- and consumption-oriented goals due to continuing specialization. The existing visual chaos necessitates working abundant creative possibilities of media and techniques. The application and consequences of these possibilities on the environment introduce the future designer to complex problems. He will be confronted with new and unknown assignments, techniques, applications, and social attitudes. He must survey many complex aspects outside the design itself and be able to integrate them into his work. This requires the ability to continually question existing structures and functions.",
+    "In the three courses described in this volume complex design concepts and interrelationships are investigated and developed through elementary exercises. Structure models, series, programs, and concepts give the student insight into and perspective on a versatile creative process. Continual differentiation, definition of criteria, comparison, evaluation, objective criticism, and control of one's work develop an independent judgment and a sense of responsibility. The subjective abilities of the students expand the differentiation process and form a foundation for group experience. The abundance of possible but very different solutions is not foreseeable or achievable by the individual.",
+    "Knowledge and experience clarify the necessity and consequences of creative judgments and the inherent positive and negative effects of many factors, which can be transferred to other media and to complex problem solving."
+   ],
+   "h": 39.44
+  },
+  {
+   "k": "txt",
+   "x": 2.5,
+   "y": 96.6,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "10"
+  }
+ ]
+}

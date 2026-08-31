@@ -1,0 +1,74 @@
+{
+ "v": 3,
+ "p": 98,
+ "bg": "#7c7b75",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.81,
+   "y": 3.49,
+   "w": 95.17,
+   "h": 42.22
+  },
+  {
+   "k": "txt",
+   "x": 67.92,
+   "y": 47.37,
+   "w": 30.14,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The two examples on this double-page spread show compositions reduced to a few elements: above, wrapping papers with different colors and structures; to the right, unpainted, painted, and textured papers with contrasted, torn, and cut surfaces and minimal color contrasts."
+   ],
+   "h": 7.05
+  },
+  {
+   "k": "txt",
+   "x": 67.99,
+   "y": 65.93,
+   "w": 30.21,
+   "size": 1.32,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Below: weighted under a sheet of glass, the work can be observed without distracting, curling surfaces and shadows. Additional elements such as paints can be tested on the glass."
+   ],
+   "h": 4.72
+  },
+  {
+   "k": "art",
+   "x": 3.24,
+   "y": 71.83,
+   "w": 30.06,
+   "h": 22.37
+  },
+  {
+   "k": "art",
+   "x": 35.54,
+   "y": 71.83,
+   "w": 30.14,
+   "h": 22.37
+  },
+  {
+   "k": "art",
+   "x": 67.92,
+   "y": 71.83,
+   "w": 30.06,
+   "h": 22.37
+  },
+  {
+   "k": "txt",
+   "x": 3.24,
+   "y": 96.3,
+   "w": 6.0,
+   "size": 1.33,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "96"
+  }
+ ]
+}

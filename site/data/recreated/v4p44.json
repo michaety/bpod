@@ -1,0 +1,46 @@
+{
+ "v": 4,
+ "p": 44,
+ "bg": "#ecebe4",
+ "el": [
+  {
+   "k": "txt",
+   "x": 4.21,
+   "y": 3.55,
+   "w": 20.0,
+   "size": 1.3,
+   "style": "heading",
+   "align": "left",
+   "weight": "normal",
+   "text": "Graphic Exercises",
+   "link": "Graphic Exercises"
+  },
+  {
+   "k": "txt",
+   "x": 4.21,
+   "y": 27.58,
+   "w": 29.25,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In this course fundamental concepts and design processes are developed in elementary exercises that require creative decisions. Clearly determined conditions are manipulated, analyzed, and developed over a period of time, using simple graphic media. An understanding of the entire working process is the result. Criteria are defined and differentiated according to the actual working situation.",
+    "Criticism and control of the individual's work increase his sensitivity, independence, and competence. Insight into and perspective on the abundance and complexity of designing processes develop from a close collaboration with the teacher and within the group. Principles of aesthetic composition are not offered and single, chance results are not goals. Technical perfection and composition are only part of the design process.",
+    "Group relationships form the basis for decisions, deeper involvement with design, and refinement of creative quality through constant, unprejudiced comparison and evaluation of the work. The personal abilities of the students form additional factors in the creative processes which are differentiated in several activities: a clear, determined starting point for a problem situation; critical definition of many possible solutions from abundant trials; selection of a theme, investigation of variations within the chosen theme: the order and definition of the relationships among the variations according to criteria of the individual theme; integration of the different criteria into vertical and horizontal relationships among the single elements; choice of a vertical or horizontal direction from the discovered order; refinement and supplementation of the intervals and relationships from a logical and qualitative point of view; application of experience derived from these studies to new, complex goals. This development process is a foundation of visual communication."
+   ],
+   "h": 21.91
+  },
+  {
+   "k": "txt",
+   "x": 4.21,
+   "y": 95.77,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "42"
+  }
+ ]
+}

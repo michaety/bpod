@@ -1,0 +1,50 @@
+{
+ "v": 3,
+ "p": 80,
+ "bg": "#7e7d77",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.24,
+   "y": 3.92,
+   "w": 94.88,
+   "h": 50.11
+  },
+  {
+   "k": "txt",
+   "x": 3.82,
+   "y": 89.16,
+   "w": 28.8,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In further exercises differentiations within a single color area are investigated. Opacity is achieved by painting over previously colored areas."
+   ],
+   "h": 4.61
+  },
+  {
+   "k": "txt",
+   "x": 36.2,
+   "y": 88.9,
+   "w": 30.7,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "text": "The examples here and on the preceding page show: variations of opaque reds on two different aqueous grounds, differentiated color strokes on a flat, uniform yellow ground, variations on an opaque, flat blue ground."
+  },
+  {
+   "k": "txt",
+   "x": 3.6,
+   "y": 96.7,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "78"
+  }
+ ]
+}

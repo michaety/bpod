@@ -1,0 +1,82 @@
+{
+ "v": 3,
+ "p": 66,
+ "bg": "#7e7d76",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.88,
+   "y": 3.76,
+   "w": 30.14,
+   "h": 22.53
+  },
+  {
+   "k": "art",
+   "x": 2.81,
+   "y": 28.0,
+   "w": 30.14,
+   "h": 22.48
+  },
+  {
+   "k": "art",
+   "x": 35.18,
+   "y": 3.7,
+   "w": 62.73,
+   "h": 46.78
+  },
+  {
+   "k": "txt",
+   "x": 2.88,
+   "y": 52.09,
+   "w": 30.5,
+   "size": 1.37,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "These examples of white embroidery show, above, a structured surface with looped rows of different materials; below, differentiated groupings of radiating satin stitches."
+   ],
+   "h": 4.66
+  },
+  {
+   "k": "txt",
+   "x": 35.26,
+   "y": 52.04,
+   "w": 31.0,
+   "size": 1.37,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "This composition contains many different surface densities, material qualities, and colorful embroidery stitches.",
+    "In the examples below nontextile materials (glass beads and plastic rods) are appliquéd over textile surfaces."
+   ],
+   "h": 3.47
+  },
+  {
+   "k": "art",
+   "x": 35.26,
+   "y": 71.73,
+   "w": 30.14,
+   "h": 22.37
+  },
+  {
+   "k": "art",
+   "x": 67.7,
+   "y": 71.73,
+   "w": 30.06,
+   "h": 22.32
+  },
+  {
+   "k": "txt",
+   "x": 3.1,
+   "y": 96.14,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "64"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "v": 4,
+ "p": 50,
+ "bg": "#edece4",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.36,
+   "y": 3.4,
+   "w": 29.4,
+   "size": 1.34,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The third phase of the exercise consists in recognizing, defining, and ordering relationships among the individual variations with each other. The available pieces should be examined as equally important: subjective evaluations such as like or dislike are avoided. The examples developed freely, not systematically, resulting in overlapping and in interval differences (scheme 1). The student tries to analyze these differences as open distances or blank spaces and to indicate the missing pieces still to be supplied."
+   ],
+   "h": 13.46
+  },
+  {
+   "k": "art",
+   "x": 34.2,
+   "y": 3.2,
+   "w": 51.4,
+   "h": 26.3
+  },
+  {
+   "k": "txt",
+   "x": 2.43,
+   "y": 35.36,
+   "w": 29.4,
+   "size": 1.34,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In laying out and comparing the pieces graphically different characteristics and relationships are defined in terms of criteria such as light-dark, static-dynamic, simple-complex, one-several, and few-many. The pieces that fall under a single criterion are arranged in linear sequences (scheme 2), which enables the student to understand the determining factors in his pieces, a prerequisite for further investigation. The groups, arranged according to suitable criteria, should be integrated into a readable horizontal-vertical structure (scheme 4). All criteria are considered equivalent."
+   ],
+   "h": 15.72
+  },
+  {
+   "k": "art",
+   "x": 33.7,
+   "y": 35.2,
+   "w": 61.4,
+   "h": 15.0
+  },
+  {
+   "k": "txt",
+   "x": 2.3,
+   "y": 57.93,
+   "w": 29.4,
+   "size": 1.34,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "A chance arrangement of the pieces in a linear, branching structure would be a contradiction. The initial element determines the possible branchings in the sequel, which hold key positions in relation to the other pieces (the indicated black pieces, in scheme 3). The branching structure can be changed by selecting a different starting point: the relationships between part and part and part and whole are unequal in a given system and determined by the system chosen. The defined criteria are distributed only in the individual relationships between different linear branchings over the entire structure: dark pieces can stand next to light ones or in different places. The intervals from piece to piece and from branch to branch result from chance. The blank spaces are not related to all the pieces."
+   ],
+   "h": 21.09
+  },
+  {
+   "k": "art",
+   "x": 33.8,
+   "y": 57.9,
+   "w": 61.5,
+   "h": 36.5
+  },
+  {
+   "k": "txt",
+   "x": 2.3,
+   "y": 95.72,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "48"
+  }
+ ]
+}

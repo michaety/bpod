@@ -1,0 +1,121 @@
+{
+ "v": 4,
+ "p": 23,
+ "bg": "#e8e8df",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.75,
+   "y": 1.73,
+   "w": 30.63,
+   "h": 22.9
+  },
+  {
+   "k": "art",
+   "x": 36.5,
+   "y": 2.37,
+   "w": 30.11,
+   "h": 22.65
+  },
+  {
+   "k": "art",
+   "x": 68.91,
+   "y": 2.82,
+   "w": 29.58,
+   "h": 22.6
+  },
+  {
+   "k": "art",
+   "x": 3.75,
+   "y": 26.46,
+   "w": 30.63,
+   "h": 22.8
+  },
+  {
+   "k": "art",
+   "x": 36.5,
+   "y": 26.81,
+   "w": 30.11,
+   "h": 22.65
+  },
+  {
+   "k": "art",
+   "x": 68.77,
+   "y": 27.0,
+   "w": 29.71,
+   "h": 22.55
+  },
+  {
+   "k": "txt",
+   "x": 3.29,
+   "y": 65.23,
+   "w": 30.63,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The following photographs show how to stretch the painting surface.",
+    "The paper is moistened on both sides with a sponge so that it expands."
+   ],
+   "h": 4.82
+  },
+  {
+   "k": "txt",
+   "x": 36.17,
+   "y": 65.13,
+   "w": 30.24,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "text": "While wet, it is paper-taped to the board."
+  },
+  {
+   "k": "txt",
+   "x": 68.64,
+   "y": 65.23,
+   "w": 29.78,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The paper stretches while it dries, forming an even painting surface that will not wrinkle when wet paint is applied."
+   ],
+   "h": 3.46
+  },
+  {
+   "k": "art",
+   "x": 3.16,
+   "y": 71.27,
+   "w": 30.83,
+   "h": 23.1
+  },
+  {
+   "k": "art",
+   "x": 36.17,
+   "y": 71.22,
+   "w": 30.24,
+   "h": 22.85
+  },
+  {
+   "k": "art",
+   "x": 68.58,
+   "y": 71.17,
+   "w": 29.64,
+   "h": 22.6
+  },
+  {
+   "k": "txt",
+   "x": 91.96,
+   "y": 95.8,
+   "w": 6.0,
+   "size": 1.29,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "21"
+  }
+ ]
+}

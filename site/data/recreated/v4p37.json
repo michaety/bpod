@@ -1,0 +1,75 @@
+{
+ "v": 4,
+ "p": 37,
+ "bg": "#eae9e1",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.69,
+   "y": 1.29,
+   "w": 30.76,
+   "h": 22.85
+  },
+  {
+   "k": "art",
+   "x": 36.56,
+   "y": 2.03,
+   "w": 30.17,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 68.84,
+   "y": 2.72,
+   "w": 29.84,
+   "h": 22.55
+  },
+  {
+   "k": "art",
+   "x": 3.43,
+   "y": 25.87,
+   "w": 30.63,
+   "h": 22.85
+  },
+  {
+   "k": "art",
+   "x": 2.83,
+   "y": 50.4,
+   "w": 30.83,
+   "h": 22.9
+  },
+  {
+   "k": "art",
+   "x": 68.12,
+   "y": 51.04,
+   "w": 29.71,
+   "h": 22.4
+  },
+  {
+   "k": "txt",
+   "x": 2.31,
+   "y": 80.91,
+   "w": 30.63,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The same progressive divisions are contained in all the examples on this page. Above left, middle, the progression of colors is simultaneously increased through a progressive gradation of the proportions.",
+    "Above right, continuous color gradation with the proportions in a changeable sequence. Middle left, below, the sequence of colors is changed, while the formal progression remains constant (as above). Below right, colors and proportions in a changed sequence."
+   ],
+   "h": 13.79
+  },
+  {
+   "k": "txt",
+   "x": 93.3,
+   "y": 95.55,
+   "w": 4.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "35"
+  }
+ ]
+}

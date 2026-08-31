@@ -1,0 +1,123 @@
+{
+ "v": 4,
+ "p": 102,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "txt",
+   "x": 3.24,
+   "y": 3.48,
+   "w": 29.58,
+   "size": 1.38,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The photographs in the three rows above show, from left to right, the development of modeled elements into a dimensional composition and the possible differentiation of the surfaces. The construction of a negative for casting into cement, artificial stone, or metal; the casting process; and the release of the form are represented in the two lower rows. The illustration below left shows how negative duplicates can be produced with a silicone positive."
+   ],
+   "h": 12.21
+  },
+  {
+   "k": "art",
+   "x": 73.79,
+   "y": 3.19,
+   "w": 23.56,
+   "h": 17.47
+  },
+  {
+   "k": "art",
+   "x": 26.54,
+   "y": 21.64,
+   "w": 22.65,
+   "h": 17.18
+  },
+  {
+   "k": "art",
+   "x": 49.9,
+   "y": 21.68,
+   "w": 22.85,
+   "h": 17.23
+  },
+  {
+   "k": "art",
+   "x": 73.53,
+   "y": 21.64,
+   "w": 23.56,
+   "h": 17.38
+  },
+  {
+   "k": "art",
+   "x": 49.71,
+   "y": 39.84,
+   "w": 22.85,
+   "h": 17.28
+  },
+  {
+   "k": "art",
+   "x": 73.33,
+   "y": 39.98,
+   "w": 23.43,
+   "h": 17.38
+  },
+  {
+   "k": "art",
+   "x": 2.46,
+   "y": 57.74,
+   "w": 22.78,
+   "h": 17.13
+  },
+  {
+   "k": "art",
+   "x": 25.95,
+   "y": 57.84,
+   "w": 22.72,
+   "h": 17.28
+  },
+  {
+   "k": "art",
+   "x": 49.45,
+   "y": 58.13,
+   "w": 22.85,
+   "h": 17.23
+  },
+  {
+   "k": "art",
+   "x": 73.2,
+   "y": 58.23,
+   "w": 23.3,
+   "h": 17.57
+  },
+  {
+   "k": "art",
+   "x": 2.07,
+   "y": 76.24,
+   "w": 22.78,
+   "h": 16.94
+  },
+  {
+   "k": "art",
+   "x": 25.7,
+   "y": 76.04,
+   "w": 22.78,
+   "h": 17.18
+  },
+  {
+   "k": "art",
+   "x": 73.07,
+   "y": 76.57,
+   "w": 23.37,
+   "h": 17.62
+  },
+  {
+   "k": "txt",
+   "x": 2.01,
+   "y": 95.35,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "100"
+  }
+ ]
+}

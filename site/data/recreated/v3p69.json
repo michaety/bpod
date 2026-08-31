@@ -1,0 +1,88 @@
+{
+ "v": 3,
+ "p": 69,
+ "bg": "#888881",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.8,
+   "y": 3.06,
+   "w": 62.58,
+   "h": 34.55
+  },
+  {
+   "k": "art",
+   "x": 66.69,
+   "y": 3.06,
+   "w": 30.14,
+   "h": 22.48
+  },
+  {
+   "k": "art",
+   "x": 66.69,
+   "y": 27.25,
+   "w": 30.14,
+   "h": 22.48
+  },
+  {
+   "k": "art",
+   "x": 1.8,
+   "y": 39.38,
+   "w": 30.21,
+   "h": 34.55
+  },
+  {
+   "k": "art",
+   "x": 34.25,
+   "y": 39.38,
+   "w": 30.14,
+   "h": 34.55
+  },
+  {
+   "k": "art",
+   "x": 66.69,
+   "y": 51.5,
+   "w": 30.14,
+   "h": 22.42
+  },
+  {
+   "k": "txt",
+   "x": 1.95,
+   "y": 86.16,
+   "w": 30.35,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "These carefully composed examples were achieved by looping and wrapping different materials over a foundation."
+   ],
+   "h": 3.3
+  },
+  {
+   "k": "txt",
+   "x": 66.69,
+   "y": 86.11,
+   "w": 29.99,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Different techniques are shown: from top to bottom: linking and looping around passive support elements, free looping in rows, and wrapping warp threads."
+   ],
+   "h": 4.72
+  },
+  {
+   "k": "txt",
+   "x": 95.39,
+   "y": 95.82,
+   "w": 4.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "67"
+  }
+ ]
+}

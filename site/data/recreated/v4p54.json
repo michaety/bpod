@@ -1,0 +1,102 @@
+{
+ "v": 4,
+ "p": 54,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.49,
+   "y": 3.26,
+   "w": 29.2,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The fourth phase of the exercise is documented with the selected row of the previous example. The sequence of the pieces in the organization is represented above. The pieces are unequal in darkness and irregular in number, formal progression, and angle. The student tried to adjust deficiencies of quality and interval purely through spontaneous intuition: the realized row is represented below. The pieces are approximately equal in darkness; the angle changes and the formal progressions are relatively uniform. The number of elements in the individual strips is unequal and does not relate progressively. The sixth piece in the row apparently could not be resolved."
+   ],
+   "h": 18.1
+  },
+  {
+   "k": "art",
+   "x": 48.85,
+   "y": 3.02,
+   "w": 22.54,
+   "h": 17.31
+  },
+  {
+   "k": "art",
+   "x": 72.29,
+   "y": 2.77,
+   "w": 22.98,
+   "h": 17.51
+  },
+  {
+   "k": "art",
+   "x": 48.4,
+   "y": 58.27,
+   "w": 22.48,
+   "h": 17.22
+  },
+  {
+   "k": "art",
+   "x": 71.9,
+   "y": 58.32,
+   "w": 22.86,
+   "h": 17.46
+  },
+  {
+   "k": "txt",
+   "x": 2.04,
+   "y": 70.33,
+   "w": 28.61,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The photographs show the teacher's blackboard explanation of how to organize the relationship structure and the students comparing working methods."
+   ],
+   "h": 4.43
+  },
+  {
+   "k": "art",
+   "x": 1.98,
+   "y": 76.26,
+   "w": 22.29,
+   "h": 17.32
+  },
+  {
+   "k": "art",
+   "x": 25.16,
+   "y": 76.51,
+   "w": 22.35,
+   "h": 17.41
+  },
+  {
+   "k": "art",
+   "x": 48.34,
+   "y": 76.7,
+   "w": 22.54,
+   "h": 17.61
+  },
+  {
+   "k": "art",
+   "x": 71.84,
+   "y": 76.95,
+   "w": 23.05,
+   "h": 17.75
+  },
+  {
+   "k": "txt",
+   "x": 1.85,
+   "y": 95.53,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "52"
+  }
+ ]
+}

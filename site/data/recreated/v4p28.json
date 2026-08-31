@@ -1,0 +1,74 @@
+{
+ "v": 4,
+ "p": 28,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "art",
+   "x": 33.46,
+   "y": 2.77,
+   "w": 29.5,
+   "h": 23.2
+  },
+  {
+   "k": "art",
+   "x": 65.07,
+   "y": 2.77,
+   "w": 29.95,
+   "h": 23.2
+  },
+  {
+   "k": "art",
+   "x": 33.59,
+   "y": 27.19,
+   "w": 29.44,
+   "h": 22.81
+  },
+  {
+   "k": "art",
+   "x": 65.07,
+   "y": 27.19,
+   "w": 29.95,
+   "h": 22.81
+  },
+  {
+   "k": "txt",
+   "x": 33.72,
+   "y": 53.6,
+   "w": 29.2,
+   "size": 1.3,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In the top row the center and right stripes, which have the same proportions, change in color; in the center row the same colors have different proportions; in the bottom row all three stripes change in both color and proportion."
+   ],
+   "h": 5.93
+  },
+  {
+   "k": "art",
+   "x": 33.72,
+   "y": 71.25,
+   "w": 29.57,
+   "h": 23.01
+  },
+  {
+   "k": "art",
+   "x": 65.39,
+   "y": 71.25,
+   "w": 30.14,
+   "h": 23.01
+  },
+  {
+   "k": "txt",
+   "x": 2.55,
+   "y": 95.82,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "26"
+  }
+ ]
+}

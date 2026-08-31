@@ -1,0 +1,95 @@
+{
+ "v": 4,
+ "p": 60,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.62,
+   "y": 3.5,
+   "w": 29.12,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In the row shown above the interval of the light-dark progression of the parts is approximately balanced in the totality. The light-dark relationship and the number and type of single formal elements are not contextually related to one another. In this respect the middle row appears optically balanced, but the details in the individual pieces do not progress continuously. In the row below each formal element of each individual stripe in each piece is related clearly, resulting in a minimal change in the light-dark relationship between the parts of the row as a whole. The differentiation process for the fourth phase is clearer than that produced by the first student."
+   ],
+   "h": 16.96
+  },
+  {
+   "k": "art",
+   "x": 48.59,
+   "y": 3.16,
+   "w": 47.0,
+   "h": 17.51
+  },
+  {
+   "k": "art",
+   "x": 48.4,
+   "y": 40.08,
+   "w": 46.68,
+   "h": 17.61
+  },
+  {
+   "k": "art",
+   "x": 48.28,
+   "y": 58.51,
+   "w": 46.62,
+   "h": 17.66
+  },
+  {
+   "k": "txt",
+   "x": 2.11,
+   "y": 71.79,
+   "w": 28.54,
+   "size": 1.3,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The photographs show different working areas and comparable methods of differentiating parts of rows."
+   ],
+   "h": 3.25
+  },
+  {
+   "k": "art",
+   "x": 1.85,
+   "y": 76.41,
+   "w": 22.41,
+   "h": 17.61
+  },
+  {
+   "k": "art",
+   "x": 25.1,
+   "y": 76.7,
+   "w": 22.48,
+   "h": 17.61
+  },
+  {
+   "k": "art",
+   "x": 48.34,
+   "y": 76.99,
+   "w": 22.6,
+   "h": 17.7
+  },
+  {
+   "k": "art",
+   "x": 71.84,
+   "y": 77.29,
+   "w": 23.05,
+   "h": 17.9
+  },
+  {
+   "k": "txt",
+   "x": 1.79,
+   "y": 95.82,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "58"
+  }
+ ]
+}

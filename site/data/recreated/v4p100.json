@@ -1,0 +1,130 @@
+{
+ "v": 4,
+ "p": 100,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "art",
+   "x": 25.98,
+   "y": 4.02,
+   "w": 22.85,
+   "h": 17.33
+  },
+  {
+   "k": "art",
+   "x": 49.61,
+   "y": 3.53,
+   "w": 23.04,
+   "h": 17.52
+  },
+  {
+   "k": "art",
+   "x": 73.5,
+   "y": 3.1,
+   "w": 23.56,
+   "h": 17.57
+  },
+  {
+   "k": "txt",
+   "x": 2.35,
+   "y": 22.36,
+   "w": 29.44,
+   "size": 1.34,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In these examples the original character of the foam rubber is completely neutralized. The dimensional, rhythmic organization of the volumes dominates. The different abstracted translations vary in surface structure. The light produces various effects on the colored polyester coverings."
+   ],
+   "h": 8.67
+  },
+  {
+   "k": "art",
+   "x": 49.87,
+   "y": 22.07,
+   "w": 22.85,
+   "h": 17.09
+  },
+  {
+   "k": "art",
+   "x": 73.76,
+   "y": 21.59,
+   "w": 23.5,
+   "h": 17.38
+  },
+  {
+   "k": "art",
+   "x": 2.81,
+   "y": 40.56,
+   "w": 22.91,
+   "h": 17.18
+  },
+  {
+   "k": "art",
+   "x": 26.57,
+   "y": 40.42,
+   "w": 22.72,
+   "h": 17.13
+  },
+  {
+   "k": "art",
+   "x": 50.13,
+   "y": 40.22,
+   "w": 22.98,
+   "h": 17.18
+  },
+  {
+   "k": "art",
+   "x": 73.96,
+   "y": 39.93,
+   "w": 23.63,
+   "h": 17.33
+  },
+  {
+   "k": "art",
+   "x": 26.76,
+   "y": 58.57,
+   "w": 22.72,
+   "h": 17.18
+  },
+  {
+   "k": "art",
+   "x": 50.46,
+   "y": 58.42,
+   "w": 22.91,
+   "h": 17.23
+  },
+  {
+   "k": "art",
+   "x": 74.28,
+   "y": 58.28,
+   "w": 23.63,
+   "h": 17.38
+  },
+  {
+   "k": "art",
+   "x": 3.2,
+   "y": 76.86,
+   "w": 22.52,
+   "h": 17.09
+  },
+  {
+   "k": "art",
+   "x": 26.96,
+   "y": 76.86,
+   "w": 22.98,
+   "h": 17.09
+  },
+  {
+   "k": "txt",
+   "x": 3.2,
+   "y": 96.42,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "98"
+  }
+ ]
+}

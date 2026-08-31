@@ -1,0 +1,117 @@
+{
+ "v": 4,
+ "p": 34,
+ "bg": "#ebeae2",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.36,
+   "y": 2.85,
+   "w": 28.5,
+   "h": 23.05
+  },
+  {
+   "k": "art",
+   "x": 33.49,
+   "y": 2.85,
+   "w": 28.56,
+   "h": 23.05
+  },
+  {
+   "k": "art",
+   "x": 64.87,
+   "y": 2.85,
+   "w": 30.14,
+   "h": 23.05
+  },
+  {
+   "k": "art",
+   "x": 2.36,
+   "y": 27.4,
+   "w": 28.5,
+   "h": 22.6
+  },
+  {
+   "k": "art",
+   "x": 33.49,
+   "y": 27.4,
+   "w": 28.56,
+   "h": 22.6
+  },
+  {
+   "k": "art",
+   "x": 64.87,
+   "y": 27.4,
+   "w": 30.14,
+   "h": 22.6
+  },
+  {
+   "k": "txt",
+   "x": 2.55,
+   "y": 65.86,
+   "w": 29.25,
+   "size": 1.42,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "This exercise involves designing a five-section color progression in which the colors change gradually and simultaneously in many contrast directions. Similarities to the color wheel and value progressions alone are avoided. The sequence must also contain an asymmetrical progression from one color to another. An interesting example is selected from the many solutions. Each progression is selected by the student for a proportion exercise, and the individual colors are remixed in jars. As in the preceding exercise, equal color steps must be synchronized exactly: many simultaneous changes are not parallel: for example, in a sequence with intuitively equal value steps brightness intervals appear unequal. In such cases different criteria must be weighed and an intermediate solution found."
+   ],
+   "h": 21.65
+  },
+  {
+   "k": "txt",
+   "x": 33.84,
+   "y": 65.71,
+   "w": 29.57,
+   "size": 1.42,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The photographs show the procedure for designing and organizing color harmonies.",
+    "The paint extends slightly beyond the predrawn format."
+   ],
+   "h": 5.0
+  },
+  {
+   "k": "txt",
+   "x": 65.45,
+   "y": 68.04,
+   "w": 30.2,
+   "size": 1.42,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "After the paint dries, the individual pieces are cut to the correct size."
+   ],
+   "h": 2.01
+  },
+  {
+   "k": "art",
+   "x": 33.68,
+   "y": 71.6,
+   "w": 28.69,
+   "h": 25.25
+  },
+  {
+   "k": "art",
+   "x": 65.33,
+   "y": 71.6,
+   "w": 30.2,
+   "h": 25.25
+  },
+  {
+   "k": "txt",
+   "x": 2.76,
+   "y": 95.1,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "32"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "v": 4,
+ "p": 72,
+ "bg": "#edede5",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.64,
+   "y": 2.9,
+   "w": 30.5,
+   "size": 1.42,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "text": "Further differentiation of experiences and knowledge results from applying the preceding design techniques and media to different conditions. In the following rows the results of alternative exercises by different students, suggest the abundant range of possibilities."
+  },
+  {
+   "k": "txt",
+   "x": 2.64,
+   "y": 10.09,
+   "w": 30.5,
+   "size": 1.42,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "text": "The examples on the last page suggest graphic translations of these creative processes into other media: typography, dimensionality, and materials."
+  },
+  {
+   "k": "art",
+   "x": 50.46,
+   "y": 2.76,
+   "w": 23.32,
+   "h": 17.67
+  },
+  {
+   "k": "art",
+   "x": 74.31,
+   "y": 2.36,
+   "w": 24.31,
+   "h": 18.11
+  },
+  {
+   "k": "art",
+   "x": 50.07,
+   "y": 21.51,
+   "w": 23.72,
+   "h": 17.42
+  },
+  {
+   "k": "art",
+   "x": 74.31,
+   "y": 21.36,
+   "w": 13.31,
+   "h": 17.72
+  },
+  {
+   "k": "art",
+   "x": 50.0,
+   "y": 39.86,
+   "w": 23.32,
+   "h": 17.57
+  },
+  {
+   "k": "art",
+   "x": 74.04,
+   "y": 39.96,
+   "w": 23.98,
+   "h": 17.81
+  },
+  {
+   "k": "art",
+   "x": 49.6,
+   "y": 58.46,
+   "w": 23.65,
+   "h": 17.67
+  },
+  {
+   "k": "art",
+   "x": 73.85,
+   "y": 58.56,
+   "w": 24.18,
+   "h": 17.91
+  },
+  {
+   "k": "art",
+   "x": 49.54,
+   "y": 77.02,
+   "w": 23.72,
+   "h": 17.81
+  },
+  {
+   "k": "art",
+   "x": 73.78,
+   "y": 77.31,
+   "w": 23.91,
+   "h": 18.11
+  },
+  {
+   "k": "txt",
+   "x": 1.45,
+   "y": 96.31,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "70"
+  }
+ ]
+}

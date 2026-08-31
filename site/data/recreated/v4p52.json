@@ -1,0 +1,130 @@
+{
+ "v": 4,
+ "p": 52,
+ "bg": "#edece4",
+ "el": [
+  {
+   "k": "txt",
+   "x": 20.82,
+   "y": 3.36,
+   "w": 29.57,
+   "size": 1.45,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "This illustration shows the organization and its variations for the example discussed previously. The pieces are coordinated with each other in terms of these criteria: from top to bottom, dark-light; from left to right, static-dynamic, few-many, simple-complex, and flat-oblique. There are imperfections in some of the relationships: for example, the contrast one-many proceeds in a vertical as well as a horizontal direction. Likewise, the differentiation of the light-dark and the flat-oblique relationships could be more clear. Since two essentially different criteria were selected as the theme for variation, some pieces cannot be included directly in the organization (those in the uppermost row and the four pieces separated below on the left). The design process is different for both examples: above, cuts in a different direction and shifts of formal elements; left, unparallel cuts in different directions and partial removal of formal elements. These pieces should be coordinated in their respective contextual relationships with the organization of the pieces on other levels. The first piece to the left, which is within the organization, is used as a coordination guide. The above row would partially overlap the dark elements; it is selected for further differentiation."
+   ],
+   "h": 32.89
+  },
+  {
+   "k": "art",
+   "x": 65.96,
+   "y": 14.64,
+   "w": 13.67,
+   "h": 10.41
+  },
+  {
+   "k": "art",
+   "x": 65.84,
+   "y": 26.17,
+   "w": 13.67,
+   "h": 10.31
+  },
+  {
+   "k": "art",
+   "x": 3.0,
+   "y": 36.77,
+   "w": 13.28,
+   "h": 10.12
+  },
+  {
+   "k": "art",
+   "x": 81.8,
+   "y": 37.65,
+   "w": 13.73,
+   "h": 10.31
+  },
+  {
+   "k": "art",
+   "x": 2.94,
+   "y": 48.05,
+   "w": 13.41,
+   "h": 10.12
+  },
+  {
+   "k": "art",
+   "x": 65.71,
+   "y": 48.98,
+   "w": 13.67,
+   "h": 10.41
+  },
+  {
+   "k": "art",
+   "x": 81.74,
+   "y": 49.71,
+   "w": 13.67,
+   "h": 9.73
+  },
+  {
+   "k": "art",
+   "x": 2.75,
+   "y": 59.29,
+   "w": 13.41,
+   "h": 10.26
+  },
+  {
+   "k": "art",
+   "x": 65.64,
+   "y": 60.46,
+   "w": 13.67,
+   "h": 10.17
+  },
+  {
+   "k": "art",
+   "x": 81.74,
+   "y": 60.55,
+   "w": 13.67,
+   "h": 10.26
+  },
+  {
+   "k": "art",
+   "x": 2.62,
+   "y": 70.67,
+   "w": 13.41,
+   "h": 10.26
+  },
+  {
+   "k": "art",
+   "x": 81.67,
+   "y": 72.18,
+   "w": 13.73,
+   "h": 10.21
+  },
+  {
+   "k": "art",
+   "x": 2.49,
+   "y": 82.0,
+   "w": 13.35,
+   "h": 10.26
+  },
+  {
+   "k": "art",
+   "x": 65.64,
+   "y": 84.09,
+   "w": 13.6,
+   "h": 9.29
+  },
+  {
+   "k": "txt",
+   "x": 2.36,
+   "y": 95.62,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "50"
+  }
+ ]
+}

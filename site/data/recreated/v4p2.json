@@ -1,0 +1,25 @@
+{
+ "v": 4,
+ "p": 2,
+ "bg": "#eeebde",
+ "el": [
+  {
+   "k": "art",
+   "x": 13.86,
+   "y": 20.5,
+   "w": 72.49,
+   "h": 58.99
+  },
+  {
+   "k": "txt",
+   "x": 11.35,
+   "y": 92.16,
+   "w": 79.18,
+   "size": 3.3,
+   "style": "body",
+   "align": "center",
+   "weight": "normal",
+   "text": "https://archive.org/details/basicprincipleso0004maie"
+  }
+ ]
+}

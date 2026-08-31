@@ -1,0 +1,116 @@
+{
+ "v": 4,
+ "p": 86,
+ "bg": "#ecebe4",
+ "el": [
+  {
+   "k": "txt",
+   "x": 3.33,
+   "y": 3.02,
+   "w": 29.65,
+   "size": 1.34,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Differentiated, gradated, formal elements are achieved independently by the students. With the exception of the last row, the examples on this double-page spread are represented horizontally and vertically in a gradual dimensional relationship of formal elements. In the bottom row additional variations of different formal elements are shown in progress."
+   ],
+   "h": 9.8
+  },
+  {
+   "k": "art",
+   "x": 50.62,
+   "y": 2.92,
+   "w": 23.06,
+   "h": 17.66
+  },
+  {
+   "k": "art",
+   "x": 74.53,
+   "y": 2.72,
+   "w": 23.64,
+   "h": 17.8
+  },
+  {
+   "k": "art",
+   "x": 50.36,
+   "y": 21.61,
+   "w": 23.06,
+   "h": 17.56
+  },
+  {
+   "k": "art",
+   "x": 74.2,
+   "y": 21.56,
+   "w": 23.64,
+   "h": 17.71
+  },
+  {
+   "k": "art",
+   "x": 50.16,
+   "y": 40.16,
+   "w": 22.99,
+   "h": 17.66
+  },
+  {
+   "k": "art",
+   "x": 74.0,
+   "y": 40.26,
+   "w": 23.64,
+   "h": 17.75
+  },
+  {
+   "k": "art",
+   "x": 26.26,
+   "y": 58.56,
+   "w": 22.86,
+   "h": 17.66
+  },
+  {
+   "k": "art",
+   "x": 49.97,
+   "y": 58.75,
+   "w": 22.99,
+   "h": 17.71
+  },
+  {
+   "k": "art",
+   "x": 73.87,
+   "y": 58.95,
+   "w": 23.58,
+   "h": 17.85
+  },
+  {
+   "k": "art",
+   "x": 26.0,
+   "y": 77.15,
+   "w": 22.93,
+   "h": 17.8
+  },
+  {
+   "k": "art",
+   "x": 49.71,
+   "y": 77.4,
+   "w": 23.12,
+   "h": 17.9
+  },
+  {
+   "k": "art",
+   "x": 73.74,
+   "y": 77.79,
+   "w": 23.64,
+   "h": 17.95
+  },
+  {
+   "k": "txt",
+   "x": 2.02,
+   "y": 96.79,
+   "w": 6.0,
+   "size": 1.32,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "84"
+  }
+ ]
+}

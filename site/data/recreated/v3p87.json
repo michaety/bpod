@@ -1,0 +1,102 @@
+{
+ "v": 3,
+ "p": 87,
+ "bg": "#87867f",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.03,
+   "y": 3.0,
+   "w": 30.14,
+   "h": 22.48
+  },
+  {
+   "k": "art",
+   "x": 3.03,
+   "y": 27.2,
+   "w": 30.14,
+   "h": 22.43
+  },
+  {
+   "k": "art",
+   "x": 3.03,
+   "y": 51.4,
+   "w": 30.14,
+   "h": 22.43
+  },
+  {
+   "k": "art",
+   "x": 35.4,
+   "y": 3.0,
+   "w": 62.65,
+   "h": 69.05
+  },
+  {
+   "k": "txt",
+   "x": 3.1,
+   "y": 75.54,
+   "w": 30.14,
+   "size": 1.32,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The above photographs show the working method for large-format compositions."
+   ],
+   "h": 2.22
+  },
+  {
+   "k": "txt",
+   "x": 3.1,
+   "y": 84.98,
+   "w": 30.35,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In the preceding exercises individual studies are worked into a large-format composition that makes a personal statement. During the painting process unexpected, surprising effects are produced that should be included in the compositions. A clear solution often requires the student to repaint an area several times or repeat the entire work."
+   ],
+   "h": 9.38
+  },
+  {
+   "k": "txt",
+   "x": 35.47,
+   "y": 84.98,
+   "w": 30.14,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Through experience the student develops control of the subjective, expressive medium. In further exercises thematic problem solving is directed towards a particular goal. Conceptual oppositions from the senses of touch, hearing, and taste (light-heavy, quiet-active, loud-soft, sweet-bitter) are interpreted in terms of color texture."
+   ],
+   "h": 9.44
+  },
+  {
+   "k": "txt",
+   "x": 67.77,
+   "y": 84.98,
+   "w": 30.14,
+   "size": 1.32,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The examples here and on the following two pages show various compositions with differentiated structures and repainted overlapping textures."
+   ],
+   "h": 4.49
+  },
+  {
+   "k": "txt",
+   "x": 91.97,
+   "y": 95.87,
+   "w": 6.0,
+   "size": 1.32,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "85"
+  }
+ ]
+}

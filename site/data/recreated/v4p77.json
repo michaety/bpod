@@ -1,0 +1,117 @@
+{
+ "v": 4,
+ "p": 77,
+ "bg": "#eaeae1",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.82,
+   "y": 2.48,
+   "w": 31.28,
+   "size": 1.45,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In the first three-dimensional investigation hand and fingers as well as energy are utilized with the elastic material clay. Many hand-finger positions are discovered through playful observation. They are used instead of tools to imprint the form. Tension, pressure, and torsion movements make visible many possibilities of shifting or deforming the raw material. A clearly organized, rhythmic surface structure of concave and convex forms is achieved from one of these spontaneous possibilities with organic formal elements. The contrasting dimensional effect of the counterform becomes visible by casting the object in plaster, lead, or some other material. Creative possibilities of expression in the selection of raw materials are experienced through the extreme change of material.",
+    "In a further part of the exercise appropriate objects (tools as opposed to manual manipulation) are chosen and used as stamps; contrasting geometric elements with organic relationships result from the rhythmic deformation process."
+   ],
+   "h": 27.8
+  },
+  {
+   "k": "art",
+   "x": 51.15,
+   "y": 2.88,
+   "w": 22.43,
+   "h": 17.39
+  },
+  {
+   "k": "art",
+   "x": 75.02,
+   "y": 2.88,
+   "w": 22.43,
+   "h": 17.39
+  },
+  {
+   "k": "art",
+   "x": 51.41,
+   "y": 21.66,
+   "w": 22.43,
+   "h": 16.99
+  },
+  {
+   "k": "art",
+   "x": 75.15,
+   "y": 21.66,
+   "w": 22.43,
+   "h": 16.99
+  },
+  {
+   "k": "art",
+   "x": 51.67,
+   "y": 40.04,
+   "w": 22.43,
+   "h": 17.09
+  },
+  {
+   "k": "art",
+   "x": 75.34,
+   "y": 40.04,
+   "w": 22.43,
+   "h": 17.09
+  },
+  {
+   "k": "art",
+   "x": 52.0,
+   "y": 58.52,
+   "w": 22.43,
+   "h": 17.14
+  },
+  {
+   "k": "art",
+   "x": 75.61,
+   "y": 58.52,
+   "w": 22.43,
+   "h": 17.14
+  },
+  {
+   "k": "art",
+   "x": 51.93,
+   "y": 77.1,
+   "w": 22.56,
+   "h": 17.39
+  },
+  {
+   "k": "art",
+   "x": 75.8,
+   "y": 76.8,
+   "w": 22.43,
+   "h": 17.44
+  },
+  {
+   "k": "txt",
+   "x": 3.61,
+   "y": 90.86,
+   "w": 29.9,
+   "size": 1.45,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The following photographs show the first deformation investigations, the formal elements resulting from different hand-finger positions, and the use of tools as stamps."
+   ],
+   "h": 5.11
+  },
+  {
+   "k": "txt",
+   "x": 92.36,
+   "y": 96.08,
+   "w": 6.0,
+   "size": 1.28,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "75"
+  }
+ ]
+}

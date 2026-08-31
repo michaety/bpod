@@ -1,0 +1,60 @@
+{
+ "v": 3,
+ "p": 92,
+ "bg": "#7c7b75",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.39,
+   "y": 2.79,
+   "w": 95.03,
+   "h": 57.03
+  },
+  {
+   "k": "txt",
+   "x": 2.67,
+   "y": 66.26,
+   "w": 30.4,
+   "size": 1.44,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The photographs below show how to stretch the paper on the drawing board to prepare the painting surface."
+   ],
+   "h": 3.47
+  },
+  {
+   "k": "art",
+   "x": 2.38,
+   "y": 71.09,
+   "w": 30.06,
+   "h": 22.53
+  },
+  {
+   "k": "art",
+   "x": 34.75,
+   "y": 71.41,
+   "w": 30.21,
+   "h": 22.48
+  },
+  {
+   "k": "art",
+   "x": 67.05,
+   "y": 71.89,
+   "w": 30.14,
+   "h": 22.32
+  },
+  {
+   "k": "txt",
+   "x": 1.92,
+   "y": 95.28,
+   "w": 6.0,
+   "size": 1.4,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "90"
+  }
+ ]
+}

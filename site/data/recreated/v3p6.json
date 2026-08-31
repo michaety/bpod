@@ -121,7 +121,20 @@
     "Molly Millars Lane",
     "Wokingham, Berkshire, England",
     "16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1",
-    "Library of Congress Cataloging in Publication",
+    "Library of Congress Cataloging in Publication"
+   ],
+   "h": 5.8
+  },
+  {
+   "k": "txt",
+   "x": 35.11,
+   "y": 60.3,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
     "Data",
     "Maier, Manfred",
     "Basic principles of design.",
@@ -134,7 +147,7 @@
     "ISBN 0-442-24979-9 (v. 3)",
     "ISBN 0-442-24980-2 (v. 4)"
    ],
-   "h": 5.8
+   "h": 3.3
   }
  ]
 }

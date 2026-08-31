@@ -1,0 +1,74 @@
+{
+ "v": 3,
+ "p": 68,
+ "bg": "#7e7d75",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.88,
+   "y": 3.33,
+   "w": 62.73,
+   "h": 46.89
+  },
+  {
+   "k": "art",
+   "x": 67.84,
+   "y": 3.33,
+   "w": 30.14,
+   "h": 22.59
+  },
+  {
+   "k": "art",
+   "x": 67.91,
+   "y": 27.52,
+   "w": 30.06,
+   "h": 22.64
+  },
+  {
+   "k": "art",
+   "x": 67.77,
+   "y": 51.72,
+   "w": 30.21,
+   "h": 22.53
+  },
+  {
+   "k": "txt",
+   "x": 35.33,
+   "y": 86.43,
+   "w": 29.06,
+   "size": 1.32,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "This rhythmic, colorful composition consists of variations on linking and looping in different materials."
+   ],
+   "h": 3.81
+  },
+  {
+   "k": "txt",
+   "x": 67.84,
+   "y": 86.43,
+   "w": 29.78,
+   "size": 1.32,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The three examples show different ways to organize compositions: above, many densities are formed by varying the looping technique with a single material; center, veneered strips act as a passive foundation element for looped threads; below, different textures are created by looping numerous materials."
+   ],
+   "h": 8.19
+  },
+  {
+   "k": "txt",
+   "x": 3.24,
+   "y": 96.19,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "66"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "v": 3,
+ "p": 74,
+ "bg": "#807f78",
+ "el": [
+  {
+   "k": "art",
+   "x": 4.54,
+   "y": 3.65,
+   "w": 56.24,
+   "h": 90.5
+  },
+  {
+   "k": "txt",
+   "x": 63.95,
+   "y": 90.72,
+   "w": 28.3,
+   "size": 1.37,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Free soumak is created by varying the weft-wrapping order, adding open spaces, and partially exposing the warp."
+   ],
+   "h": 3.53
+  },
+  {
+   "k": "txt",
+   "x": 4.83,
+   "y": 96.62,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "72"
+  }
+ ]
+}

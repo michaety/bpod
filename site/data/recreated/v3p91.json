@@ -1,0 +1,60 @@
+{
+ "v": 3,
+ "p": 91,
+ "bg": "#888882",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.67,
+   "y": 3.06,
+   "w": 30.14,
+   "h": 22.53
+  },
+  {
+   "k": "art",
+   "x": 2.81,
+   "y": 27.31,
+   "w": 30.14,
+   "h": 22.37
+  },
+  {
+   "k": "art",
+   "x": 35.11,
+   "y": 2.95,
+   "w": 60.56,
+   "h": 44.37
+  },
+  {
+   "k": "art",
+   "x": 35.26,
+   "y": 49.3,
+   "w": 62.58,
+   "h": 44.48
+  },
+  {
+   "k": "txt",
+   "x": 3.39,
+   "y": 90.77,
+   "w": 29.2,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "On the right and on following page are shown different large-format compositions with combined and expressive forms."
+   ],
+   "h": 3.47
+  },
+  {
+   "k": "txt",
+   "x": 96.97,
+   "y": 95.6,
+   "w": 3.0,
+   "size": 1.32,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "89"
+  }
+ ]
+}

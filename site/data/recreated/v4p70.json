@@ -1,0 +1,123 @@
+{
+ "v": 4,
+ "p": 70,
+ "bg": "#edede5",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.57,
+   "y": 3.3,
+   "w": 22.99,
+   "h": 17.22
+  },
+  {
+   "k": "txt",
+   "x": 2.96,
+   "y": 58.42,
+   "w": 30.9,
+   "size": 1.4,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The experience and knowledge gained from the preceding model exercise is applied to the following exercise in a different medium and technique. The starting point is a square format and ten lines of the same thickness separated by predetermined regular intervals. At first the group of lines is composed horizontally to form a gray value inside the format. Beginning with this situation, rows of five or more pieces are developed in a continuous progression of creative and formal relationships. The design and differentiation processes, previously structured in single phases, now proceed in a parallel fashion: that is, in mutually simultaneous relationships. Designing with ruling pen, ink, T-square, and angles requires technical skill, discipline, and concentration in order to achieve a clear, neat representation. Any creative or manual insecurity has an immediate effect in the representation: one a line is drawn on the paper, it cannot be shifted. A change or correction can be made only by repeating the work."
+   ],
+   "h": 27.28
+  },
+  {
+   "k": "txt",
+   "x": 3.03,
+   "y": 90.11,
+   "w": 30.83,
+   "size": 1.4,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The rows on the right show many-leveled designs and working processes of five students. The group of lines organized in the square, above, is the beginning point for the second row."
+   ],
+   "h": 4.8
+  },
+  {
+   "k": "art",
+   "x": 50.26,
+   "y": 2.61,
+   "w": 23.39,
+   "h": 17.47
+  },
+  {
+   "k": "art",
+   "x": 74.57,
+   "y": 2.26,
+   "w": 23.72,
+   "h": 17.52
+  },
+  {
+   "k": "art",
+   "x": 50.53,
+   "y": 21.16,
+   "w": 23.32,
+   "h": 17.47
+  },
+  {
+   "k": "art",
+   "x": 74.7,
+   "y": 20.87,
+   "w": 23.65,
+   "h": 17.62
+  },
+  {
+   "k": "art",
+   "x": 50.53,
+   "y": 39.76,
+   "w": 23.45,
+   "h": 17.37
+  },
+  {
+   "k": "art",
+   "x": 74.83,
+   "y": 39.57,
+   "w": 23.72,
+   "h": 17.57
+  },
+  {
+   "k": "art",
+   "x": 50.72,
+   "y": 58.27,
+   "w": 23.45,
+   "h": 17.52
+  },
+  {
+   "k": "art",
+   "x": 75.23,
+   "y": 58.17,
+   "w": 23.52,
+   "h": 17.62
+  },
+  {
+   "k": "art",
+   "x": 50.86,
+   "y": 76.77,
+   "w": 23.52,
+   "h": 17.77
+  },
+  {
+   "k": "art",
+   "x": 75.36,
+   "y": 76.87,
+   "w": 23.78,
+   "h": 17.81
+  },
+  {
+   "k": "txt",
+   "x": 3.1,
+   "y": 96.85,
+   "w": 4.5,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "68"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "v": 3,
+ "p": 77,
+ "bg": "#888882",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.31,
+   "y": 3.06,
+   "w": 30.7,
+   "size": 1.42,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In the first exercises opaque techniques are used with tempera (gouache or poster paint), and elementary creative possibilities are expressively worked. At the beginning students learn to apply the paint correctly to a ground divided into squares. Skillful application involves the following prerequisites: the relationship of the paint to the diluting agent (water) produces the opacity of the color; the constituents of mixed colors must be thoroughly stirred; before applying the paint the quantity must be measured properly; the ground surface must correspond to the nature of the paint; brushes must correspond in quality and size to the consistency of the paint and the prepared surface."
+   ],
+   "h": 18.37
+  },
+  {
+   "k": "art",
+   "x": 36.55,
+   "y": 2.95,
+   "w": 60.78,
+   "h": 33.26
+  },
+  {
+   "k": "txt",
+   "x": 2.38,
+   "y": 32.03,
+   "w": 30.7,
+   "size": 1.38,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In the examples painted squares are cut out, grouped together, and glued into simple compositions. Above, light and dark colors are contrasted; below, colors of equal value are used."
+   ],
+   "h": 4.66
+  },
+  {
+   "k": "art",
+   "x": 36.63,
+   "y": 48.44,
+   "w": 60.71,
+   "h": 45.23
+  },
+  {
+   "k": "txt",
+   "x": 92.76,
+   "y": 95.76,
+   "w": 4.5,
+   "size": 1.35,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "75"
+  }
+ ]
+}

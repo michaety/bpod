@@ -1,0 +1,116 @@
+{
+ "v": 4,
+ "p": 91,
+ "bg": "#ebeae3",
+ "el": [
+  {
+   "k": "txt",
+   "x": 3.41,
+   "y": 3.14,
+   "w": 31.34,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The hand, used in the preceding exercises as an elementary tool, here serves directly as a mold. By opening and closing the hand volume changes are created. Corresponding to the movement, they can be formed differently and gradually differentiated. By observing playful hand movements various volumetric forms are discovered, fixed, and made dimensionally visible by means of plaster casts. These movement phases are dimensionally visible: the inherent physical change of plaster, such as fluid-hard or cool-warm, is directly felt. Bizarre appearing forms are achieved, from one of which a defined deformation field (form element) is established. A progressive-regressive addition of forms is structured to correspond to this form element and to retain a constant deformation character. Producing the pieces requires concentrated observation and constant comparison. The parts corresponding to the deformation field are cut, compared, and joined into the desired formation, reinforced, and cast with plaster from behind at different heights. As in the preceding exercise, a polyester positive is made of the plaster model by means of a silicone negative."
+   ],
+   "h": 31.71
+  },
+  {
+   "k": "art",
+   "x": 51.99,
+   "y": 4.62,
+   "w": 22.62,
+   "h": 17.29
+  },
+  {
+   "k": "art",
+   "x": 75.54,
+   "y": 5.11,
+   "w": 22.62,
+   "h": 17.14
+  },
+  {
+   "k": "art",
+   "x": 51.8,
+   "y": 22.94,
+   "w": 22.56,
+   "h": 17.19
+  },
+  {
+   "k": "art",
+   "x": 75.21,
+   "y": 23.38,
+   "w": 22.75,
+   "h": 17.09
+  },
+  {
+   "k": "art",
+   "x": 51.48,
+   "y": 41.11,
+   "w": 22.62,
+   "h": 17.29
+  },
+  {
+   "k": "art",
+   "x": 74.89,
+   "y": 41.36,
+   "w": 22.62,
+   "h": 17.29
+  },
+  {
+   "k": "art",
+   "x": 51.21,
+   "y": 59.33,
+   "w": 22.56,
+   "h": 17.39
+  },
+  {
+   "k": "art",
+   "x": 74.69,
+   "y": 59.53,
+   "w": 22.49,
+   "h": 17.09
+  },
+  {
+   "k": "art",
+   "x": 50.89,
+   "y": 77.6,
+   "w": 22.62,
+   "h": 17.49
+  },
+  {
+   "k": "art",
+   "x": 74.36,
+   "y": 77.75,
+   "w": 22.56,
+   "h": 17.09
+  },
+  {
+   "k": "txt",
+   "x": 2.16,
+   "y": 92.19,
+   "w": 29.9,
+   "size": 1.32,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The following photographs show gradual, differentiated, volumetric changes created by closing the hand."
+   ],
+   "h": 3.54
+  },
+  {
+   "k": "txt",
+   "x": 95.15,
+   "y": 97.3,
+   "w": 4.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "89"
+  }
+ ]
+}

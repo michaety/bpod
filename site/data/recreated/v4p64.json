@@ -1,0 +1,109 @@
+{
+ "v": 4,
+ "p": 64,
+ "bg": "#edebe4",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.02,
+   "y": 3.58,
+   "w": 29.84,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "As with the second student's variations for the second phase of the exercise, some pieces of the third student's do not correspond to the selected theme: all pieces with shifted, obliquely placed formal elements are variations of another possible solution. All the examples are subtly varied rhythmically: below is shown the corresponding scheme and the position of the selected row for the fourth phase of the exercise."
+   ],
+   "h": 11.02
+  },
+  {
+   "k": "art",
+   "x": 49.22,
+   "y": 2.99,
+   "w": 22.89,
+   "h": 17.61
+  },
+  {
+   "k": "art",
+   "x": 73.34,
+   "y": 2.65,
+   "w": 23.15,
+   "h": 17.75
+  },
+  {
+   "k": "art",
+   "x": 49.41,
+   "y": 21.53,
+   "w": 22.82,
+   "h": 17.46
+  },
+  {
+   "k": "art",
+   "x": 73.34,
+   "y": 21.28,
+   "w": 23.28,
+   "h": 17.56
+  },
+  {
+   "k": "art",
+   "x": 49.54,
+   "y": 40.02,
+   "w": 22.89,
+   "h": 17.31
+  },
+  {
+   "k": "art",
+   "x": 73.41,
+   "y": 39.97,
+   "w": 23.34,
+   "h": 17.41
+  },
+  {
+   "k": "art",
+   "x": 49.61,
+   "y": 58.56,
+   "w": 23.02,
+   "h": 17.31
+  },
+  {
+   "k": "art",
+   "x": 73.54,
+   "y": 58.51,
+   "w": 23.41,
+   "h": 17.51
+  },
+  {
+   "k": "art",
+   "x": 49.8,
+   "y": 77.1,
+   "w": 23.08,
+   "h": 17.51
+  },
+  {
+   "k": "art",
+   "x": 73.8,
+   "y": 77.15,
+   "w": 23.47,
+   "h": 17.61
+  },
+  {
+   "k": "art",
+   "x": 2.41,
+   "y": 73.52,
+   "w": 35.37,
+   "h": 20.7
+  },
+  {
+   "k": "txt",
+   "x": 2.47,
+   "y": 96.76,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "62"
+  }
+ ]
+}

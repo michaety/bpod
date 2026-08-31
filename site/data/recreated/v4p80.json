@@ -1,0 +1,123 @@
+{
+ "v": 4,
+ "p": 80,
+ "bg": "#ecebe4",
+ "el": [
+  {
+   "k": "txt",
+   "x": 3.36,
+   "y": 3.4,
+   "w": 29.5,
+   "size": 1.34,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The photographs show, from left to right, four different tools used as stamps. On the extreme right of the second and fourth rows the actual counterforms appear in plaster. The bottom row documents lead casting."
+   ],
+   "h": 6.0
+  },
+  {
+   "k": "art",
+   "x": 51.47,
+   "y": 2.85,
+   "w": 23.23,
+   "h": 18.05
+  },
+  {
+   "k": "art",
+   "x": 75.64,
+   "y": 2.85,
+   "w": 23.23,
+   "h": 18.05
+  },
+  {
+   "k": "art",
+   "x": 51.47,
+   "y": 21.6,
+   "w": 23.23,
+   "h": 17.95
+  },
+  {
+   "k": "art",
+   "x": 75.64,
+   "y": 21.6,
+   "w": 23.23,
+   "h": 17.95
+  },
+  {
+   "k": "art",
+   "x": 3.15,
+   "y": 40.25,
+   "w": 23.23,
+   "h": 17.9
+  },
+  {
+   "k": "art",
+   "x": 27.31,
+   "y": 40.25,
+   "w": 23.23,
+   "h": 17.9
+  },
+  {
+   "k": "art",
+   "x": 51.47,
+   "y": 40.25,
+   "w": 23.23,
+   "h": 17.9
+  },
+  {
+   "k": "art",
+   "x": 75.64,
+   "y": 40.25,
+   "w": 23.23,
+   "h": 17.9
+  },
+  {
+   "k": "art",
+   "x": 51.47,
+   "y": 59.0,
+   "w": 23.23,
+   "h": 19.4
+  },
+  {
+   "k": "art",
+   "x": 75.64,
+   "y": 59.0,
+   "w": 23.23,
+   "h": 19.4
+  },
+  {
+   "k": "art",
+   "x": 27.31,
+   "y": 79.15,
+   "w": 23.23,
+   "h": 18.1
+  },
+  {
+   "k": "art",
+   "x": 51.47,
+   "y": 79.15,
+   "w": 23.23,
+   "h": 18.1
+  },
+  {
+   "k": "art",
+   "x": 75.64,
+   "y": 79.15,
+   "w": 23.23,
+   "h": 18.1
+  },
+  {
+   "k": "txt",
+   "x": 2.25,
+   "y": 97.75,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "78"
+  }
+ ]
+}

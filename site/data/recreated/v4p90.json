@@ -1,0 +1,67 @@
+{
+ "v": 4,
+ "p": 90,
+ "bg": "#edebe4",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.22,
+   "y": 3.46,
+   "w": 29.72,
+   "size": 1.36,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The work of five students documents differences in deformation, dimensional progressive-regressive intensification, and different expressions of structure through the change of material."
+   ],
+   "h": 5.03
+  },
+  {
+   "k": "art",
+   "x": 39.32,
+   "y": 1.83,
+   "w": 58.13,
+   "h": 19.04
+  },
+  {
+   "k": "art",
+   "x": 55.39,
+   "y": 20.92,
+   "w": 42.19,
+   "h": 18.3
+  },
+  {
+   "k": "art",
+   "x": 9.86,
+   "y": 39.66,
+   "w": 88.31,
+   "h": 18.59
+  },
+  {
+   "k": "art",
+   "x": 3.33,
+   "y": 58.41,
+   "w": 95.17,
+   "h": 18.4
+  },
+  {
+   "k": "art",
+   "x": 3.72,
+   "y": 77.35,
+   "w": 83.15,
+   "h": 17.95
+  },
+  {
+   "k": "txt",
+   "x": 3.79,
+   "y": 97.43,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "88"
+  }
+ ]
+}

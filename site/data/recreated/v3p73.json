@@ -1,0 +1,74 @@
+{
+ "v": 3,
+ "p": 73,
+ "bg": "#888781",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.59,
+   "y": 3.11,
+   "w": 30.06,
+   "h": 22.48
+  },
+  {
+   "k": "art",
+   "x": 33.96,
+   "y": 3.11,
+   "w": 62.51,
+   "h": 46.62
+  },
+  {
+   "k": "art",
+   "x": 3.24,
+   "y": 27.31,
+   "w": 27.76,
+   "h": 22.48
+  },
+  {
+   "k": "txt",
+   "x": 1.66,
+   "y": 51.5,
+   "w": 30.28,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Three examples of soumak utilize different stitch lengths: above left, loosely spun wick yarn; below left, diverse materials; right, contrasting materials and a visible passive warp."
+   ],
+   "h": 4.66
+  },
+  {
+   "k": "art",
+   "x": 1.66,
+   "y": 71.41,
+   "w": 30.14,
+   "h": 22.42
+  },
+  {
+   "k": "art",
+   "x": 34.03,
+   "y": 71.41,
+   "w": 30.14,
+   "h": 22.42
+  },
+  {
+   "k": "art",
+   "x": 66.4,
+   "y": 71.41,
+   "w": 30.06,
+   "h": 22.42
+  },
+  {
+   "k": "txt",
+   "x": 90.5,
+   "y": 95.76,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "71"
+  }
+ ]
+}

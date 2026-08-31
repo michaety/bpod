@@ -1,0 +1,88 @@
+{
+ "v": 3,
+ "p": 90,
+ "bg": "#7f7e78",
+ "el": [
+  {
+   "k": "art",
+   "x": 4.18,
+   "y": 3.27,
+   "w": 30.21,
+   "h": 22.64
+  },
+  {
+   "k": "art",
+   "x": 37.06,
+   "y": 3.27,
+   "w": 29.85,
+   "h": 22.64
+  },
+  {
+   "k": "art",
+   "x": 69.14,
+   "y": 3.27,
+   "w": 30.06,
+   "h": 22.64
+  },
+  {
+   "k": "art",
+   "x": 4.18,
+   "y": 27.63,
+   "w": 30.21,
+   "h": 22.53
+  },
+  {
+   "k": "art",
+   "x": 37.06,
+   "y": 27.63,
+   "w": 29.85,
+   "h": 22.53
+  },
+  {
+   "k": "art",
+   "x": 69.14,
+   "y": 27.63,
+   "w": 30.06,
+   "h": 22.53
+  },
+  {
+   "k": "txt",
+   "x": 4.04,
+   "y": 71.24,
+   "w": 30.43,
+   "size": 1.42,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In contrast to heavy, opaque tempera color, the transparent glazes of aquarelle have a light, floating quality. In the following exercises the creative possibilities of aquarelle color and glazing techniques are examined. A transparent glaze of aquarelle color is spontaneously applied to the appropriate painting surface with a soft hair brush. Light tones are not mixed with white, but they become luminous as the translucent white of the paper shows through the diluted paint. In the glazing technique tones are formed in layers from light to dark. Light sections must be retained in the painting process. New color possibilities are produced by overlapping many glazed layers. Corrections are possible only by adding new glazes. In advanced exercises an aquarelle work is translated into the opaque tempera technique. This requires a specific, sensitive understanding of the possibilities and limitations of the two techniques."
+   ],
+   "h": 24.19
+  },
+  {
+   "k": "txt",
+   "x": 36.48,
+   "y": 71.24,
+   "w": 29.78,
+   "size": 1.42,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The eight studies above show different possibilities of the glazing technique: glazing on dry and wet grounds, overlapping a dried glaze with further glazes; painting over wet glazes so that the color surfaces flow into one another."
+   ],
+   "h": 5.74
+  },
+  {
+   "k": "txt",
+   "x": 4.18,
+   "y": 96.03,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "88"
+  }
+ ]
+}

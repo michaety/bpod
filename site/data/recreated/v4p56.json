@@ -1,0 +1,123 @@
+{
+ "v": 4,
+ "p": 56,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.81,
+   "y": 3.36,
+   "w": 29.25,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The following solution possibilities, developed by another student, exhibit a different method than that of the student discussed earlier. For example, different combinations of tearing, folding, and flipping are found. The first, third, and fourth examples in the above row do not exhibit a clear concept and are essentially compositions of different opposing strip elements. In both examples on the far right the formal model chosen for variations is the oblique cutting and removal of the resulting elements."
+   ],
+   "h": 13.3
+  },
+  {
+   "k": "art",
+   "x": 48.91,
+   "y": 2.97,
+   "w": 22.73,
+   "h": 17.41
+  },
+  {
+   "k": "art",
+   "x": 72.22,
+   "y": 2.97,
+   "w": 23.24,
+   "h": 17.41
+  },
+  {
+   "k": "art",
+   "x": 48.91,
+   "y": 21.45,
+   "w": 22.73,
+   "h": 17.32
+  },
+  {
+   "k": "art",
+   "x": 72.22,
+   "y": 21.45,
+   "w": 23.24,
+   "h": 17.32
+  },
+  {
+   "k": "art",
+   "x": 48.91,
+   "y": 39.83,
+   "w": 22.73,
+   "h": 17.32
+  },
+  {
+   "k": "art",
+   "x": 72.22,
+   "y": 39.83,
+   "w": 23.24,
+   "h": 17.32
+  },
+  {
+   "k": "art",
+   "x": 48.91,
+   "y": 58.12,
+   "w": 22.73,
+   "h": 17.46
+  },
+  {
+   "k": "art",
+   "x": 72.22,
+   "y": 58.12,
+   "w": 23.24,
+   "h": 17.46
+  },
+  {
+   "k": "txt",
+   "x": 2.36,
+   "y": 71.6,
+   "w": 28.29,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In these three photographs the working technique is obvious, as is the student's neatness of execution."
+   ],
+   "h": 3.25
+  },
+  {
+   "k": "art",
+   "x": 2.24,
+   "y": 76.31,
+   "w": 22.35,
+   "h": 17.56
+  },
+  {
+   "k": "art",
+   "x": 25.42,
+   "y": 76.31,
+   "w": 22.41,
+   "h": 17.56
+  },
+  {
+   "k": "art",
+   "x": 48.66,
+   "y": 76.31,
+   "w": 22.6,
+   "h": 17.56
+  },
+  {
+   "k": "txt",
+   "x": 2.17,
+   "y": 95.62,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "54"
+  }
+ ]
+}

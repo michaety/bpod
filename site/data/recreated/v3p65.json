@@ -1,0 +1,102 @@
+{
+ "v": 3,
+ "p": 65,
+ "bg": "#88877f",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.75,
+   "y": 3.11,
+   "w": 62.73,
+   "h": 46.78
+  },
+  {
+   "k": "art",
+   "x": 68.78,
+   "y": 3.11,
+   "w": 30.21,
+   "h": 22.48
+  },
+  {
+   "k": "art",
+   "x": 68.78,
+   "y": 27.36,
+   "w": 30.21,
+   "h": 22.48
+  },
+  {
+   "k": "txt",
+   "x": 3.68,
+   "y": 51.5,
+   "w": 30.0,
+   "size": 1.37,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Horizontal-vertical composition in satin stitch in the same direction and various thread material of a selected color area."
+   ],
+   "h": 3.24
+  },
+  {
+   "k": "txt",
+   "x": 68.49,
+   "y": 51.5,
+   "w": 30.0,
+   "size": 1.37,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The small satin-stitch examples show, above, a rhythmical composition structured in diagonals; below, a checkered structure layered in different densities."
+   ],
+   "h": 4.55
+  },
+  {
+   "k": "txt",
+   "x": 3.68,
+   "y": 66.68,
+   "w": 29.5,
+   "size": 1.37,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The three photographs show, from left to right, different stitching techniques on net: running stitch, backstitch, and free stitching."
+   ],
+   "h": 3.53
+  },
+  {
+   "k": "art",
+   "x": 3.68,
+   "y": 71.51,
+   "w": 30.06,
+   "h": 22.37
+  },
+  {
+   "k": "art",
+   "x": 36.12,
+   "y": 71.51,
+   "w": 30.06,
+   "h": 22.37
+  },
+  {
+   "k": "art",
+   "x": 68.49,
+   "y": 71.51,
+   "w": 30.06,
+   "h": 22.37
+  },
+  {
+   "k": "txt",
+   "x": 94.0,
+   "y": 95.87,
+   "w": 4.6,
+   "size": 1.35,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "63"
+  }
+ ]
+}

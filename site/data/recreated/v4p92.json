@@ -1,0 +1,123 @@
+{
+ "v": 4,
+ "p": 92,
+ "bg": "#ecebe4",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.09,
+   "y": 3.91,
+   "w": 29.98,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The photographs here and on the following page show, from left to right and top to bottom: different positions dimensionally fixed by means of plaster casting; various raw forms possible use in a differentiated, gradated structure; fixing and cutting the deformation field and comparising it to further form elements; and the desired rhythmically gradated structure, produced by comparing and exchanging form elements."
+   ],
+   "h": 11.27
+  },
+  {
+   "k": "art",
+   "x": 73.61,
+   "y": 2.57,
+   "w": 23.58,
+   "h": 18.05
+  },
+  {
+   "k": "art",
+   "x": 50.1,
+   "y": 21.61,
+   "w": 22.93,
+   "h": 17.9
+  },
+  {
+   "k": "art",
+   "x": 73.87,
+   "y": 21.61,
+   "w": 23.58,
+   "h": 17.9
+  },
+  {
+   "k": "art",
+   "x": 50.23,
+   "y": 40.16,
+   "w": 23.12,
+   "h": 18.0
+  },
+  {
+   "k": "art",
+   "x": 74.0,
+   "y": 40.16,
+   "w": 23.77,
+   "h": 18.0
+  },
+  {
+   "k": "art",
+   "x": 3.2,
+   "y": 58.95,
+   "w": 22.86,
+   "h": 18.05
+  },
+  {
+   "k": "art",
+   "x": 26.91,
+   "y": 58.95,
+   "w": 22.86,
+   "h": 18.05
+  },
+  {
+   "k": "art",
+   "x": 50.49,
+   "y": 58.95,
+   "w": 23.12,
+   "h": 18.05
+  },
+  {
+   "k": "art",
+   "x": 74.33,
+   "y": 58.95,
+   "w": 23.77,
+   "h": 18.05
+  },
+  {
+   "k": "art",
+   "x": 3.4,
+   "y": 77.79,
+   "w": 22.93,
+   "h": 17.9
+  },
+  {
+   "k": "art",
+   "x": 27.04,
+   "y": 77.79,
+   "w": 23.06,
+   "h": 17.9
+  },
+  {
+   "k": "art",
+   "x": 50.75,
+   "y": 77.79,
+   "w": 23.32,
+   "h": 17.9
+  },
+  {
+   "k": "art",
+   "x": 74.72,
+   "y": 77.79,
+   "w": 23.84,
+   "h": 17.9
+  },
+  {
+   "k": "txt",
+   "x": 3.4,
+   "y": 97.97,
+   "w": 4.5,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "90"
+  }
+ ]
+}

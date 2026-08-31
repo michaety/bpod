@@ -1,0 +1,109 @@
+{
+ "v": 4,
+ "p": 40,
+ "bg": "#ebeae2",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.17,
+   "y": 3.95,
+   "w": 29.02,
+   "h": 22.1
+  },
+  {
+   "k": "art",
+   "x": 33.36,
+   "y": 3.1,
+   "w": 29.02,
+   "h": 22.3
+  },
+  {
+   "k": "art",
+   "x": 64.87,
+   "y": 2.8,
+   "w": 30.33,
+   "h": 22.3
+  },
+  {
+   "k": "art",
+   "x": 33.36,
+   "y": 27.2,
+   "w": 29.02,
+   "h": 22.8
+  },
+  {
+   "k": "art",
+   "x": 64.87,
+   "y": 26.85,
+   "w": 30.33,
+   "h": 23.15
+  },
+  {
+   "k": "txt",
+   "x": 2.36,
+   "y": 47.96,
+   "w": 29.4,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The three-part color harmony above is the basis for the examples on these two pages."
+   ],
+   "h": 2.27
+  },
+  {
+   "k": "txt",
+   "x": 2.55,
+   "y": 64.4,
+   "w": 30.7,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Three colors in a clear, proportional relationship form the starting point for this exercise. This three-part color harmony is expanded to five elements by adding two color surfaces. The two new surfaces must be incorporated into the existing groups in such a way that the original divisions are still recognizable. Two of the original color surfaces are reduced in size. By adding supplementary elements the student develops as many new groupings and harmonies as possible from these color and formal differentiated factors. He is not limited in his selection of additional colors. They must be brought in the existing relationships of hue, value, brightness, position, and proportion."
+   ],
+   "h": 18.2
+  },
+  {
+   "k": "txt",
+   "x": 33.78,
+   "y": 64.25,
+   "w": 30.1,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The photographs show the classroom environment. The exercises are completed by the students within the same period of time, but the individual working rhythms of each student can vary widely."
+   ],
+   "h": 5.98
+  },
+  {
+   "k": "art",
+   "x": 34.01,
+   "y": 71.3,
+   "w": 29.55,
+   "h": 25.45
+  },
+  {
+   "k": "art",
+   "x": 65.33,
+   "y": 71.2,
+   "w": 30.2,
+   "h": 25.55
+  },
+  {
+   "k": "txt",
+   "x": 2.95,
+   "y": 96.8,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "38"
+  }
+ ]
+}

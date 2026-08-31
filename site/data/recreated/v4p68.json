@@ -1,0 +1,103 @@
+{
+ "v": 4,
+ "p": 68,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "txt",
+   "x": 3.03,
+   "y": 3.44,
+   "w": 30.5,
+   "size": 1.38,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The examples and methods of the three students for the differentiation process of the fourth phase vary corresponding to their individual abilities. The rows on the right, developed through formally different processes, suggest the latitude of graphic forms that can be generated through differentiation of the exercise model. The different intensities and complexities of relationship (both of intervals among details and of the pieces as a whole) exhibited in these rows are determined by the actual creative concept, the definition of criteria, and their relationship in the organization. The consequent dependence of creative decisions in context to these factors becomes clear to the student through such examples. The unworked areas can be comprehended through analogous references.",
+    "The constant differentiation process exhibited in questioning and comparing examples, defining criteria of the manual-visual working process, recognizing relationships, and coordinating and referring to all factors within comprehensive, elementary prerequisites sensitizes the creative imagination, awareness of complex visual-conceptual design processes of communication, for fundamental thinking and planning in large relationships."
+   ],
+   "h": 34.74
+  },
+  {
+   "k": "art",
+   "x": 50.92,
+   "y": 3.1,
+   "w": 23.19,
+   "h": 17.52
+  },
+  {
+   "k": "art",
+   "x": 75.03,
+   "y": 2.81,
+   "w": 23.78,
+   "h": 17.72
+  },
+  {
+   "k": "art",
+   "x": 50.86,
+   "y": 21.9,
+   "w": 23.12,
+   "h": 17.37
+  },
+  {
+   "k": "art",
+   "x": 74.97,
+   "y": 21.65,
+   "w": 23.58,
+   "h": 17.57
+  },
+  {
+   "k": "art",
+   "x": 50.86,
+   "y": 40.35,
+   "w": 23.06,
+   "h": 17.42
+  },
+  {
+   "k": "art",
+   "x": 74.9,
+   "y": 40.35,
+   "w": 23.58,
+   "h": 17.57
+  },
+  {
+   "k": "art",
+   "x": 50.79,
+   "y": 58.86,
+   "w": 23.19,
+   "h": 17.62
+  },
+  {
+   "k": "art",
+   "x": 74.97,
+   "y": 58.96,
+   "w": 23.52,
+   "h": 17.72
+  },
+  {
+   "k": "art",
+   "x": 50.79,
+   "y": 77.46,
+   "w": 23.25,
+   "h": 17.81
+  },
+  {
+   "k": "art",
+   "x": 75.03,
+   "y": 77.61,
+   "w": 23.52,
+   "h": 17.91
+  },
+  {
+   "k": "txt",
+   "x": 3.1,
+   "y": 96.8,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "66"
+  }
+ ]
+}

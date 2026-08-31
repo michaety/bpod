@@ -1,0 +1,90 @@
+{
+ "v": 3,
+ "p": 96,
+ "bg": "#7b7a74",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.24,
+   "y": 3.06,
+   "w": 95.03,
+   "h": 42.76
+  },
+  {
+   "k": "txt",
+   "x": 35.62,
+   "y": 47.37,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "link": "Material Studies",
+   "paras": [
+    "In the two examples on this double-page spread the material character of the paper rather than color or form is used as the creative means. They demonstrate one of many interrelated disciplines in this course and that on material studies, described in this volume."
+   ],
+   "h": 6.94
+  },
+  {
+   "k": "txt",
+   "x": 68.06,
+   "y": 47.37,
+   "w": 30.2,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The above example utilizes wrapping paper and minimal color differences. The effect of the different paper structures and of the typical character of the material is heightened by tearing the borders of the surfaces.",
+    "In the following example only one kind of paper is used. An insignificant color difference is produced by tearing the contours. The formal structure is recognizable through this border effect."
+   ],
+   "h": 5.74
+  },
+  {
+   "k": "txt",
+   "x": 3.24,
+   "y": 65.56,
+   "w": 30.6,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Below, the completed composition is carefully mounted, a skillful task, since individual pieces often overlap many times and should not be shifted from their designated positions."
+   ],
+   "h": 4.66
+  },
+  {
+   "k": "art",
+   "x": 3.32,
+   "y": 71.4,
+   "w": 30.07,
+   "h": 22.32
+  },
+  {
+   "k": "art",
+   "x": 35.69,
+   "y": 71.4,
+   "w": 30.07,
+   "h": 22.32
+  },
+  {
+   "k": "art",
+   "x": 68.06,
+   "y": 71.4,
+   "w": 30.06,
+   "h": 22.32
+  },
+  {
+   "k": "txt",
+   "x": 3.32,
+   "y": 97.0,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "94"
+  }
+ ]
+}

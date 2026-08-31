@@ -1,0 +1,102 @@
+{
+ "v": 4,
+ "p": 94,
+ "bg": "#edebe4",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.29,
+   "y": 3.26,
+   "w": 29.92,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The parts of the structure are mounted, reinforced on the back with plaster at different heights, and cleaned. The three rows below show how to transform plaster forms in polyester by means of a silicone negative."
+   ],
+   "h": 6.5
+  },
+  {
+   "k": "art",
+   "x": 49.97,
+   "y": 2.42,
+   "w": 22.93,
+   "h": 17.8
+  },
+  {
+   "k": "art",
+   "x": 73.68,
+   "y": 1.88,
+   "w": 23.51,
+   "h": 18.0
+  },
+  {
+   "k": "art",
+   "x": 74.07,
+   "y": 20.62,
+   "w": 23.38,
+   "h": 17.95
+  },
+  {
+   "k": "art",
+   "x": 26.85,
+   "y": 40.01,
+   "w": 22.73,
+   "h": 17.56
+  },
+  {
+   "k": "art",
+   "x": 50.42,
+   "y": 39.76,
+   "w": 22.99,
+   "h": 17.66
+  },
+  {
+   "k": "art",
+   "x": 74.27,
+   "y": 39.42,
+   "w": 23.51,
+   "h": 17.85
+  },
+  {
+   "k": "art",
+   "x": 3.66,
+   "y": 77.3,
+   "w": 22.79,
+   "h": 17.61
+  },
+  {
+   "k": "art",
+   "x": 28.09,
+   "y": 77.2,
+   "w": 22.27,
+   "h": 17.71
+  },
+  {
+   "k": "art",
+   "x": 51.14,
+   "y": 77.1,
+   "w": 22.93,
+   "h": 17.8
+  },
+  {
+   "k": "art",
+   "x": 75.05,
+   "y": 77.05,
+   "w": 23.51,
+   "h": 17.85
+  },
+  {
+   "k": "txt",
+   "x": 3.72,
+   "y": 97.28,
+   "w": 6.0,
+   "size": 1.32,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "92"
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "v": 4,
+ "p": 14,
+ "bg": "#edece4",
+ "el": [
+  {
+   "k": "txt",
+   "x": 1.21,
+   "y": 4.0,
+   "w": 29.69,
+   "size": 1.38,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The refinement of color recognition is the goal of this exercise. This is accomplished by defining the criteria in the working process. A square divided in half serves as the format. Two opposing colors are placed next to each other and the most different contrast should be found. Each student paints approximately 30 to 40 squares and cuts them out. Using these examples as a basis, the characteristics of different colors are discussed with the students. Most students agree on some color contrasts (i.e., light-dark) while other pairs are judged more subjectively (i.e., warm-cold). Three color qualities—hue, value, and brightness—allow a precise description of the reciprocal relationships between two colors, and are used to analyze the painted examples. Other subjective criteria are not considered in this exercise.",
+    "The color wheel is studied to explain the hue contrast of colors. A graduated row of grays progressing from white to black is the model for value contrast. A color model is explained in which the three criteria are visible in three-dimensional form.",
+    "The student analyzes his exercises and asks the following questions about each color pair: in comparison to the color wheel is there a difference of hue, or is one of the colors more red, yellow, or blue than the other; is one of the colors brighter than the other? Different pairs are thus found to have corresponding characteristics. In doubtful cases the teacher suggests choices and comparisons. In organizing the color squares it is obvious that different degrees of clarity are present in individual groups. Missing areas are filled and unclear examples eliminated or corrected until a few clear examples are present from each contrast possibility. The examples are arranged in groups and glued on white cardboard. The examples here and on the following two pages show color pairs arranged according to the analyzed criteria."
+   ],
+   "h": 51.68
+  },
+  {
+   "k": "art",
+   "x": 32.69,
+   "y": 3.81,
+   "w": 29.5,
+   "h": 22.4
+  },
+  {
+   "k": "art",
+   "x": 64.3,
+   "y": 3.27,
+   "w": 29.82,
+   "h": 22.69
+  },
+  {
+   "k": "art",
+   "x": 32.89,
+   "y": 27.87,
+   "w": 29.37,
+   "h": 22.5
+  },
+  {
+   "k": "art",
+   "x": 64.43,
+   "y": 27.57,
+   "w": 29.69,
+   "h": 22.69
+  },
+  {
+   "k": "art",
+   "x": 64.56,
+   "y": 51.88,
+   "w": 29.82,
+   "h": 22.64
+  },
+  {
+   "k": "txt",
+   "x": 33.21,
+   "y": 88.09,
+   "w": 29.2,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The above example shows minimal difference in hue: the left-hand color is slightly yellower than the right. Value and brightness are the same for each. The example below exhibits strong hue contrast between red and green. Value and brightness are the same."
+   ],
+   "h": 7.19
+  },
+  {
+   "k": "txt",
+   "x": 64.88,
+   "y": 88.19,
+   "w": 29.2,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The three color pairs show the contrast of hue between red-green on various brightness levels."
+   ],
+   "h": 2.38
+  },
+  {
+   "k": "txt",
+   "x": 2.04,
+   "y": 96.58,
+   "w": 6.0,
+   "size": 1.2,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "12"
+  }
+ ]
+}

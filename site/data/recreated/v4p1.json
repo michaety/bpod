@@ -1,0 +1,178 @@
+{
+ "v": 4,
+ "p": 1,
+ "bg": "#eadcb4",
+ "el": [
+  {
+   "k": "txt",
+   "x": 6.14,
+   "y": 3.85,
+   "w": 20.0,
+   "size": 1.7,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Manfred Maier"
+  },
+  {
+   "k": "txt",
+   "x": 38.0,
+   "y": 4.26,
+   "w": 59.0,
+   "size": 1.7,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The Foundation Program at the School of Design",
+    "Basel, Switzerland"
+   ],
+   "h": 2.8
+  },
+  {
+   "k": "txt",
+   "x": 74.0,
+   "y": 9.0,
+   "w": 23.7,
+   "size": 32.0,
+   "style": "title",
+   "align": "right",
+   "weight": "bold",
+   "text": "4"
+  },
+  {
+   "k": "txt",
+   "x": 37.7,
+   "y": 21.4,
+   "w": 40.0,
+   "size": 4.0,
+   "style": "title",
+   "align": "left",
+   "weight": "bold",
+   "text": "Basic Principles of Design"
+  },
+  {
+   "k": "txt",
+   "x": 6.14,
+   "y": 50.2,
+   "w": 15.0,
+   "size": 1.7,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Van Nostrand/Reinhold"
+  },
+  {
+   "k": "txt",
+   "x": 29.1,
+   "y": 50.2,
+   "w": 8.0,
+   "size": 1.7,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Volume"
+  },
+  {
+   "k": "txt",
+   "x": 28.6,
+   "y": 51.95,
+   "w": 8.0,
+   "size": 1.7,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "text": "4"
+  },
+  {
+   "k": "txt",
+   "x": 37.8,
+   "y": 50.3,
+   "w": 60.0,
+   "size": 1.7,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Color 1",
+   "link": "Color 1"
+  },
+  {
+   "k": "txt",
+   "x": 37.8,
+   "y": 52.05,
+   "w": 60.0,
+   "size": 1.7,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Graphic Exercises",
+   "link": "Graphic Exercises"
+  },
+  {
+   "k": "txt",
+   "x": 37.8,
+   "y": 53.8,
+   "w": 60.0,
+   "size": 1.7,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Dimensional Design",
+   "link": "Dimensional Design"
+  },
+  {
+   "k": "art",
+   "x": 5.69,
+   "y": 71.7,
+   "w": 29.93,
+   "h": 24.2
+  },
+  {
+   "k": "art",
+   "x": 37.36,
+   "y": 71.7,
+   "w": 28.76,
+   "h": 24.2
+  },
+  {
+   "k": "art",
+   "x": 67.87,
+   "y": 71.7,
+   "w": 29.86,
+   "h": 24.2
+  },
+  {
+   "k": "txt",
+   "x": 6.14,
+   "y": 97.2,
+   "w": 20.0,
+   "size": 1.7,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Manfred Maier"
+  },
+  {
+   "k": "txt",
+   "x": 38.0,
+   "y": 96.9,
+   "w": 59.0,
+   "size": 1.7,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "The Foundation Program at the School of Design"
+  },
+  {
+   "k": "txt",
+   "x": 38.0,
+   "y": 98.4,
+   "w": 59.0,
+   "size": 1.7,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "Basel, Switzerland"
+  }
+ ]
+}

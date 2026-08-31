@@ -1,0 +1,60 @@
+{
+ "v": 4,
+ "p": 46,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.81,
+   "y": 3.4,
+   "w": 29.4,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Corresponding to his abilities, each student creates as many different solutions as possible (at least 15 to 20). Expected solutions designed through spontaneous experiments form the foundation for a general definition of criteria and for differentiation within the functional limitations: false or unclear solutions are fundamental in understanding the different processes and lead to unequivocal solutions. In each solution the formal character of the manipulation should be uniform; combinations are justified only if they serve the intended function. Variations on a single solution do not count as different solutions. Three-dimensional designs or changes merely of surface structure are eliminated with reference to the subjects “Dimensional Design” and “Material Study”. After comparing his designs and determining which are clear solutions, the student selects one example as a theme (form model) for the second phase of the exercise."
+   ],
+   "h": 25.47
+  },
+  {
+   "k": "art",
+   "x": 48.91,
+   "y": 2.97,
+   "w": 46.49,
+   "h": 54.14
+  },
+  {
+   "k": "txt",
+   "x": 2.55,
+   "y": 34.05,
+   "w": 29.4,
+   "size": 1.3,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The examples on the right show several solutions by the same student. A few different possibilities of oblique positions and crossings are produced by shifting the strips. The second example in the top row is done by shifting, tearing, and folding. The first and third examples in the third row show simple diagonal and horizontal cutting; in the third example in the second row parts of the strips are removed by tearing. The fourth example in the third row is a borderline case: the thickness of the strip is changed, but the interval of its width is preserved. With the exception of the borderline case, each of these examples could be selected as a form model for the second phase of the exercise. The two examples on the far right were chosen. They are formed by removing parallel cut elements and shifting diagonally cut elements. Selecting two different processes has a complicated effect on the sequel."
+   ],
+   "h": 24.28
+  },
+  {
+   "k": "art",
+   "x": 2.3,
+   "y": 76.46,
+   "w": 92.59,
+   "h": 18.24
+  },
+  {
+   "k": "txt",
+   "x": 2.24,
+   "y": 95.62,
+   "w": 6.0,
+   "size": 1.2,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "44"
+  }
+ ]
+}

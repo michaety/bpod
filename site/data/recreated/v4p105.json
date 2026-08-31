@@ -1,0 +1,60 @@
+{
+ "v": 4,
+ "p": 105,
+ "bg": "#e9e9e0",
+ "el": [
+  {
+   "k": "art",
+   "x": 5.47,
+   "y": 2.36,
+   "w": 46.58,
+   "h": 35.58
+  },
+  {
+   "k": "art",
+   "x": 53.94,
+   "y": 3.34,
+   "w": 45.6,
+   "h": 35.09
+  },
+  {
+   "k": "art",
+   "x": 5.02,
+   "y": 39.26,
+   "w": 46.58,
+   "h": 34.99
+  },
+  {
+   "k": "art",
+   "x": 53.55,
+   "y": 39.71,
+   "w": 45.41,
+   "h": 34.59
+  },
+  {
+   "k": "txt",
+   "x": 4.56,
+   "y": 88.6,
+   "w": 30.5,
+   "size": 1.36,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "These four examples are from an exercise in which opaque or transparent plexiglass elements are deformed through heating and tension, pressure, or tortion. They are organized rhythmically into simple compositions."
+   ],
+   "h": 6.04
+  },
+  {
+   "k": "txt",
+   "x": 92.37,
+   "y": 96.36,
+   "w": 6.0,
+   "size": 1.35,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "103"
+  }
+ ]
+}

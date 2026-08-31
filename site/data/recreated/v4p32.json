@@ -1,0 +1,116 @@
+{
+ "v": 4,
+ "p": 32,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.92,
+   "y": 3.84,
+   "w": 29.18,
+   "h": 22.47
+  },
+  {
+   "k": "art",
+   "x": 33.08,
+   "y": 3.36,
+   "w": 29.63,
+   "h": 22.67
+  },
+  {
+   "k": "art",
+   "x": 64.81,
+   "y": 2.97,
+   "w": 29.95,
+   "h": 22.67
+  },
+  {
+   "k": "art",
+   "x": 1.98,
+   "y": 27.72,
+   "w": 29.57,
+   "h": 22.62
+  },
+  {
+   "k": "art",
+   "x": 33.4,
+   "y": 27.53,
+   "w": 29.5,
+   "h": 22.42
+  },
+  {
+   "k": "art",
+   "x": 64.94,
+   "y": 27.19,
+   "w": 30.01,
+   "h": 22.62
+  },
+  {
+   "k": "txt",
+   "x": 2.3,
+   "y": 51.75,
+   "w": 29.5,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The change of proportions is effected on a finely divided grid, a useful instrument for determining clear, unequivocal proportional relationships. Even with great changes of sequence and proportion the clear value relationship of the original gradation produces a positive effect."
+   ],
+   "h": 7.42
+  },
+  {
+   "k": "art",
+   "x": 33.72,
+   "y": 51.65,
+   "w": 29.5,
+   "h": 22.42
+  },
+  {
+   "k": "art",
+   "x": 65.2,
+   "y": 51.46,
+   "w": 30.08,
+   "h": 22.62
+  },
+  {
+   "k": "txt",
+   "x": 2.49,
+   "y": 73.54,
+   "w": 29.4,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In this exercise five gray values in the same progression from white to black are mixed and stored in jars. They form the foundation for an investigation into value contrast. In the first exercise colors are investigated according to the kind of contrast. Here, the amount of the difference is investigated within the contrast. The five values are synchronized into a series with optically equal intervals. Quantity contrast adds a new factor to the three analyzed color contrasts. It has an essential influence on the appearance and harmony of colors. The relationship between quantity and value of a color can be observed: i.e., the possibility of strengthening or weakening the existing contrasts through a change of proportions. A change of sequence also produces a weight shift in the values of the different colors."
+   ],
+   "h": 21.76
+  },
+  {
+   "k": "txt",
+   "x": 33.91,
+   "y": 88.76,
+   "w": 29.12,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The row of examples show, above, a change in the original sequence but with the same proportions; center, a change of proportions within the original sequence; below, simultaneous change of sequence and proportions."
+   ],
+   "h": 5.98
+  },
+  {
+   "k": "txt",
+   "x": 2.68,
+   "y": 96.21,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "30"
+  }
+ ]
+}

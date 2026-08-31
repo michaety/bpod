@@ -7,45 +7,58 @@
    "k": "txt",
    "x": 2.96,
    "y": 4.02,
-   "w": 30.9,
-   "size": 1.35,
+   "w": 30.43,
+   "size": 1.37,
    "style": "body",
    "align": "left",
    "weight": "bold",
    "paras": [
     "Further exercises on the theme transparency supplement and expand the results achieved with tracing paper. The studies shown here were done with transparent plastic. The students are free to choose their own materials and working methods.",
-    "In the following example folded strips of plastic are looped like textiles. The thickness of the material and the looping produce a gradual differentiated effect through the transparency and surface reflections of various lights.",
-    "The examples on the right-hand page show, above, plastic scratched, partially torn with a sharp object (nail, needle, or knife), and placed on a light and a dark background; below, overlapping layers of scrumpled plastic under different lights."
+    "In the following example folded strips of plastic are looped like textiles. The thickness of the material and the looping produce a gradual differentiated effect through the transparency and surface reflections of various lights."
    ],
    "h": 6.99
   },
   {
-   "k": "art",
-   "x": 35.18,
-   "y": 3.86,
-   "w": 62.87,
-   "h": 47.21
+   "k": "txt",
+   "x": 2.96,
+   "y": 12.23,
+   "w": 30.35,
+   "size": 1.37,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The examples on the right-hand page show, above, plastic scratched, partially torn with a sharp object (nail, needle, or knife), and placed on a light and a dark background; below, overlapping layers of scrumpled plastic under different lights."
+   ],
+   "h": 5.97
   },
   {
    "k": "art",
-   "x": 35.18,
-   "y": 52.36,
-   "w": 30.57,
-   "h": 22.75
+   "x": 35.47,
+   "y": 4.08,
+   "w": 62.58,
+   "h": 46.89
   },
   {
    "k": "art",
-   "x": 67.48,
-   "y": 52.36,
-   "w": 30.57,
-   "h": 22.75
+   "x": 35.47,
+   "y": 52.63,
+   "w": 30.21,
+   "h": 22.48
+  },
+  {
+   "k": "art",
+   "x": 67.92,
+   "y": 52.63,
+   "w": 30.14,
+   "h": 22.48
   },
   {
    "k": "txt",
-   "x": 2.73,
-   "y": 96.4,
+   "x": 3.1,
+   "y": 97.05,
    "w": 6.0,
-   "size": 1.3,
+   "size": 1.35,
    "style": "folio",
    "align": "left",
    "weight": "normal",

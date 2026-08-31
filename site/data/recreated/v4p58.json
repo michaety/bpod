@@ -1,0 +1,46 @@
+{
+ "v": 4,
+ "p": 58,
+ "bg": "#ecebe3",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.94,
+   "y": 3.55,
+   "w": 30.2,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "These variations contain elements that do not correspond to the exact definition of the theme: for example, the fifth example in the third row utilizes simple diagonal cuts, while all the variations as the first example in the second row utilize double oblique cuts. Both methods are possible but incompatible solutions to a larger differentiation of the first phase of the exercise. The scheme below shows the organization of these pieces and the position of the row selected for completion."
+   ],
+   "h": 13.25
+  },
+  {
+   "k": "art",
+   "x": 48.4,
+   "y": 3.21,
+   "w": 47.32,
+   "h": 91.68
+  },
+  {
+   "k": "art",
+   "x": 2.17,
+   "y": 66.97,
+   "w": 42.72,
+   "h": 26.75
+  },
+  {
+   "k": "txt",
+   "x": 1.98,
+   "y": 95.82,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "56"
+  }
+ ]
+}
