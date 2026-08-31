@@ -1,0 +1,81 @@
+{
+ "v": 3,
+ "p": 64,
+ "bg": "#7e7d75",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.88,
+   "y": 3.0,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 35.18,
+   "y": 3.43,
+   "w": 62.87,
+   "h": 46.78
+  },
+  {
+   "k": "art",
+   "x": 2.88,
+   "y": 27.47,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "txt",
+   "x": 2.74,
+   "y": 74.41,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The creative possibilities of traditional embroidery techniques are examined in elementary exercises independent from decorative usable objects. Appropriate support materials are embroidered partially or completely with varying thread qualities and colors. The abundance of materials, colors, and techniques requires limitations in the initial exercises. Fundamentally, the resulting textured surfaces and forms are developed by interrelating elementary embroidery techniques and the actual characteristics of the materials."
+   ],
+   "h": 14.39
+  },
+  {
+   "k": "txt",
+   "x": 2.74,
+   "y": 89.54,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The small illustrations show, above, altering a screen net with running stitches and black wool; below, a composition with running stitches and various natural-colored materials on burlap."
+   ],
+   "h": 4.83
+  },
+  {
+   "k": "txt",
+   "x": 35.04,
+   "y": 89.7,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "This free monochromatic composition exhibits loose backstitching in white wool on linen fabric."
+   ],
+   "h": 2.27
+  },
+  {
+   "k": "txt",
+   "x": 2.9,
+   "y": 96.3,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "62"
+  }
+ ]
+}

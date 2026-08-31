@@ -1,0 +1,76 @@
+{
+ "v": 3,
+ "p": 63,
+ "bg": "#878780",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.88,
+   "y": 3.22,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Manipulated structures are further changed by adding different threads in various techniques.",
+    "On the left-hand page different natural-colored materials and altered structures characterize an experimental piece with distinct additions through different registration techniques. This and the three studies are preliminary steps for the composition on this page."
+   ],
+   "h": 2.22
+  },
+  {
+   "k": "art",
+   "x": 47.6,
+   "y": 3.0,
+   "w": 50.4,
+   "h": 45.3
+  },
+  {
+   "k": "txt",
+   "x": 2.81,
+   "y": 6.71,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In the example above the surface of the various natural-colored materials was created with different densities and quantities of looping.",
+    "The example below shows sewn thread bundles originating from the burlap support underneath."
+   ],
+   "h": 13.36
+  },
+  {
+   "k": "art",
+   "x": 47.9,
+   "y": 49.6,
+   "w": 49.0,
+   "h": 43.1
+  },
+  {
+   "k": "txt",
+   "x": 2.74,
+   "y": 71.51,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The three photographs on the left show different registration techniques: from left to right; loop stitches, weaving, and wrapping thread groups."
+   ],
+   "h": 3.47
+  },
+  {
+   "k": "txt",
+   "x": 92.0,
+   "y": 96.0,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "61"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "v": 3,
+ "p": 53,
+ "bg": "#878680",
+ "el": [
+  {
+   "k": "art",
+   "x": 36.91,
+   "y": 3.0,
+   "w": 60.56,
+   "h": 45.55
+  },
+  {
+   "k": "art",
+   "x": 36.91,
+   "y": 48.8,
+   "w": 60.56,
+   "h": 45.2
+  },
+  {
+   "k": "txt",
+   "x": 2.31,
+   "y": 75.7,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Different textiles and other materials are worked with simple braiding techniques; mostly, thread into bands and surfaces. These are organized into textured surfaces with and without open spaces or through incorporating open spaces and branching the bands or threads, crossing-uniting, and again braiding into surfaces. The color selection is limited to one or two areas. In advanced exercises the students work with techniques requiring two and three braiding directions.",
+    "In the following two examples various types of threads are braided and formed into surfaces. Open spaces and branching bands allow crossing and penetration."
+   ],
+   "h": 13.19
+  },
+  {
+   "k": "txt",
+   "x": 92.0,
+   "y": 96.0,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "51"
+  }
+ ]
+}

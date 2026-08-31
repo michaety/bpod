@@ -1,0 +1,74 @@
+{
+ "v": 3,
+ "p": 55,
+ "bg": "#888882",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.31,
+   "y": 3.86,
+   "w": 46.72,
+   "h": 34.76
+  },
+  {
+   "k": "art",
+   "x": 50.76,
+   "y": 3.86,
+   "w": 46.72,
+   "h": 34.76
+  },
+  {
+   "k": "art",
+   "x": 2.31,
+   "y": 39.91,
+   "w": 46.72,
+   "h": 34.76
+  },
+  {
+   "k": "art",
+   "x": 50.76,
+   "y": 39.91,
+   "w": 46.72,
+   "h": 34.76
+  },
+  {
+   "k": "txt",
+   "x": 2.52,
+   "y": 88.04,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Braiding from three directions: a 45° angle, instead of 60°, allows registration in two directions."
+   ],
+   "h": 2.16
+  },
+  {
+   "k": "txt",
+   "x": 51.05,
+   "y": 88.04,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Shown are two examples of braiding nontextile materials: above, plant elements; below, partially worked strips of plastic."
+   ],
+   "h": 3.47
+  },
+  {
+   "k": "txt",
+   "x": 92.0,
+   "y": 96.0,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "53"
+  }
+ ]
+}

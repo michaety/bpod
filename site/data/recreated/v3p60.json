@@ -1,0 +1,102 @@
+{
+ "v": 3,
+ "p": 60,
+ "bg": "#7e7c75",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.46,
+   "y": 3.43,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 35.76,
+   "y": 3.43,
+   "w": 62.87,
+   "h": 47.21
+  },
+  {
+   "k": "art",
+   "x": 3.46,
+   "y": 27.9,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "txt",
+   "x": 3.6,
+   "y": 52.04,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Two horizontal-vertical compositions are created by changing the texture of the original fabric."
+   ],
+   "h": 2.27
+  },
+  {
+   "k": "txt",
+   "x": 36.05,
+   "y": 52.04,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In this organic composition, based on a rhythmically free technique, the structure of the fabric was partially fragmented."
+   ],
+   "h": 3.47
+  },
+  {
+   "k": "txt",
+   "x": 3.6,
+   "y": 67.38,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The photographs on these pages show how the structure of a material can be altered with simple tools."
+   ],
+   "h": 3.24
+  },
+  {
+   "k": "art",
+   "x": 3.46,
+   "y": 72.1,
+   "w": 30.57,
+   "h": 22.32
+  },
+  {
+   "k": "art",
+   "x": 36.34,
+   "y": 72.1,
+   "w": 29.99,
+   "h": 22.32
+  },
+  {
+   "k": "art",
+   "x": 68.64,
+   "y": 71.67,
+   "w": 29.99,
+   "h": 22.75
+  },
+  {
+   "k": "txt",
+   "x": 2.9,
+   "y": 96.3,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "58"
+  }
+ ]
+}

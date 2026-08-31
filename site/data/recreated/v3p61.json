@@ -1,0 +1,74 @@
+{
+ "v": 3,
+ "p": 61,
+ "bg": "#878780",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.31,
+   "y": 3.0,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 34.61,
+   "y": 3.0,
+   "w": 62.87,
+   "h": 46.78
+  },
+  {
+   "k": "art",
+   "x": 2.31,
+   "y": 27.04,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "txt",
+   "x": 2.31,
+   "y": 51.56,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In these three examples the original material is drawn together by partially extracting single threads into relieflike folds."
+   ],
+   "h": 3.3
+  },
+  {
+   "k": "art",
+   "x": 2.31,
+   "y": 71.24,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 34.61,
+   "y": 71.67,
+   "w": 30.57,
+   "h": 21.89
+  },
+  {
+   "k": "art",
+   "x": 67.48,
+   "y": 71.24,
+   "w": 29.99,
+   "h": 22.75
+  },
+  {
+   "k": "txt",
+   "x": 92.0,
+   "y": 96.0,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "59"
+  }
+ ]
+}

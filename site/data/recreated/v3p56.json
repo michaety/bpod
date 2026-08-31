@@ -1,0 +1,85 @@
+{
+ "v": 3,
+ "p": 56,
+ "bg": "#7e7e77",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.46,
+   "y": 3.86,
+   "w": 29.99,
+   "h": 23.18
+  },
+  {
+   "k": "art",
+   "x": 35.76,
+   "y": 3.86,
+   "w": 29.99,
+   "h": 23.18
+  },
+  {
+   "k": "art",
+   "x": 68.06,
+   "y": 3.86,
+   "w": 30.57,
+   "h": 23.18
+  },
+  {
+   "k": "art",
+   "x": 3.46,
+   "y": 28.33,
+   "w": 29.99,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 35.76,
+   "y": 28.33,
+   "w": 29.99,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 68.06,
+   "y": 28.33,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "txt",
+   "x": 3.32,
+   "y": 66.09,
+   "w": 60.49,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In the following exercises elementary knotting techniques are examined with various materials. They are independent from decorative, usable articles, especially in the well-known macrame technique. The subtle knotting formations develop manual dexterity. The resulting formal elements are organized into a composition or joined into a netlike surface."
+   ],
+   "h": 9.55
+  },
+  {
+   "k": "txt",
+   "x": 35.8,
+   "y": 65.9,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "text": "The above studies show formal elements created with knotting techniques and partially worked with more than two thread pairs."
+  },
+  {
+   "k": "txt",
+   "x": 2.9,
+   "y": 96.3,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "54"
+  }
+ ]
+}
