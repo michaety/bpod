@@ -1,0 +1,67 @@
+{
+ "v": 3,
+ "p": 41,
+ "bg": "#8c8b85",
+ "el": [
+  {
+   "k": "art",
+   "x": 1.6,
+   "y": 4.0,
+   "w": 62.4,
+   "h": 46.9
+  },
+  {
+   "k": "art",
+   "x": 66.33,
+   "y": 4.29,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 66.33,
+   "y": 28.33,
+   "w": 29.99,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 1.15,
+   "y": 52.79,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 67.48,
+   "y": 53.22,
+   "w": 26.53,
+   "h": 21.46
+  },
+  {
+   "k": "txt",
+   "x": 65.9,
+   "y": 89.91,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Above, disposable veneered wood, with a natural defect, is laminated and mounted as a relief; center, split pieces of wood are diagonally mounted in a frame; below, decaying pieces of wood are worked into a compact composition."
+   ],
+   "h": 5.79
+  },
+  {
+   "k": "txt",
+   "x": 92.0,
+   "y": 96.3,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "39"
+  }
+ ]
+}

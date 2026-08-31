@@ -1,0 +1,40 @@
+{
+ "v": 3,
+ "p": 42,
+ "bg": "#807f7a",
+ "el": [
+  {
+   "k": "art",
+   "x": 3.24,
+   "y": 3.65,
+   "w": 65.97,
+   "h": 69.3
+  },
+  {
+   "k": "txt",
+   "x": 38.57,
+   "y": 82.19,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In exercises on the theme fluidity students must find the appropriate working means, raw materials, and compositions on different bases. Some choices are: water-color paper, textiles, colorless liquids, and watery, oily materials of all kinds. Controlling chance necessitates extremely alert and quick reactions.",
+    "The working process is visible in the above example of flowing candle wax on an aluminum surface."
+   ],
+   "h": 8.42
+  },
+  {
+   "k": "txt",
+   "x": 2.9,
+   "y": 96.3,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "40"
+  }
+ ]
+}

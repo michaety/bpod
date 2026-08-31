@@ -1,0 +1,75 @@
+{
+ "v": 3,
+ "p": 40,
+ "bg": "#7e7d78",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.31,
+   "y": 3.86,
+   "w": 62.87,
+   "h": 47.21
+  },
+  {
+   "k": "art",
+   "x": 66.91,
+   "y": 3.86,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 66.91,
+   "y": 28.33,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 67.48,
+   "y": 52.36,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "txt",
+   "x": 35.18,
+   "y": 86.16,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "Wood offers abundant stimulation and can be manipulated into many different forms by planing, sawing, splitting, burning, and polishing.",
+    "In the above three examples a piece of wood is cut into uniform pieces, shifted, interchanged, and combined. The grain structure produces an interesting graphic rhythm."
+   ],
+   "h": 9.67
+  },
+  {
+   "k": "txt",
+   "x": 67.48,
+   "y": 90.67,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The three examples show different effects achieved from simple working techniques with pieces of compression board."
+   ],
+   "h": 3.53
+  },
+  {
+   "k": "txt",
+   "x": 2.9,
+   "y": 96.3,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "38"
+  }
+ ]
+}

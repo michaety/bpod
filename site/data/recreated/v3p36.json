@@ -1,0 +1,81 @@
+{
+ "v": 3,
+ "p": 36,
+ "bg": "#7e7d77",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.31,
+   "y": 3.86,
+   "w": 62.87,
+   "h": 46.78
+  },
+  {
+   "k": "art",
+   "x": 67.48,
+   "y": 3.86,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 67.48,
+   "y": 28.33,
+   "w": 29.99,
+   "h": 22.75
+  },
+  {
+   "k": "txt",
+   "x": 2.52,
+   "y": 52.47,
+   "w": 30.9,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Holes are burned into the folded, overlapped plastic layers. The three examples show the same work under different illuminations against a dark background. The reflections almost disappear when a counter light is used."
+   ],
+   "h": 6.26
+  },
+  {
+   "k": "txt",
+   "x": 2.52,
+   "y": 68.88,
+   "w": 30.9,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Raw materials are cut and worked under simple conditions."
+   ],
+   "h": 2.05
+  },
+  {
+   "k": "art",
+   "x": 2.31,
+   "y": 72.53,
+   "w": 30.57,
+   "h": 22.32
+  },
+  {
+   "k": "art",
+   "x": 34.61,
+   "y": 72.53,
+   "w": 30.57,
+   "h": 22.32
+  },
+  {
+   "k": "txt",
+   "x": 2.4,
+   "y": 96.4,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "34"
+  }
+ ]
+}

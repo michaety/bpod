@@ -1,0 +1,45 @@
+{
+ "v": 3,
+ "p": 44,
+ "bg": "#807f7a",
+ "el": [
+  {
+   "k": "txt",
+   "x": 2.7,
+   "y": 3.7,
+   "w": 30.9,
+   "size": 1.35,
+   "style": "heading",
+   "align": "left",
+   "weight": "bold",
+   "text": "Textile Design",
+   "link": "Textile Design"
+  },
+  {
+   "k": "txt",
+   "x": 3.03,
+   "y": 16.15,
+   "w": 30.9,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The knowledge of textiles acquired by the students in previous handicraft courses is minimal, usually limited to the reproduction of decorative objects in which the technique is used to define the object and not as a creative medium.",
+    "The aim of this course is to discover expressive rhythmical qualities of various textile materials; the interrelation of texture, color, and form; and the adequate techniques. Particular techniques (embroidery, weaving, knotting, macramè, looping, tie-dyeing, appliqué) are studied by working with the appropriate equipment: simple tools, wedged frames, and improvised dyebaths. The course is not structured towards a theoretical and systematic study of textile technology: techniques are used as practical media in the design process and as means of individual expression. Through spontaneous experimentation with simple instruments (needles, reamers, scissors, and knives) possibilities of manipulating materials and procedures are investigated to the point of distortion. The wide selection of materials includes more than a thousand colors and dozens of different qualities, from expensive silk to burlap and disposables. The abundance of raw materials, their characteristics, and design principles discovered in preliminary exercises, provide a basis for independent design decisions concerning choices of material and method. Possible solutions, based on the interrelationship of texture, color, form, and material, are also investigated. During each exercise material samples are done, and possible design variations are worked out. They are compared and evaluated, and the most successful variations are chosen for further development. The final results are also discussed and evaluated, and the understanding and experience gained through this working process further each student's manual ability, optical and tactile sensitivity, independent judgment on design principles, and facility in relating these principles to material and technique."
+   ],
+   "h": 4.72
+  },
+  {
+   "k": "txt",
+   "x": 2.9,
+   "y": 96.3,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "42"
+  }
+ ]
+}

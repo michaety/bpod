@@ -1,0 +1,74 @@
+{
+ "v": 3,
+ "p": 37,
+ "bg": "#8a8983",
+ "el": [
+  {
+   "k": "txt",
+   "x": 1.8,
+   "y": 4.08,
+   "w": 31.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "The pictures here and on the following two pages show exercises on the theme combinations of diverse materials into a new unity. This theme occurs consciously in our everyday lives—for example, in clothing. Numerous unforeseeable optical and tactile combinations and compositions are produced through the free selection of materials and techniques. The experience from the previous exercises with themes such as matte-shinny, color as material, etc., is integrated in this problem situation."
+   ],
+   "h": 13.42
+  },
+  {
+   "k": "art",
+   "x": 36.34,
+   "y": 3.86,
+   "w": 60.56,
+   "h": 45.2
+  },
+  {
+   "k": "txt",
+   "x": 1.8,
+   "y": 44.8,
+   "w": 31.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Corrugated cardboard, crepe packing paper, roofing felt, and plywood are combined in this horizontally-vertically textured composition by tearing and breaking the materials."
+   ],
+   "h": 4.78
+  },
+  {
+   "k": "art",
+   "x": 36.34,
+   "y": 49.7,
+   "w": 60.56,
+   "h": 45.58
+  },
+  {
+   "k": "txt",
+   "x": 1.73,
+   "y": 92.01,
+   "w": 31.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Two different textiles are joined through sowing. The dominant diagonal is balanced by the counter-movement of the threads."
+   ],
+   "h": 3.24
+  },
+  {
+   "k": "txt",
+   "x": 92.0,
+   "y": 96.0,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "35"
+  }
+ ]
+}
