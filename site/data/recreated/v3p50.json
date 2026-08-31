@@ -1,0 +1,123 @@
+{
+ "v": 3,
+ "p": 50,
+ "bg": "#7e7d77",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.88,
+   "y": 3.86,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 35.18,
+   "y": 3.86,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 67.48,
+   "y": 3.86,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 2.88,
+   "y": 27.9,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 35.18,
+   "y": 27.9,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 67.48,
+   "y": 27.9,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "txt",
+   "x": 2.96,
+   "y": 52.25,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In contrast to the preceding exercises, in which the materials were used unchanged, here the structure of the thread is partially changed. In individual studies various techniques are discovered (tightening, untwisting, knotting, spinning, tearing, cutting, and unraveling). Needles, knives, scissors, and other simple tools are used. Organized compositions are structured with discovered formal elements and rhythmically textured surfaces. The examples here and on the following page show the results with natural-colored materials."
+   ],
+   "h": 14.39
+  },
+  {
+   "k": "txt",
+   "x": 35.4,
+   "y": 52.31,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The above studies are produced with cutting-knotting, knotting, unraveling-free looping, partially untwisting, and various looping techniques."
+   ],
+   "h": 3.47
+  },
+  {
+   "k": "txt",
+   "x": 67.84,
+   "y": 67.54,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "From left to right, the three photographs document simple working techniques, such as knotting, untwisting, cutting and tearing."
+   ],
+   "h": 3.41
+  },
+  {
+   "k": "art",
+   "x": 3.46,
+   "y": 72.1,
+   "w": 29.99,
+   "h": 22.32
+  },
+  {
+   "k": "art",
+   "x": 35.18,
+   "y": 72.1,
+   "w": 30.57,
+   "h": 22.32
+  },
+  {
+   "k": "art",
+   "x": 68.06,
+   "y": 72.1,
+   "w": 29.99,
+   "h": 22.32
+  },
+  {
+   "k": "txt",
+   "x": 2.9,
+   "y": 96.3,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "48"
+  }
+ ]
+}

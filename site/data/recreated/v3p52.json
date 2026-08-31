@@ -1,0 +1,60 @@
+{
+ "v": 3,
+ "p": 52,
+ "bg": "#7d7d77",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.88,
+   "y": 3.43,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 35.18,
+   "y": 3.43,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 68.06,
+   "y": 3.43,
+   "w": 29.99,
+   "h": 22.32
+  },
+  {
+   "k": "txt",
+   "x": 3.24,
+   "y": 34.5,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The above textures are produced by gluing worked threads to cardboard squares. They are preliminary studies for the composition, below, of different sizes, textured surfaces, and thread bindings."
+   ],
+   "h": 5.97
+  },
+  {
+   "k": "art",
+   "x": 3.6,
+   "y": 41.5,
+   "w": 92.9,
+   "h": 51.9
+  },
+  {
+   "k": "txt",
+   "x": 2.9,
+   "y": 96.3,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "50"
+  }
+ ]
+}

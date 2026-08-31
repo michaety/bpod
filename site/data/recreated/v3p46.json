@@ -1,0 +1,88 @@
+{
+ "v": 3,
+ "p": 46,
+ "bg": "#7f7e78",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.88,
+   "y": 3.43,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 35.76,
+   "y": 3.43,
+   "w": 29.99,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 68.06,
+   "y": 3.43,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 3.46,
+   "y": 27.9,
+   "w": 29.99,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 35.76,
+   "y": 27.9,
+   "w": 29.99,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 68.06,
+   "y": 27.9,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "txt",
+   "x": 3.39,
+   "y": 82.19,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "In the following exercises textures are produced by wrapping the cardboard elements with natural threads available in many qualities and colors. Various densities are achieved by parallel, diagonal, horizontal-vertical wrapping as well as criss-cross wrapping with two threads. Creative alternatives are developed by manipulating the materials, colors, combinations, quantities, rhythms, and working methods. Textural values appearances are examined in many single studies and applied to elementary compositions."
+   ],
+   "h": 13.42
+  },
+  {
+   "k": "txt",
+   "x": 35.83,
+   "y": 82.19,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "The pictures show studies in which textural values are created with different natural-colored threads and various dense and parallel wrappings."
+   ],
+   "h": 3.47
+  },
+  {
+   "k": "txt",
+   "x": 2.9,
+   "y": 96.3,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "44"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "v": 3,
+ "p": 45,
+ "bg": "#8a8a84",
+ "el": [
+  {
+   "k": "art",
+   "x": 36.34,
+   "y": 3.0,
+   "w": 60.56,
+   "h": 45.6
+  },
+  {
+   "k": "txt",
+   "x": 1.37,
+   "y": 49.41,
+   "w": 31.22,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "bold",
+   "paras": [
+    "A feeling for different textile materials is developed at the beginning of the working process through simple comparative exercises in texture values. Cardboard elements (stripes and squares) are covered with collected fabrics, clothing, and decorator remnants. The different textures are optically and tactually explored through overlapping and combining different fabrics, and single elements are compared and structured into a composition. In these exercises monochrome materials are predominantly used so that the appearance of the textile is not confused with the color."
+   ],
+   "h": 15.98
+  },
+  {
+   "k": "art",
+   "x": 36.34,
+   "y": 49.25,
+   "w": 60.56,
+   "h": 45.2
+  },
+  {
+   "k": "txt",
+   "x": 1.59,
+   "y": 85.25,
+   "w": 31.0,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "In the top example numerous identical cardboard squares are wrapped one or more in layers of different white fabrics. The composition is achieved by interchanging the square elements. The example below shows a free composition: contrasts and divisions of the surface are created with different layers of material, textures, and directions."
+   ],
+   "h": 9.5
+  },
+  {
+   "k": "txt",
+   "x": 92.0,
+   "y": 96.0,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "right",
+   "weight": "normal",
+   "text": "43"
+  }
+ ]
+}

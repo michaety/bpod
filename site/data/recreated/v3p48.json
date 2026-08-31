@@ -1,0 +1,89 @@
+{
+ "v": 3,
+ "p": 48,
+ "bg": "#7d7c76",
+ "el": [
+  {
+   "k": "art",
+   "x": 2.88,
+   "y": 3.86,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "art",
+   "x": 35.18,
+   "y": 3.43,
+   "w": 62.87,
+   "h": 47.21
+  },
+  {
+   "k": "art",
+   "x": 2.88,
+   "y": 27.9,
+   "w": 30.57,
+   "h": 22.75
+  },
+  {
+   "k": "txt",
+   "x": 3.24,
+   "y": 52.15,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "caption",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "Students at work with an abundance of available material."
+   ],
+   "h": 1.99
+  },
+  {
+   "k": "txt",
+   "x": 35.62,
+   "y": 52.15,
+   "w": 30.5,
+   "size": 1.35,
+   "style": "body",
+   "align": "left",
+   "weight": "normal",
+   "paras": [
+    "This progressively organized composition was achieved by layering different dark, natural-colored material through horizontal-vertical parallel-wrapping.",
+    "The three examples below exhibit parallel, diagonal, crossed, flat-relief, layered, and single-thread structures."
+   ],
+   "h": 4.72
+  },
+  {
+   "k": "art",
+   "x": 3.46,
+   "y": 72.1,
+   "w": 29.99,
+   "h": 22.32
+  },
+  {
+   "k": "art",
+   "x": 35.76,
+   "y": 72.1,
+   "w": 29.99,
+   "h": 22.32
+  },
+  {
+   "k": "art",
+   "x": 68.06,
+   "y": 72.1,
+   "w": 29.99,
+   "h": 22.32
+  },
+  {
+   "k": "txt",
+   "x": 2.9,
+   "y": 96.0,
+   "w": 6.0,
+   "size": 1.3,
+   "style": "folio",
+   "align": "left",
+   "weight": "normal",
+   "text": "46"
+  }
+ ]
+}
