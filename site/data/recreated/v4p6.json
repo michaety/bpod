@@ -28,20 +28,7 @@
     "Joseph Finocchiaro",
     "William Longhauser",
     "Janet Longhauser",
-    "Library of Congress Catalog Card Number"
-   ],
-   "h": 21.64
-  },
-  {
-   "k": "txt",
-   "x": 2.5,
-   "y": 69.75,
-   "w": 30.0,
-   "size": 1.3,
-   "style": "body",
-   "align": "left",
-   "weight": "normal",
-   "paras": [
+    "Library of Congress Catalog Card Number",
     "77-3493",
     "ISBN 0-442-24977-2 (v. 1)",
     "ISBN 0-442-24978-0 (v. 2)",
@@ -49,7 +36,7 @@
     "ISBN 0-442-24980-2 (v. 4)",
     "All rights reserved. No part of this work covered by the copyright hereon may be reproduced or used in any form or by any means—graphic, electronic, or mechanical, including photocopying, recording, taping, or information storage and retrieval systems—without written permission of the publisher."
    ],
-   "h": 7.15
+   "h": 22.07
   },
   {
    "k": "txt",
@@ -224,20 +211,7 @@
    "weight": "normal",
    "paras": [
     "16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1",
-    "Library of Congress Cataloging in Publication Data"
-   ],
-   "h": 2.07
-  },
-  {
-   "k": "txt",
-   "x": 33.8,
-   "y": 74.49,
-   "w": 30.0,
-   "size": 1.3,
-   "style": "body",
-   "align": "left",
-   "weight": "normal",
-   "paras": [
+    "Library of Congress Cataloging in Publication Data",
     "Maier, Manfred",
     "Basic principles of design.",
     "Translation of Elementare Entwurfs- und Gestaltungsprozesse. Die Grundkurse an der Kunstgewerbeschule Basel, Schweiz.",
@@ -245,7 +219,7 @@
     "1. Design—Study and teaching. I. Title",
     "NK1170.M3413   745.4'07   77-3493"
    ],
-   "h": 14.77
+   "h": 2.07
   },
   {
    "k": "txt",

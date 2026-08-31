@@ -26,7 +26,8 @@
    "weight": "bold",
    "paras": [
     "The students' knowledge of color is limited through untested preconceptions and recipes during their previous education. Color is regarded as an expression of personal taste.",
-    "Objective, differentiated knowledge of the appearances, interrelationships, and working criteria of color is the goal of this course. Objectivity is achieved through the observation of color relationships under changing conditions and not through color theory. Within clearly defined limitations interrelations are defined and organized. Perception and experience, a prerequisite for the creative use of color, are developed through continuous comparison and analysis of color qualities and quantities."
+    "Objective, differentiated knowledge of the appearances, interrelationships, and working criteria of color is the goal of this course. Objectivity is achieved through the observation of color relationships under changing conditions and not through color theory. Within clearly defined limitations interrelations are defined and organized. Perception and experience, a prerequisite for the creative use of color, are developed through continuous comparison and analysis of color qualities and quantities.",
+    "The appearance of a color cannot be studied in isolation: it must be seen in relation to other colors. A color exhibits inherent, relative, and changeable qualities due to differences in hue, value, brightness, and its proportion to other colors. A thorough investigation of these relationships (contrasts) is the starting point for this process; the exercises test the appearance of color relationships in complex structures."
    ],
    "h": 3.37
   },
@@ -40,7 +41,7 @@
    "align": "left",
    "weight": "bold",
    "paras": [
-    "The appearance of a color cannot be studied in isolation: it must be seen in relation to other colors. A color exhibits inherent, relative, and changeable qualities due to differences in hue, value, brightness, and its proportion to other colors. A thorough investigation of these relationships (contrasts) is the starting point for this process; the exercises test the appearance of color relationships in complex structures."
+    "In order not to confuse the appearance of color with compositional characteristics, simple forms are chosen: a square format (9 × 9 cm) is subdivided vertically. Formal variation lies in the number and width of the vertical intervals and is more quantitative than qualitative."
    ],
    "h": 11.94
   },
@@ -54,7 +55,7 @@
    "align": "left",
    "weight": "bold",
    "paras": [
-    "In order not to confuse the appearance of color with compositional characteristics, simple forms are chosen: a square format (9 × 9 cm) is subdivided vertically. Formal variation lies in the number and width of the vertical intervals and is more quantitative than qualitative."
+    "Students learn how to mix and apply tempera directly on stretched paper. Uniform, even color application is essential to the study of pure values: brush textures and transparent layers change the appearance of the colors."
    ],
    "h": 9.5
   },
@@ -68,23 +69,9 @@
    "align": "left",
    "weight": "bold",
    "paras": [
-    "Students learn how to mix and apply tempera directly on stretched paper. Uniform, even color application is essential to the study of pure values: brush textures and transparent layers change the appearance of the colors."
-   ],
-   "h": 5.87
-  },
-  {
-   "k": "txt",
-   "x": 69.97,
-   "y": 67.78,
-   "w": 29.84,
-   "size": 1.3,
-   "style": "body",
-   "align": "left",
-   "weight": "bold",
-   "paras": [
     "In addition to practical involvement color theory is explained in a series of lectures."
    ],
-   "h": 4.67
+   "h": 5.87
   },
   {
    "k": "txt",
