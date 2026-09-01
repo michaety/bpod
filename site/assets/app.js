@@ -154,10 +154,20 @@ function fitPageText(pg) {
   });
 }
 
+/* Attach a page's scan only when it is close to the viewport. Every art element
+   on the page reads it through a custom property, so one assignment serves them
+   all, and the other 400-odd scans are never requested. */
+function showScan(pg) {
+  if (pg.dataset.scan && !pg.style.getPropertyValue("--scan")) {
+    pg.style.setProperty("--scan", `url('${pg.dataset.scan}')`);
+  }
+}
+
 const fitObserver = typeof IntersectionObserver !== "undefined"
   ? new IntersectionObserver(entries => {
       for (const en of entries) {
         if (en.isIntersecting) {
+          showScan(en.target);
           fitPageText(en.target);
           fitObserver.unobserve(en.target);
         }
@@ -179,8 +189,9 @@ function renderRecreated(p, rec, q, sectionPages) {
     if (e.k === "art") {
       const bx = e.w >= 100 ? 0 : e.x / (100 - e.w) * 100;
       const by = e.h >= 100 ? 0 : e.y / (100 - e.h) * 100;
+      // the scan itself is attached by the observer below, once the page is near
+      // the viewport - naming it here would fetch all 432 scans up front
       html += `<div class="art" style="left:${e.x}%;top:${e.y}%;width:${e.w}%;height:${e.h}%;
-        background-image:url('${scan}');
         background-size:${(100 / e.w * 100).toFixed(2)}% ${(100 / e.h * 100).toFixed(2)}%;
         background-position:${bx.toFixed(2)}% ${by.toFixed(2)}%"></div>`;
     } else if (e.k === "txt") {
@@ -201,13 +212,14 @@ function renderRecreated(p, rec, q, sectionPages) {
         : `<div class="${cls}" ${data} style="${style}">${inner}</div>`;
     }
   }
+  div.dataset.scan = scan;
   div.innerHTML = html;
   div.addEventListener("click", ev => {
     const a = ev.target.closest("a.rlnk");
     if (a) { ev.preventDefault(); gotoPage(a.dataset.p); }
   });
   if (fitObserver) fitObserver.observe(div);
-  else setTimeout(() => fitPageText(div), 0);
+  else { showScan(div); setTimeout(() => fitPageText(div), 0); }
   return div;
 }
 

@@ -217,7 +217,9 @@ body.nosb #sidebar { display: none; }
 
 /* recreated pages: live type over artwork windowed from the scan */
 .rpage { container-type: inline-size; }
-.rpage .art { position: absolute; background-repeat: no-repeat; }
+/* --scan is set per page by the viewport observer, so a page's artwork is only
+   fetched when the reader is near it */
+.rpage .art { position: absolute; background-repeat: no-repeat; background-image: var(--scan, none); }
 .rpage .rt {
   position: absolute;
   color: var(--ink);
