@@ -159,7 +159,10 @@ function fitPageText(pg) {
    all, and the other 400-odd scans are never requested. */
 function showScan(pg) {
   if (pg.dataset.scan && !pg.style.getPropertyValue("--scan")) {
-    pg.style.setProperty("--scan", `url('${pg.dataset.scan}')`);
+    // absolute: a relative url() inside a custom property resolves against the
+    // stylesheet that substitutes it, not the document
+    const abs = new URL(pg.dataset.scan, document.baseURI).href;
+    pg.style.setProperty("--scan", `url("${abs}")`);
   }
 }
 
