@@ -42,19 +42,30 @@
   },
   {
    "k": "txt",
-   "x": 37.7,
-   "y": 21.4,
+   "x": 37.87,
+   "y": 21.9,
    "w": 40.0,
-   "size": 4.0,
+   "size": 4.1,
    "style": "title",
    "align": "left",
    "weight": "bold",
-   "text": "Basic Principles of Design"
+   "text": "Basic Principles"
   },
   {
    "k": "txt",
-   "x": 6.14,
-   "y": 50.2,
+   "x": 37.87,
+   "y": 25.3,
+   "w": 40.0,
+   "size": 4.1,
+   "style": "title",
+   "align": "left",
+   "weight": "bold",
+   "text": "of Design"
+  },
+  {
+   "k": "txt",
+   "x": 6.08,
+   "y": 50.6,
    "w": 15.0,
    "size": 1.7,
    "style": "body",
@@ -64,8 +75,8 @@
   },
   {
    "k": "txt",
-   "x": 29.1,
-   "y": 50.2,
+   "x": 29.2,
+   "y": 50.6,
    "w": 8.0,
    "size": 1.7,
    "style": "body",
@@ -75,8 +86,8 @@
   },
   {
    "k": "txt",
-   "x": 28.6,
-   "y": 51.95,
+   "x": 29.2,
+   "y": 52.4,
    "w": 8.0,
    "size": 1.7,
    "style": "body",
@@ -86,8 +97,8 @@
   },
   {
    "k": "txt",
-   "x": 37.8,
-   "y": 50.3,
+   "x": 37.7,
+   "y": 50.6,
    "w": 60.0,
    "size": 1.7,
    "style": "body",
@@ -98,8 +109,8 @@
   },
   {
    "k": "txt",
-   "x": 37.8,
-   "y": 52.05,
+   "x": 37.7,
+   "y": 52.4,
    "w": 60.0,
    "size": 1.7,
    "style": "body",
@@ -110,8 +121,8 @@
   },
   {
    "k": "txt",
-   "x": 37.8,
-   "y": 53.8,
+   "x": 37.7,
+   "y": 54.15,
    "w": 60.0,
    "size": 1.7,
    "style": "body",
@@ -122,57 +133,24 @@
   },
   {
    "k": "art",
-   "x": 5.69,
-   "y": 71.7,
-   "w": 29.93,
-   "h": 24.2
+   "x": 5.7,
+   "y": 71.99,
+   "w": 29.45,
+   "h": 22.72
   },
   {
    "k": "art",
-   "x": 37.36,
-   "y": 71.7,
-   "w": 28.76,
-   "h": 24.2
+   "x": 37.18,
+   "y": 72.09,
+   "w": 29.01,
+   "h": 22.52
   },
   {
    "k": "art",
-   "x": 67.87,
-   "y": 71.7,
-   "w": 29.86,
-   "h": 24.2
-  },
-  {
-   "k": "txt",
-   "x": 6.14,
-   "y": 97.2,
-   "w": 20.0,
-   "size": 1.7,
-   "style": "body",
-   "align": "left",
-   "weight": "normal",
-   "text": "Manfred Maier"
-  },
-  {
-   "k": "txt",
-   "x": 38.0,
-   "y": 96.9,
-   "w": 59.0,
-   "size": 1.7,
-   "style": "body",
-   "align": "left",
-   "weight": "normal",
-   "text": "The Foundation Program at the School of Design"
-  },
-  {
-   "k": "txt",
-   "x": 38.0,
-   "y": 98.4,
-   "w": 59.0,
-   "size": 1.7,
-   "style": "body",
-   "align": "left",
-   "weight": "normal",
-   "text": "Basel, Switzerland"
+   "x": 68.21,
+   "y": 72.38,
+   "w": 28.63,
+   "h": 22.04
   }
  ]
 }

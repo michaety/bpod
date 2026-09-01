@@ -7,14 +7,14 @@
    "k": "art",
    "x": 3.24,
    "y": 3.59,
-   "w": 30.25,
+   "w": 30.14,
    "h": 22.61
   },
   {
    "k": "art",
    "x": 35.69,
    "y": 3.59,
-   "w": 30.17,
+   "w": 30.14,
    "h": 22.61
   },
   {
@@ -28,14 +28,14 @@
    "k": "art",
    "x": 3.24,
    "y": 27.92,
-   "w": 30.25,
+   "w": 30.14,
    "h": 22.64
   },
   {
    "k": "art",
    "x": 35.69,
    "y": 27.92,
-   "w": 30.17,
+   "w": 30.14,
    "h": 22.64
   },
   {
@@ -55,7 +55,7 @@
    "align": "left",
    "weight": "bold",
    "paras": [
-    "In the following exercises textures are produced by wrapping the cardboard elements with natural threads available in many qualities and colors. Various densities are achieved by parallel, diagonal, horizontal-vertical wrapping as well as criss-cross wrapping with two threads. Creative alternatives are developed by manipulating the materials, colors, combinations, quantities, rhythms, and working methods. Textural values appearances are examined in many single studies and applied to elementary compositions."
+    "In the following exercises textures are produced by wrapping the cardboard elements with natural threads available in many qualities and colors. Various densities are achieved by parallel, diagonal, horizontal-vertical wrapping as well as crisscross wrapping with two threads. Creative alternatives are developed by manipulating the materials, colors, combinations, quantities, rhythms, and working methods. Textural values appearances are examined in many single studies and applied to elementary compositions."
    ],
    "h": 13.42
   },
@@ -65,7 +65,7 @@
    "y": 82.19,
    "w": 30.43,
    "size": 1.35,
-   "style": "caption",
+   "style": "body",
    "align": "left",
    "weight": "normal",
    "paras": [

@@ -5,66 +5,66 @@
  "el": [
   {
    "k": "art",
-   "x": 1.15,
-   "y": 4.27,
-   "w": 28.99,
-   "h": 22.25
+   "x": 0.89,
+   "y": 4.02,
+   "w": 29.44,
+   "h": 22.7
   },
   {
    "k": "art",
-   "x": 32.25,
-   "y": 3.73,
-   "w": 29.31,
-   "h": 22.39
+   "x": 32.12,
+   "y": 3.44,
+   "w": 29.76,
+   "h": 22.9
   },
   {
    "k": "art",
    "x": 63.79,
-   "y": 3.1,
-   "w": 29.76,
-   "h": 22.59
+   "y": 2.76,
+   "w": 29.95,
+   "h": 23.0
   },
   {
    "k": "art",
-   "x": 1.47,
-   "y": 28.16,
-   "w": 28.99,
-   "h": 22.2
+   "x": 1.28,
+   "y": 27.92,
+   "w": 29.37,
+   "h": 22.62
+  },
+  {
+   "k": "art",
+   "x": 32.44,
+   "y": 27.53,
+   "w": 29.76,
+   "h": 22.72
+  },
+  {
+   "k": "art",
+   "x": 63.9,
+   "y": 27.24,
+   "w": 30.14,
+   "h": 22.72
+  },
+  {
+   "k": "art",
+   "x": 1.6,
+   "y": 51.82,
+   "w": 29.31,
+   "h": 22.42
   },
   {
    "k": "art",
    "x": 32.76,
-   "y": 27.73,
-   "w": 29.18,
-   "h": 22.39
+   "y": 51.58,
+   "w": 29.63,
+   "h": 22.52
   },
   {
    "k": "art",
-   "x": 64.05,
-   "y": 27.34,
-   "w": 29.76,
-   "h": 22.49
-  },
-  {
-   "k": "art",
-   "x": 1.72,
-   "y": 51.96,
-   "w": 28.99,
-   "h": 22.25
-  },
-  {
-   "k": "art",
-   "x": 32.89,
-   "y": 51.72,
-   "w": 29.37,
-   "h": 22.3
-  },
-  {
-   "k": "art",
-   "x": 64.37,
-   "y": 51.43,
-   "w": 29.89,
-   "h": 22.59
+   "x": 64.18,
+   "y": 51.33,
+   "w": 30.35,
+   "h": 22.69
   },
   {
    "k": "txt",
@@ -78,7 +78,7 @@
    "paras": [
     "The same format is retained in this exercise. A constant color should be brought into a relationship. The color contrasts analyzed in the first exercises are consciously applied, and interest is created through the contrasting, similar or identical characteristics. Many possible combinations are to be discovered. The student assembles his collection (about 40 to 60) cutout color squares and organizes them according to color tendencies. Groups are arranged from harmonies that are equal in the kind and strength of color contrastes. The examples can be compared only as totalities (syntheses): detailed analysis of the individual relationships among"
    ],
-   "h": 14.86
+   "h": 17.06
   },
   {
    "k": "txt",
@@ -99,7 +99,7 @@
    "k": "txt",
    "x": 65.01,
    "y": 86.33,
-   "w": 29.82,
+   "w": 30.62,
    "size": 1.3,
    "style": "body",
    "align": "left",
@@ -111,8 +111,8 @@
   },
   {
    "k": "txt",
-   "x": 1.98,
-   "y": 93.65,
+   "x": 2.15,
+   "y": 96.07,
    "w": 6.0,
    "size": 1.25,
    "style": "folio",

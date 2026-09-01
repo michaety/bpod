@@ -6,9 +6,9 @@
   {
    "k": "art",
    "x": 3.24,
-   "y": 3.92,
+   "y": 3.7,
    "w": 94.88,
-   "h": 50.11
+   "h": 50.33
   },
   {
    "k": "txt",
@@ -30,7 +30,7 @@
    "y": 88.9,
    "w": 30.7,
    "size": 1.35,
-   "style": "caption",
+   "style": "body",
    "align": "left",
    "weight": "normal",
    "text": "The examples here and on the preceding page show: variations of opaque reds on two different aqueous grounds, differentiated color strokes on a flat, uniform yellow ground, variations on an opaque, flat blue ground."
